@@ -1,6 +1,6 @@
 {
  "schema_version": 1,
- "data_version": "2026.11.17.2",
+ "data_version": "2026.11.17.3",
  "updated_at": "2026-11-17",
  "checkedOn": "Nov 2026",
  "destinations": [
@@ -12208,6 +12208,5337 @@
      "approx": false
     }
    ]
+  },
+  {
+   "id": "delhi",
+   "keys": [
+    "Delhi",
+    "Gurugram",
+    "Noida"
+   ],
+   "searchName": "New Delhi",
+   "hill": false,
+   "lonelyPlanet": "https://www.lonelyplanet.com/destinations/india/delhi",
+   "pros": [
+    {
+     "en": "Three UNESCO sites: Red Fort, Qutub Minar, Humayun’s Tomb",
+     "pa": "ਤਿੰਨ ਯੂਨੈਸਕੋ ਥਾਵਾਂ: ਲਾਲ ਕਿਲ੍ਹਾ, ਕੁਤੁਬ ਮੀਨਾਰ, ਹੁਮਾਯੂੰ ਦਾ ਮਕਬਰਾ",
+     "hi": "तीन यूनेस्को स्थल: लाल किला, कुतुब मीनार, हुमायूँ का मकबरा"
+    },
+    {
+     "en": "The Metro reaches most sights",
+     "pa": "ਮੈਟਰੋ ਜ਼ਿਆਦਾਤਰ ਥਾਵਾਂ ਤੱਕ ਜਾਂਦੀ ਹੈ",
+     "hi": "मेट्रो ज़्यादातर जगहों तक जाती है"
+    },
+    {
+     "en": "Famous street food in Chandni Chowk",
+     "pa": "ਚਾਂਦਨੀ ਚੌਕ ਦਾ ਮਸ਼ਹੂਰ ਸਟ੍ਰੀਟ ਫ਼ੂਡ",
+     "hi": "चांदनी चौक का मशहूर स्ट्रीट फ़ूड"
+    }
+   ],
+   "cons": [
+    {
+     "en": "Smog and poor air in winter (Nov–Jan)",
+     "pa": "ਸਰਦੀਆਂ (ਨਵੰਬਰ–ਜਨਵਰੀ) ਵਿੱਚ ਧੁੰਦ-ਧੂੰਆਂ ਅਤੇ ਖ਼ਰਾਬ ਹਵਾ",
+     "hi": "सर्दियों (नवंबर–जनवरी) में स्मॉग और खराब हवा"
+    },
+    {
+     "en": "Heavy traffic; driving in the city is slow",
+     "pa": "ਭਾਰੀ ਟ੍ਰੈਫ਼ਿਕ; ਸ਼ਹਿਰ ਵਿੱਚ ਗੱਡੀ ਹੌਲੀ ਚੱਲਦੀ ਹੈ",
+     "hi": "भारी ट्रैफ़िक; शहर में गाड़ी धीमी चलती है"
+    },
+    {
+     "en": "Very hot from April to June",
+     "pa": "ਅਪ੍ਰੈਲ ਤੋਂ ਜੂਨ ਤੱਕ ਬਹੁਤ ਗਰਮੀ",
+     "hi": "अप्रैल से जून तक बहुत गर्मी"
+    }
+   ],
+   "rush": [
+    {
+     "en": "October to March is the pleasant season",
+     "pa": "ਅਕਤੂਬਰ ਤੋਂ ਮਾਰਚ ਮੌਸਮ ਸੁਹਾਵਣਾ ਰਹਿੰਦਾ ਹੈ",
+     "hi": "अक्टूबर से मार्च मौसम सुहाना रहता है"
+    },
+    {
+     "en": "Check the air quality (AQI) before visiting in Nov–Jan",
+     "pa": "ਨਵੰਬਰ–ਜਨਵਰੀ ਵਿੱਚ ਜਾਣ ਤੋਂ ਪਹਿਲਾਂ ਹਵਾ ਦੀ ਗੁਣਵੱਤਾ (AQI) ਵੇਖੋ",
+     "hi": "नवंबर–जनवरी में जाने से पहले हवा की गुणवत्ता (AQI) देखें"
+    },
+    {
+     "en": "Red Fort is closed on Mondays",
+     "pa": "ਲਾਲ ਕਿਲ੍ਹਾ ਸੋਮਵਾਰ ਨੂੰ ਬੰਦ ਰਹਿੰਦਾ ਹੈ",
+     "hi": "लाल किला सोमवार को बंद रहता है"
+    }
+   ],
+   "stays": [
+    {
+     "name": {
+      "en": "The Imperial",
+      "pa": "ਦ ਇੰਪੀਰੀਅਲ",
+      "hi": "द इंपीरियल"
+     },
+     "town": {
+      "en": "New Delhi",
+      "pa": "ਨਵੀਂ ਦਿੱਲੀ",
+      "hi": "नई दिल्ली"
+     },
+     "type": "hotel"
+    },
+    {
+     "name": {
+      "en": "The Taj Mahal Hotel, New Delhi",
+      "pa": "ਦ ਤਾਜ ਮਹਿਲ ਹੋਟਲ, ਨਵੀਂ ਦਿੱਲੀ",
+      "hi": "द ताज महल होटल, नई दिल्ली"
+     },
+     "town": {
+      "en": "New Delhi",
+      "pa": "ਨਵੀਂ ਦਿੱਲੀ",
+      "hi": "नई दिल्ली"
+     },
+     "type": "hotel"
+    }
+   ],
+   "restStops": [],
+   "places": [
+    {
+     "name": {
+      "en": "Red Fort",
+      "pa": "ਲਾਲ ਕਿਲ੍ਹਾ",
+      "hi": "लाल किला"
+     },
+     "town": {
+      "en": "Old Delhi",
+      "pa": "ਪੁਰਾਣੀ ਦਿੱਲੀ",
+      "hi": "पुरानी दिल्ली"
+     },
+     "tags": [
+      "heritage"
+     ]
+    },
+    {
+     "name": {
+      "en": "Qutub Minar",
+      "pa": "ਕੁਤੁਬ ਮੀਨਾਰ",
+      "hi": "कुतुब मीनार"
+     },
+     "town": {
+      "en": "Mehrauli",
+      "pa": "ਮਹਿਰੌਲੀ",
+      "hi": "महरौली"
+     },
+     "tags": [
+      "heritage"
+     ]
+    },
+    {
+     "name": {
+      "en": "Humayun’s Tomb",
+      "pa": "ਹੁਮਾਯੂੰ ਦਾ ਮਕਬਰਾ",
+      "hi": "हुमायूँ का मकबरा"
+     },
+     "town": {
+      "en": "Nizamuddin",
+      "pa": "ਨਿਜ਼ਾਮੁੱਦੀਨ",
+      "hi": "निज़ामुद्दीन"
+     },
+     "tags": [
+      "heritage"
+     ]
+    },
+    {
+     "name": {
+      "en": "Akshardham Temple",
+      "pa": "ਅਕਸ਼ਰਧਾਮ ਮੰਦਰ",
+      "hi": "अक्षरधाम मंदिर"
+     },
+     "town": {
+      "en": "Delhi",
+      "pa": "ਦਿੱਲੀ",
+      "hi": "दिल्ली"
+     },
+     "tags": [
+      "religious"
+     ]
+    },
+    {
+     "name": {
+      "en": "Gurdwara Bangla Sahib",
+      "pa": "ਗੁਰਦੁਆਰਾ ਬੰਗਲਾ ਸਾਹਿਬ",
+      "hi": "गुरुद्वारा बंगला साहिब"
+     },
+     "town": {
+      "en": "New Delhi",
+      "pa": "ਨਵੀਂ ਦਿੱਲੀ",
+      "hi": "नई दिल्ली"
+     },
+     "tags": [
+      "religious"
+     ]
+    },
+    {
+     "name": {
+      "en": "Chandni Chowk",
+      "pa": "ਚਾਂਦਨੀ ਚੌਕ",
+      "hi": "चांदनी चौक"
+     },
+     "town": {
+      "en": "Old Delhi",
+      "pa": "ਪੁਰਾਣੀ ਦਿੱਲੀ",
+      "hi": "पुरानी दिल्ली"
+     },
+     "tags": [
+      "food",
+      "heritage"
+     ]
+    }
+   ],
+   "prices": {
+    "hotel": {
+     "min": 2800,
+     "max": 7200,
+     "source": {
+      "en": "Booking.com average for 3–4 star hotels in New Delhi",
+      "pa": "Booking.com 'ਤੇ ਨਵੀਂ ਦਿੱਲੀ ਦੇ 3–4 ਸਟਾਰ ਹੋਟਲਾਂ ਦੀ ਔਸਤ",
+      "hi": "Booking.com पर नई दिल्ली के 3–4 स्टार होटलों का औसत"
+     },
+     "note": {
+      "en": "Lowest to highest of the 3-star and 4-star averages shown (tonight and this weekend)",
+      "pa": "ਦਿਖਾਈ ਗਈ 3 ਅਤੇ 4 ਸਟਾਰ ਔਸਤ ਦਾ ਘੱਟ ਤੋਂ ਵੱਧ (ਅੱਜ ਰਾਤ ਅਤੇ ਇਸ ਵੀਕਐਂਡ)",
+      "hi": "दिखाए गए 3 और 4 स्टार औसत का कम से ज़्यादा (आज रात और इस वीकेंड)"
+     },
+     "checked": "2026-11-17",
+     "url": "https://www.booking.com/city/in/new-delhi.html?selected_currency=INR"
+    },
+    "homestay": {
+     "min": 3800,
+     "max": 3800,
+     "source": {
+      "en": "Booking.com average homestay price in New Delhi",
+      "pa": "Booking.com 'ਤੇ ਨਵੀਂ ਦਿੱਲੀ ਵਿੱਚ ਹੋਮਸਟੇ ਦੀ ਔਸਤ ਕੀਮਤ",
+      "hi": "Booking.com पर नई दिल्ली में होमस्टे की औसत कीमत"
+     },
+     "note": {
+      "en": "Shown in US$; converted at ₹94.25 per US$ (European Central Bank rate, 13 Nov 2026)",
+      "pa": "US$ ਵਿੱਚ ਦਿਖਾਈ; ₹94.25 ਪ੍ਰਤੀ US$ ਨਾਲ ਬਦਲੀ (ਯੂਰਪੀ ਕੇਂਦਰੀ ਬੈਂਕ ਦਾ ਰੇਟ, 13 ਨਵੰਬਰ 2026)",
+      "hi": "US$ में दिखाई गई; ₹94.25 प्रति US$ से बदली (यूरोपीय केंद्रीय बैंक की दर, 13 नवंबर 2026)"
+     },
+     "checked": "2026-11-17",
+     "url": "https://www.booking.com/homestay/city/in/new-delhi.html"
+    }
+   },
+   "roadKm": {
+    "Ludhiana": 333,
+    "Chandigarh": 269,
+    "Amritsar": 475,
+    "Jalandhar": 395,
+    "Patiala": 266,
+    "Jaipur": 295
+   },
+   "railhead": {
+    "name": {
+     "en": "New Delhi",
+     "pa": "ਨਵੀਂ ਦਿੱਲੀ",
+     "hi": "नई दिल्ली"
+    },
+    "code": "NDLS",
+    "km": 5,
+    "note": "",
+    "lat": 28.6403,
+    "lng": 77.2204
+   },
+   "airport": {
+    "code": "DEL",
+    "km": 18
+   }
+  },
+  {
+   "id": "mumbai",
+   "keys": [
+    "Mumbai"
+   ],
+   "searchName": "Mumbai",
+   "hill": false,
+   "lonelyPlanet": "https://www.lonelyplanet.com/destinations/india/mumbai-bombay",
+   "pros": [
+    {
+     "en": "Sea views at Marine Drive and the Gateway of India",
+     "pa": "ਮਰੀਨ ਡਰਾਈਵ ਅਤੇ ਗੇਟਵੇ ਆਫ਼ ਇੰਡੀਆ ਉੱਤੇ ਸਮੁੰਦਰ ਦੇ ਨਜ਼ਾਰੇ",
+     "hi": "मरीन ड्राइव और गेटवे ऑफ़ इंडिया पर समुद्र के नज़ारे"
+    },
+    {
+     "en": "Elephanta Caves (UNESCO) by ferry",
+     "pa": "ਫ਼ੈਰੀ ਰਾਹੀਂ ਐਲੀਫੈਂਟਾ ਗੁਫ਼ਾਵਾਂ (ਯੂਨੈਸਕੋ)",
+     "hi": "फ़ेरी से एलीफेंटा गुफाएँ (यूनेस्को)"
+    },
+    {
+     "en": "Great street food, from vada pav to pav bhaji",
+     "pa": "ਵੜਾ ਪਾਵ ਤੋਂ ਪਾਵ ਭਾਜੀ ਤੱਕ ਵਧੀਆ ਸਟ੍ਰੀਟ ਫ਼ੂਡ",
+     "hi": "वड़ा पाव से पाव भाजी तक बढ़िया स्ट्रीट फ़ूड"
+    }
+   ],
+   "cons": [
+    {
+     "en": "Hotels are expensive",
+     "pa": "ਹੋਟਲ ਮਹਿੰਗੇ ਹਨ",
+     "hi": "होटल महँगे हैं"
+    },
+    {
+     "en": "Heavy monsoon rain and waterlogging (June–September)",
+     "pa": "ਭਾਰੀ ਮੀਂਹ ਅਤੇ ਪਾਣੀ ਭਰਨਾ (ਜੂਨ–ਸਤੰਬਰ)",
+     "hi": "भारी बारिश और जलभराव (जून–सितंबर)"
+    },
+    {
+     "en": "Local trains are packed at rush hours",
+     "pa": "ਭੀੜ ਵੇਲੇ ਲੋਕਲ ਰੇਲਾਂ ਖਚਾਖਚ ਭਰੀਆਂ",
+     "hi": "भीड़ के समय लोकल ट्रेनें खचाखच भरी"
+    }
+   ],
+   "rush": [
+    {
+     "en": "November to February is best",
+     "pa": "ਨਵੰਬਰ ਤੋਂ ਫ਼ਰਵਰੀ ਸਭ ਤੋਂ ਵਧੀਆ",
+     "hi": "नवंबर से फ़रवरी सबसे अच्छा"
+    },
+    {
+     "en": "Elephanta Caves and the ferry are closed on Mondays",
+     "pa": "ਐਲੀਫੈਂਟਾ ਗੁਫ਼ਾਵਾਂ ਅਤੇ ਫ਼ੈਰੀ ਸੋਮਵਾਰ ਨੂੰ ਬੰਦ",
+     "hi": "एलीफेंटा गुफाएँ और फ़ेरी सोमवार को बंद"
+    },
+    {
+     "en": "Avoid local trains around 8–11 am and 6–9 pm",
+     "pa": "ਸਵੇਰੇ 8–11 ਅਤੇ ਸ਼ਾਮ 6–9 ਵਜੇ ਲੋਕਲ ਰੇਲ ਤੋਂ ਬਚੋ",
+     "hi": "सुबह 8–11 और शाम 6–9 बजे लोकल ट्रेन से बचें"
+    }
+   ],
+   "stays": [
+    {
+     "name": {
+      "en": "The Taj Mahal Palace",
+      "pa": "ਦ ਤਾਜ ਮਹਿਲ ਪੈਲੇਸ",
+      "hi": "द ताज महल पैलेस"
+     },
+     "town": {
+      "en": "Colaba",
+      "pa": "ਕੋਲਾਬਾ",
+      "hi": "कोलाबा"
+     },
+     "type": "hotel"
+    },
+    {
+     "name": {
+      "en": "Trident Nariman Point",
+      "pa": "ਟ੍ਰਾਈਡੈਂਟ ਨਰੀਮਨ ਪੁਆਇੰਟ",
+      "hi": "ट्राइडेंट नरीमन पॉइंट"
+     },
+     "town": {
+      "en": "Mumbai",
+      "pa": "ਮੁੰਬਈ",
+      "hi": "मुंबई"
+     },
+     "type": "hotel"
+    }
+   ],
+   "restStops": [],
+   "places": [
+    {
+     "name": {
+      "en": "Gateway of India",
+      "pa": "ਗੇਟਵੇ ਆਫ਼ ਇੰਡੀਆ",
+      "hi": "गेटवे ऑफ़ इंडिया"
+     },
+     "town": {
+      "en": "Colaba",
+      "pa": "ਕੋਲਾਬਾ",
+      "hi": "कोलाबा"
+     },
+     "tags": [
+      "heritage"
+     ]
+    },
+    {
+     "name": {
+      "en": "Chhatrapati Shivaji Maharaj Terminus",
+      "pa": "ਛਤਰਪਤੀ ਸ਼ਿਵਾਜੀ ਮਹਾਰਾਜ ਟਰਮੀਨਸ",
+      "hi": "छत्रपति शिवाजी महाराज टर्मिनस"
+     },
+     "town": {
+      "en": "Mumbai",
+      "pa": "ਮੁੰਬਈ",
+      "hi": "मुंबई"
+     },
+     "tags": [
+      "heritage"
+     ]
+    },
+    {
+     "name": {
+      "en": "Elephanta Caves",
+      "pa": "ਐਲੀਫੈਂਟਾ ਗੁਫ਼ਾਵਾਂ",
+      "hi": "एलीफेंटा गुफाएँ"
+     },
+     "town": {
+      "en": "Elephanta Island",
+      "pa": "ਐਲੀਫੈਂਟਾ ਟਾਪੂ",
+      "hi": "एलीफेंटा द्वीप"
+     },
+     "tags": [
+      "heritage",
+      "religious"
+     ]
+    },
+    {
+     "name": {
+      "en": "Marine Drive",
+      "pa": "ਮਰੀਨ ਡਰਾਈਵ",
+      "hi": "मरीन ड्राइव"
+     },
+     "town": {
+      "en": "Mumbai",
+      "pa": "ਮੁੰਬਈ",
+      "hi": "मुंबई"
+     },
+     "tags": [
+      "lakes",
+      "food"
+     ]
+    },
+    {
+     "name": {
+      "en": "Siddhivinayak Temple",
+      "pa": "ਸਿੱਧੀਵਿਨਾਇਕ ਮੰਦਰ",
+      "hi": "सिद्धिविनायक मंदिर"
+     },
+     "town": {
+      "en": "Mumbai",
+      "pa": "ਮੁੰਬਈ",
+      "hi": "मुंबई"
+     },
+     "tags": [
+      "religious"
+     ]
+    },
+    {
+     "name": {
+      "en": "Sanjay Gandhi National Park",
+      "pa": "ਸੰਜੇ ਗਾਂਧੀ ਨੈਸ਼ਨਲ ਪਾਰਕ",
+      "hi": "संजय गांधी राष्ट्रीय उद्यान"
+     },
+     "town": {
+      "en": "Mumbai",
+      "pa": "ਮੁੰਬਈ",
+      "hi": "मुंबई"
+     },
+     "tags": [
+      "wildlife"
+     ]
+    }
+   ],
+   "prices": {},
+   "roadKm": {
+    "Ludhiana": 1615,
+    "Chandigarh": 1591,
+    "Delhi": 1322,
+    "Amritsar": 1629,
+    "Jalandhar": 1604,
+    "Patiala": 1559,
+    "Jaipur": 1140
+   },
+   "railhead": {
+    "name": {
+     "en": "Mumbai CSMT",
+     "pa": "ਮੁੰਬਈ ਸੀਐਸਐਮਟੀ",
+     "hi": "मुंबई सीएसएमटी"
+    },
+    "code": "CSMT",
+    "km": 17,
+    "note": "",
+    "lat": 18.9399,
+    "lng": 72.8355
+   },
+   "airport": {
+    "code": "BOM",
+    "km": 2
+   },
+   "ferry": [
+    {
+     "name": {
+      "en": "Elephanta ferry from Gateway of India",
+      "pa": "ਗੇਟਵੇ ਆਫ਼ ਇੰਡੀਆ ਤੋਂ ਐਲੀਫੈਂਟਾ ਫ਼ੈਰੀ",
+      "hi": "गेटवे ऑफ़ इंडिया से एलीफेंटा फ़ेरी"
+     },
+     "fareMin": 130,
+     "fareMax": 130,
+     "rides": 2,
+     "note": {
+      "en": "₹260 return ticket (shown per ride); no ferry on Mondays",
+      "pa": "₹260 ਆਉਣ-ਜਾਣ ਟਿਕਟ (ਇੱਕ ਸਫ਼ਰ ਦਾ ਦਿਖਾਇਆ); ਸੋਮਵਾਰ ਫ਼ੈਰੀ ਨਹੀਂ",
+      "hi": "₹260 आने-जाने का टिकट (एक सफ़र का दिखाया); सोमवार फ़ेरी नहीं"
+     },
+     "source": "elephanta.co.in ferry page and ABP Live (2025)",
+     "url": "https://elephanta.co.in/ferry-to-elephanta",
+     "checked": "2026-11-17",
+     "approx": false
+    }
+   ]
+  },
+  {
+   "id": "kolkata",
+   "keys": [
+    "Kolkata"
+   ],
+   "searchName": "Kolkata",
+   "hill": false,
+   "lonelyPlanet": "https://www.lonelyplanet.com/destinations/india/kolkata-calcutta",
+   "pros": [
+    {
+     "en": "Victoria Memorial and grand colonial buildings",
+     "pa": "ਵਿਕਟੋਰੀਆ ਮੈਮੋਰੀਅਲ ਅਤੇ ਸ਼ਾਨਦਾਰ ਪੁਰਾਣੀਆਂ ਇਮਾਰਤਾਂ",
+     "hi": "विक्टोरिया मेमोरियल और शानदार औपनिवेशिक इमारतें"
+    },
+    {
+     "en": "Famous sweets and Bengali food",
+     "pa": "ਮਸ਼ਹੂਰ ਮਿਠਾਈਆਂ ਅਤੇ ਬੰਗਾਲੀ ਖਾਣਾ",
+     "hi": "मशहूर मिठाइयाँ और बंगाली खाना"
+    },
+    {
+     "en": "Durga Puja festival in autumn",
+     "pa": "ਪਤਝੜ ਵਿੱਚ ਦੁਰਗਾ ਪੂਜਾ ਦਾ ਤਿਉਹਾਰ",
+     "hi": "शरद ऋतु में दुर्गा पूजा का त्योहार"
+    }
+   ],
+   "cons": [
+    {
+     "en": "Hot and humid summers",
+     "pa": "ਗਰਮ ਅਤੇ ਹੁੰਮਸ ਭਰੀਆਂ ਗਰਮੀਆਂ",
+     "hi": "गर्म और उमस भरी गर्मियाँ"
+    },
+    {
+     "en": "Very crowded during Durga Puja",
+     "pa": "ਦੁਰਗਾ ਪੂਜਾ ਵੇਲੇ ਬਹੁਤ ਭੀੜ",
+     "hi": "दुर्गा पूजा के समय बहुत भीड़"
+    }
+   ],
+   "rush": [
+    {
+     "en": "November to February is best",
+     "pa": "ਨਵੰਬਰ ਤੋਂ ਫ਼ਰਵਰੀ ਸਭ ਤੋਂ ਵਧੀਆ",
+     "hi": "नवंबर से फ़रवरी सबसे अच्छा"
+    },
+    {
+     "en": "Book early for the Durga Puja days",
+     "pa": "ਦੁਰਗਾ ਪੂਜਾ ਦੇ ਦਿਨਾਂ ਲਈ ਜਲਦੀ ਬੁੱਕ ਕਰੋ",
+     "hi": "दुर्गा पूजा के दिनों के लिए जल्दी बुक करें"
+    },
+    {
+     "en": "Reach popular sights early in the morning, before the crowds",
+     "pa": "ਮਸ਼ਹੂਰ ਥਾਵਾਂ ਉੱਤੇ ਸਵੇਰੇ ਜਲਦੀ ਪਹੁੰਚੋ, ਭੀੜ ਤੋਂ ਪਹਿਲਾਂ",
+     "hi": "मशहूर जगहों पर सुबह जल्दी पहुँचें, भीड़ से पहले"
+    }
+   ],
+   "stays": [
+    {
+     "name": {
+      "en": "The Oberoi Grand",
+      "pa": "ਦ ਓਬਰਾਏ ਗ੍ਰੈਂਡ",
+      "hi": "द ओबेरॉय ग्रैंड"
+     },
+     "town": {
+      "en": "Kolkata",
+      "pa": "ਕੋਲਕਾਤਾ",
+      "hi": "कोलकाता"
+     },
+     "type": "hotel"
+    },
+    {
+     "name": {
+      "en": "ITC Sonar",
+      "pa": "ਆਈਟੀਸੀ ਸੋਨਾਰ",
+      "hi": "आईटीसी सोनार"
+     },
+     "town": {
+      "en": "Kolkata",
+      "pa": "ਕੋਲਕਾਤਾ",
+      "hi": "कोलकाता"
+     },
+     "type": "hotel"
+    }
+   ],
+   "restStops": [],
+   "places": [
+    {
+     "name": {
+      "en": "Victoria Memorial",
+      "pa": "ਵਿਕਟੋਰੀਆ ਮੈਮੋਰੀਅਲ",
+      "hi": "विक्टोरिया मेमोरियल"
+     },
+     "town": {
+      "en": "Kolkata",
+      "pa": "ਕੋਲਕਾਤਾ",
+      "hi": "कोलकाता"
+     },
+     "tags": [
+      "heritage"
+     ]
+    },
+    {
+     "name": {
+      "en": "Howrah Bridge",
+      "pa": "ਹਾਵੜਾ ਪੁਲ",
+      "hi": "हावड़ा ब्रिज"
+     },
+     "town": {
+      "en": "Howrah",
+      "pa": "ਹਾਵੜਾ",
+      "hi": "हावड़ा"
+     },
+     "tags": [
+      "heritage"
+     ]
+    },
+    {
+     "name": {
+      "en": "Dakshineswar Kali Temple",
+      "pa": "ਦਕਸ਼ਿਣੇਸ਼ਵਰ ਕਾਲੀ ਮੰਦਰ",
+      "hi": "दक्षिणेश्वर काली मंदिर"
+     },
+     "town": {
+      "en": "Kolkata",
+      "pa": "ਕੋਲਕਾਤਾ",
+      "hi": "कोलकाता"
+     },
+     "tags": [
+      "religious"
+     ]
+    },
+    {
+     "name": {
+      "en": "Indian Museum",
+      "pa": "ਇੰਡੀਅਨ ਮਿਊਜ਼ੀਅਮ",
+      "hi": "भारतीय संग्रहालय"
+     },
+     "town": {
+      "en": "Kolkata",
+      "pa": "ਕੋਲਕਾਤਾ",
+      "hi": "कोलकाता"
+     },
+     "tags": [
+      "heritage"
+     ]
+    },
+    {
+     "name": {
+      "en": "Park Street",
+      "pa": "ਪਾਰਕ ਸਟ੍ਰੀਟ",
+      "hi": "पार्क स्ट्रीट"
+     },
+     "town": {
+      "en": "Kolkata",
+      "pa": "ਕੋਲਕਾਤਾ",
+      "hi": "कोलकाता"
+     },
+     "tags": [
+      "food"
+     ]
+    }
+   ],
+   "prices": {
+    "hotel": {
+     "min": 3700,
+     "max": 5500,
+     "source": {
+      "en": "Booking.com average for 3–4 star hotels in Kolkata",
+      "pa": "Booking.com 'ਤੇ ਕੋਲਕਾਤਾ ਦੇ 3–4 ਸਟਾਰ ਹੋਟਲਾਂ ਦੀ ਔਸਤ",
+      "hi": "Booking.com पर कोलकाता के 3–4 स्टार होटलों का औसत"
+     },
+     "note": {
+      "en": "Lowest to highest of the 3-star and 4-star averages shown (tonight and this weekend)",
+      "pa": "ਦਿਖਾਈ ਗਈ 3 ਅਤੇ 4 ਸਟਾਰ ਔਸਤ ਦਾ ਘੱਟ ਤੋਂ ਵੱਧ (ਅੱਜ ਰਾਤ ਅਤੇ ਇਸ ਵੀਕਐਂਡ)",
+      "hi": "दिखाए गए 3 और 4 स्टार औसत का कम से ज़्यादा (आज रात और इस वीकेंड)"
+     },
+     "checked": "2026-11-17",
+     "url": "https://www.booking.com/city/in/kolkata.html?selected_currency=INR"
+    },
+    "homestay": {
+     "min": 2200,
+     "max": 2200,
+     "source": {
+      "en": "Booking.com average homestay price in Kolkata",
+      "pa": "Booking.com 'ਤੇ ਕੋਲਕਾਤਾ ਵਿੱਚ ਹੋਮਸਟੇ ਦੀ ਔਸਤ ਕੀਮਤ",
+      "hi": "Booking.com पर कोलकाता में होमस्टे की औसत कीमत"
+     },
+     "note": {
+      "en": "Shown in US$; converted at ₹94.25 per US$ (European Central Bank rate, 13 Nov 2026)",
+      "pa": "US$ ਵਿੱਚ ਦਿਖਾਈ; ₹94.25 ਪ੍ਰਤੀ US$ ਨਾਲ ਬਦਲੀ (ਯੂਰਪੀ ਕੇਂਦਰੀ ਬੈਂਕ ਦਾ ਰੇਟ, 13 ਨਵੰਬਰ 2026)",
+      "hi": "US$ में दिखाई गई; ₹94.25 प्रति US$ से बदली (यूरोपीय केंद्रीय बैंक की दर, 13 नवंबर 2026)"
+     },
+     "checked": "2026-11-17",
+     "url": "https://www.booking.com/homestay/city/in/kolkata.html"
+    }
+   },
+   "roadKm": {
+    "Ludhiana": 1710,
+    "Chandigarh": 1646,
+    "Delhi": 1457,
+    "Amritsar": 1852,
+    "Jalandhar": 1772,
+    "Patiala": 1656,
+    "Jaipur": 1505
+   },
+   "railhead": {
+    "name": {
+     "en": "Howrah Junction",
+     "pa": "ਹਾਵੜਾ ਜੰਕਸ਼ਨ",
+     "hi": "हावड़ा जंक्शन"
+    },
+    "code": "HWH",
+    "km": 4,
+    "note": "",
+    "lat": 22.583,
+    "lng": 88.3407
+   },
+   "airport": {
+    "code": "CCU",
+    "km": 15
+   }
+  },
+  {
+   "id": "mysuru",
+   "keys": [
+    "Mysuru",
+    "Bengaluru"
+   ],
+   "searchName": "Mysore",
+   "hill": false,
+   "lonelyPlanet": "https://www.lonelyplanet.com/destinations/india/karnataka/mysuru-mysore",
+   "pros": [
+    {
+     "en": "Mysore Palace, lit up on Sunday evenings",
+     "pa": "ਮੈਸੂਰ ਮਹਿਲ, ਐਤਵਾਰ ਸ਼ਾਮ ਨੂੰ ਰੌਸ਼ਨੀਆਂ ਨਾਲ ਜਗਮਗ",
+     "hi": "मैसूर पैलेस, रविवार शाम रोशनी से जगमग"
+    },
+    {
+     "en": "Grand Dasara festival",
+     "pa": "ਸ਼ਾਨਦਾਰ ਦਸਹਿਰਾ ਤਿਉਹਾਰ",
+     "hi": "भव्य दशहरा उत्सव"
+    },
+    {
+     "en": "Chamundi Hill and Brindavan Gardens nearby",
+     "pa": "ਨੇੜੇ ਚਾਮੁੰਡੀ ਪਹਾੜੀ ਅਤੇ ਬ੍ਰਿੰਦਾਵਨ ਗਾਰਡਨ",
+     "hi": "पास में चामुंडी पहाड़ी और बृंदावन गार्डन"
+    }
+   ],
+   "cons": [
+    {
+     "en": "Very crowded during Dasara (Sep–Oct)",
+     "pa": "ਦਸਹਿਰੇ (ਸਤੰਬਰ–ਅਕਤੂਬਰ) ਵੇਲੇ ਬਹੁਤ ਭੀੜ",
+     "hi": "दशहरे (सितंबर–अक्टूबर) में बहुत भीड़"
+    },
+    {
+     "en": "Most flights land at Bengaluru, about 150 km away",
+     "pa": "ਜ਼ਿਆਦਾਤਰ ਉਡਾਣਾਂ ਬੈਂਗਲੁਰੂ ਉਤਰਦੀਆਂ ਹਨ, ਲਗਭਗ 150 ਕਿ.ਮੀ. ਦੂਰ",
+     "hi": "ज़्यादातर उड़ानें बेंगलुरु उतरती हैं, लगभग 150 कि.मी. दूर"
+    }
+   ],
+   "rush": [
+    {
+     "en": "October to March is the pleasant season",
+     "pa": "ਅਕਤੂਬਰ ਤੋਂ ਮਾਰਚ ਮੌਸਮ ਸੁਹਾਵਣਾ ਰਹਿੰਦਾ ਹੈ",
+     "hi": "अक्टूबर से मार्च मौसम सुहाना रहता है"
+    },
+    {
+     "en": "See the palace lights on a Sunday evening",
+     "pa": "ਐਤਵਾਰ ਸ਼ਾਮ ਨੂੰ ਮਹਿਲ ਦੀਆਂ ਰੌਸ਼ਨੀਆਂ ਵੇਖੋ",
+     "hi": "रविवार शाम महल की रोशनी देखें"
+    },
+    {
+     "en": "Reach popular sights early in the morning, before the crowds",
+     "pa": "ਮਸ਼ਹੂਰ ਥਾਵਾਂ ਉੱਤੇ ਸਵੇਰੇ ਜਲਦੀ ਪਹੁੰਚੋ, ਭੀੜ ਤੋਂ ਪਹਿਲਾਂ",
+     "hi": "मशहूर जगहों पर सुबह जल्दी पहुँचें, भीड़ से पहले"
+    }
+   ],
+   "stays": [
+    {
+     "name": {
+      "en": "Lalitha Mahal Palace Hotel",
+      "pa": "ਲਲਿਤਾ ਮਹਿਲ ਪੈਲੇਸ ਹੋਟਲ",
+      "hi": "ललिता महल पैलेस होटल"
+     },
+     "town": {
+      "en": "Mysuru",
+      "pa": "ਮੈਸੂਰ",
+      "hi": "मैसूर"
+     },
+     "type": "hotel"
+    },
+    {
+     "name": {
+      "en": "Radisson Blu Plaza Hotel Mysore",
+      "pa": "ਰੈਡੀਸਨ ਬਲੂ ਪਲਾਜ਼ਾ ਹੋਟਲ ਮੈਸੂਰ",
+      "hi": "रेडिसन ब्लू प्लाज़ा होटल मैसूर"
+     },
+     "town": {
+      "en": "Mysuru",
+      "pa": "ਮੈਸੂਰ",
+      "hi": "मैसूर"
+     },
+     "type": "hotel"
+    }
+   ],
+   "restStops": [],
+   "places": [
+    {
+     "name": {
+      "en": "Mysore Palace",
+      "pa": "ਮੈਸੂਰ ਮਹਿਲ",
+      "hi": "मैसूर पैलेस"
+     },
+     "town": {
+      "en": "Mysuru",
+      "pa": "ਮੈਸੂਰ",
+      "hi": "मैसूर"
+     },
+     "tags": [
+      "heritage"
+     ]
+    },
+    {
+     "name": {
+      "en": "Chamundeshwari Temple, Chamundi Hill",
+      "pa": "ਚਾਮੁੰਡੇਸ਼ਵਰੀ ਮੰਦਰ, ਚਾਮੁੰਡੀ ਪਹਾੜੀ",
+      "hi": "चामुंडेश्वरी मंदिर, चामुंडी पहाड़ी"
+     },
+     "town": {
+      "en": "Mysuru",
+      "pa": "ਮੈਸੂਰ",
+      "hi": "मैसूर"
+     },
+     "tags": [
+      "religious",
+      "hills"
+     ]
+    },
+    {
+     "name": {
+      "en": "Brindavan Gardens",
+      "pa": "ਬ੍ਰਿੰਦਾਵਨ ਗਾਰਡਨ",
+      "hi": "बृंदावन गार्डन"
+     },
+     "town": {
+      "en": "Krishnarajasagara",
+      "pa": "ਕ੍ਰਿਸ਼ਨਰਾਜਸਾਗਰ",
+      "hi": "कृष्णराजसागर"
+     },
+     "tags": [
+      "lakes"
+     ]
+    },
+    {
+     "name": {
+      "en": "Mysuru Zoo",
+      "pa": "ਮੈਸੂਰ ਚਿੜੀਆਘਰ",
+      "hi": "मैसूर चिड़ियाघर"
+     },
+     "town": {
+      "en": "Mysuru",
+      "pa": "ਮੈਸੂਰ",
+      "hi": "मैसूर"
+     },
+     "tags": [
+      "wildlife"
+     ]
+    },
+    {
+     "name": {
+      "en": "Devaraja Market",
+      "pa": "ਦੇਵਰਾਜਾ ਮਾਰਕੀਟ",
+      "hi": "देवराजा मार्केट"
+     },
+     "town": {
+      "en": "Mysuru",
+      "pa": "ਮੈਸੂਰ",
+      "hi": "मैसूर"
+     },
+     "tags": [
+      "food"
+     ]
+    }
+   ],
+   "prices": {
+    "hotel": {
+     "min": 2500,
+     "max": 5800,
+     "source": {
+      "en": "Booking.com average for 3–4 star hotels in Mysuru",
+      "pa": "Booking.com 'ਤੇ ਮੈਸੂਰ ਦੇ 3–4 ਸਟਾਰ ਹੋਟਲਾਂ ਦੀ ਔਸਤ",
+      "hi": "Booking.com पर मैसूर के 3–4 स्टार होटलों का औसत"
+     },
+     "note": {
+      "en": "Lowest to highest of the 3-star and 4-star averages shown (tonight and this weekend)",
+      "pa": "ਦਿਖਾਈ ਗਈ 3 ਅਤੇ 4 ਸਟਾਰ ਔਸਤ ਦਾ ਘੱਟ ਤੋਂ ਵੱਧ (ਅੱਜ ਰਾਤ ਅਤੇ ਇਸ ਵੀਕਐਂਡ)",
+      "hi": "दिखाए गए 3 और 4 स्टार औसत का कम से ज़्यादा (आज रात और इस वीकेंड)"
+     },
+     "checked": "2026-11-17",
+     "url": "https://www.booking.com/city/in/mysore.html?selected_currency=INR"
+    },
+    "homestay": {
+     "min": 2900,
+     "max": 2900,
+     "source": {
+      "en": "Booking.com average homestay price in Mysuru",
+      "pa": "Booking.com 'ਤੇ ਮੈਸੂਰ ਵਿੱਚ ਹੋਮਸਟੇ ਦੀ ਔਸਤ ਕੀਮਤ",
+      "hi": "Booking.com पर मैसूर में होमस्टे की औसत कीमत"
+     },
+     "note": {
+      "en": "Shown in US$; converted at ₹94.25 per US$ (European Central Bank rate, 13 Nov 2026)",
+      "pa": "US$ ਵਿੱਚ ਦਿਖਾਈ; ₹94.25 ਪ੍ਰਤੀ US$ ਨਾਲ ਬਦਲੀ (ਯੂਰਪੀ ਕੇਂਦਰੀ ਬੈਂਕ ਦਾ ਰੇਟ, 13 ਨਵੰਬਰ 2026)",
+      "hi": "US$ में दिखाई गई; ₹94.25 प्रति US$ से बदली (यूरोपीय केंद्रीय बैंक की दर, 13 नवंबर 2026)"
+     },
+     "checked": "2026-11-17",
+     "url": "https://www.booking.com/homestay/city/in/mysore.html"
+    }
+   },
+   "roadKm": {
+    "Ludhiana": 2376,
+    "Chandigarh": 2352,
+    "Delhi": 2083,
+    "Amritsar": 2522,
+    "Jalandhar": 2437,
+    "Patiala": 2320,
+    "Jaipur": 1901
+   },
+   "railhead": {
+    "name": {
+     "en": "Mysuru Junction",
+     "pa": "ਮੈਸੂਰ ਜੰਕਸ਼ਨ",
+     "hi": "मैसूर जंक्शन"
+    },
+    "code": "MYS",
+    "km": 3,
+    "note": "",
+    "lat": 12.317,
+    "lng": 76.6452
+   },
+   "airport": {
+    "code": "BLR",
+    "km": 184
+   }
+  },
+  {
+   "id": "hyderabad",
+   "keys": [
+    "Hyderabad"
+   ],
+   "searchName": "Hyderabad",
+   "hill": false,
+   "lonelyPlanet": "https://www.lonelyplanet.com/destinations/india/hyderabad",
+   "pros": [
+    {
+     "en": "Charminar and Golconda Fort",
+     "pa": "ਚਾਰਮੀਨਾਰ ਅਤੇ ਗੋਲਕੁੰਡਾ ਕਿਲ੍ਹਾ",
+     "hi": "चारमीनार और गोलकोंडा किला"
+    },
+    {
+     "en": "Famous Hyderabadi biryani",
+     "pa": "ਮਸ਼ਹੂਰ ਹੈਦਰਾਬਾਦੀ ਬਿਰਯਾਨੀ",
+     "hi": "मशहूर हैदराबादी बिरयानी"
+    },
+    {
+     "en": "Ramoji Film City is a fun day out",
+     "pa": "ਰਾਮੋਜੀ ਫ਼ਿਲਮ ਸਿਟੀ ਵਿੱਚ ਦਿਨ ਭਰ ਮਜ਼ਾ",
+     "hi": "रामोजी फ़िल्म सिटी में दिन भर मज़ा"
+    }
+   ],
+   "cons": [
+    {
+     "en": "Very hot from April to June",
+     "pa": "ਅਪ੍ਰੈਲ ਤੋਂ ਜੂਨ ਤੱਕ ਬਹੁਤ ਗਰਮੀ",
+     "hi": "अप्रैल से जून तक बहुत गर्मी"
+    },
+    {
+     "en": "Heavy traffic in the old city",
+     "pa": "ਪੁਰਾਣੇ ਸ਼ਹਿਰ ਵਿੱਚ ਭਾਰੀ ਟ੍ਰੈਫ਼ਿਕ",
+     "hi": "पुराने शहर में भारी ट्रैफ़िक"
+    }
+   ],
+   "rush": [
+    {
+     "en": "October to February is best",
+     "pa": "ਅਕਤੂਬਰ ਤੋਂ ਫ਼ਰਵਰੀ ਸਭ ਤੋਂ ਵਧੀਆ",
+     "hi": "अक्टूबर से फ़रवरी सबसे अच्छा"
+    },
+    {
+     "en": "Golconda has an evening sound-and-light show",
+     "pa": "ਗੋਲਕੁੰਡਾ ਵਿੱਚ ਸ਼ਾਮ ਨੂੰ ਲਾਈਟ-ਐਂਡ-ਸਾਊਂਡ ਸ਼ੋਅ",
+     "hi": "गोलकोंडा में शाम को लाइट-एंड-साउंड शो"
+    },
+    {
+     "en": "Reach popular sights early in the morning, before the crowds",
+     "pa": "ਮਸ਼ਹੂਰ ਥਾਵਾਂ ਉੱਤੇ ਸਵੇਰੇ ਜਲਦੀ ਪਹੁੰਚੋ, ਭੀੜ ਤੋਂ ਪਹਿਲਾਂ",
+     "hi": "मशहूर जगहों पर सुबह जल्दी पहुँचें, भीड़ से पहले"
+    }
+   ],
+   "stays": [
+    {
+     "name": {
+      "en": "Taj Falaknuma Palace",
+      "pa": "ਤਾਜ ਫ਼ਲਕਨੁਮਾ ਪੈਲੇਸ",
+      "hi": "ताज फ़लकनुमा पैलेस"
+     },
+     "town": {
+      "en": "Hyderabad",
+      "pa": "ਹੈਦਰਾਬਾਦ",
+      "hi": "हैदराबाद"
+     },
+     "type": "hotel"
+    },
+    {
+     "name": {
+      "en": "ITC Kohenur",
+      "pa": "ਆਈਟੀਸੀ ਕੋਹੇਨੂਰ",
+      "hi": "आईटीसी कोहेनूर"
+     },
+     "town": {
+      "en": "Hyderabad",
+      "pa": "ਹੈਦਰਾਬਾਦ",
+      "hi": "हैदराबाद"
+     },
+     "type": "hotel"
+    }
+   ],
+   "restStops": [],
+   "places": [
+    {
+     "name": {
+      "en": "Charminar",
+      "pa": "ਚਾਰਮੀਨਾਰ",
+      "hi": "चारमीनार"
+     },
+     "town": {
+      "en": "Hyderabad",
+      "pa": "ਹੈਦਰਾਬਾਦ",
+      "hi": "हैदराबाद"
+     },
+     "tags": [
+      "heritage",
+      "food"
+     ]
+    },
+    {
+     "name": {
+      "en": "Golconda Fort",
+      "pa": "ਗੋਲਕੁੰਡਾ ਕਿਲ੍ਹਾ",
+      "hi": "गोलकोंडा किला"
+     },
+     "town": {
+      "en": "Hyderabad",
+      "pa": "ਹੈਦਰਾਬਾਦ",
+      "hi": "हैदराबाद"
+     },
+     "tags": [
+      "heritage",
+      "adventure"
+     ]
+    },
+    {
+     "name": {
+      "en": "Chowmahalla Palace",
+      "pa": "ਚੌਮਹੱਲਾ ਮਹਿਲ",
+      "hi": "चौमहल्ला पैलेस"
+     },
+     "town": {
+      "en": "Hyderabad",
+      "pa": "ਹੈਦਰਾਬਾਦ",
+      "hi": "हैदराबाद"
+     },
+     "tags": [
+      "heritage"
+     ]
+    },
+    {
+     "name": {
+      "en": "Salar Jung Museum",
+      "pa": "ਸਾਲਾਰ ਜੰਗ ਮਿਊਜ਼ੀਅਮ",
+      "hi": "सालार जंग संग्रहालय"
+     },
+     "town": {
+      "en": "Hyderabad",
+      "pa": "ਹੈਦਰਾਬਾਦ",
+      "hi": "हैदराबाद"
+     },
+     "tags": [
+      "heritage"
+     ]
+    },
+    {
+     "name": {
+      "en": "Hussain Sagar Lake",
+      "pa": "ਹੁਸੈਨ ਸਾਗਰ ਝੀਲ",
+      "hi": "हुसैन सागर झील"
+     },
+     "town": {
+      "en": "Hyderabad",
+      "pa": "ਹੈਦਰਾਬਾਦ",
+      "hi": "हैदराबाद"
+     },
+     "tags": [
+      "lakes"
+     ]
+    },
+    {
+     "name": {
+      "en": "Ramoji Film City",
+      "pa": "ਰਾਮੋਜੀ ਫ਼ਿਲਮ ਸਿਟੀ",
+      "hi": "रामोजी फ़िल्म सिटी"
+     },
+     "town": {
+      "en": "Hyderabad",
+      "pa": "ਹੈਦਰਾਬਾਦ",
+      "hi": "हैदराबाद"
+     },
+     "tags": [
+      "adventure"
+     ]
+    }
+   ],
+   "prices": {
+    "hotel": {
+     "min": 3900,
+     "max": 6100,
+     "source": {
+      "en": "Booking.com average for 3–4 star hotels in Hyderabad",
+      "pa": "Booking.com 'ਤੇ ਹੈਦਰਾਬਾਦ ਦੇ 3–4 ਸਟਾਰ ਹੋਟਲਾਂ ਦੀ ਔਸਤ",
+      "hi": "Booking.com पर हैदराबाद के 3–4 स्टार होटलों का औसत"
+     },
+     "note": {
+      "en": "Lowest to highest of the 3-star and 4-star averages shown (tonight and this weekend)",
+      "pa": "ਦਿਖਾਈ ਗਈ 3 ਅਤੇ 4 ਸਟਾਰ ਔਸਤ ਦਾ ਘੱਟ ਤੋਂ ਵੱਧ (ਅੱਜ ਰਾਤ ਅਤੇ ਇਸ ਵੀਕਐਂਡ)",
+      "hi": "दिखाए गए 3 और 4 स्टार औसत का कम से ज़्यादा (आज रात और इस वीकेंड)"
+     },
+     "checked": "2026-11-17",
+     "url": "https://www.booking.com/city/in/hyderabad.html?selected_currency=INR"
+    },
+    "homestay": {
+     "min": 3500,
+     "max": 3500,
+     "source": {
+      "en": "Booking.com average homestay price in Hyderabad",
+      "pa": "Booking.com 'ਤੇ ਹੈਦਰਾਬਾਦ ਵਿੱਚ ਹੋਮਸਟੇ ਦੀ ਔਸਤ ਕੀਮਤ",
+      "hi": "Booking.com पर हैदराबाद में होमस्टे की औसत कीमत"
+     },
+     "note": {
+      "en": "Shown in US$; converted at ₹94.25 per US$ (European Central Bank rate, 13 Nov 2026)",
+      "pa": "US$ ਵਿੱਚ ਦਿਖਾਈ; ₹94.25 ਪ੍ਰਤੀ US$ ਨਾਲ ਬਦਲੀ (ਯੂਰਪੀ ਕੇਂਦਰੀ ਬੈਂਕ ਦਾ ਰੇਟ, 13 ਨਵੰਬਰ 2026)",
+      "hi": "US$ में दिखाई गई; ₹94.25 प्रति US$ से बदली (यूरोपीय केंद्रीय बैंक की दर, 13 नवंबर 2026)"
+     },
+     "checked": "2026-11-17",
+     "url": "https://www.booking.com/homestay/city/in/hyderabad.html"
+    }
+   },
+   "roadKm": {
+    "Ludhiana": 1831,
+    "Chandigarh": 1808,
+    "Delhi": 1539,
+    "Amritsar": 1978,
+    "Jalandhar": 1893,
+    "Patiala": 1776,
+    "Jaipur": 1357
+   },
+   "railhead": {
+    "name": {
+     "en": "Secunderabad Junction",
+     "pa": "ਸਿਕੰਦਰਾਬਾਦ ਜੰਕਸ਼ਨ",
+     "hi": "सिकंदराबाद जंक्शन"
+    },
+    "code": "SC",
+    "km": 8,
+    "note": "",
+    "lat": 17.4339,
+    "lng": 78.5021
+   },
+   "airport": {
+    "code": "HYD",
+    "km": 24
+   }
+  },
+  {
+   "id": "kochi",
+   "keys": [
+    "Kochi"
+   ],
+   "searchName": "Kochi",
+   "hill": false,
+   "lonelyPlanet": "https://www.lonelyplanet.com/destinations/india/kerala/kochi-cochin",
+   "pros": [
+    {
+     "en": "Fort Kochi: fishing nets and old colonial streets",
+     "pa": "ਫ਼ੋਰਟ ਕੋਚੀ: ਮੱਛੀ ਫੜਨ ਵਾਲੇ ਜਾਲ ਅਤੇ ਪੁਰਾਣੀਆਂ ਗਲੀਆਂ",
+     "hi": "फ़ोर्ट कोच्चि: मछली पकड़ने के जाल और पुरानी औपनिवेशिक गलियाँ"
+    },
+    {
+     "en": "Cheap Water Metro boats across the harbour",
+     "pa": "ਬੰਦਰਗਾਹ ਪਾਰ ਸਸਤੀਆਂ ਵਾਟਰ ਮੈਟਰੋ ਕਿਸ਼ਤੀਆਂ",
+     "hi": "बंदरगाह के पार सस्ती वाटर मेट्रो नावें"
+    },
+    {
+     "en": "Easy base for Munnar and Alleppey",
+     "pa": "ਮੁੰਨਾਰ ਅਤੇ ਅਲੈੱਪੀ ਜਾਣ ਲਈ ਸੌਖਾ ਅੱਡਾ",
+     "hi": "मुन्नार और अलेप्पी जाने के लिए आसान ठिकाना"
+    }
+   ],
+   "cons": [
+    {
+     "en": "Hot and humid most of the year",
+     "pa": "ਸਾਲ ਦਾ ਜ਼ਿਆਦਾ ਸਮਾਂ ਗਰਮ ਅਤੇ ਹੁੰਮਸ",
+     "hi": "साल के ज़्यादातर समय गर्म और उमस"
+    },
+    {
+     "en": "Heavy monsoon rain June–August",
+     "pa": "ਜੂਨ–ਅਗਸਤ ਭਾਰੀ ਮੀਂਹ",
+     "hi": "जून–अगस्त भारी बारिश"
+    }
+   ],
+   "rush": [
+    {
+     "en": "October to March is the pleasant season",
+     "pa": "ਅਕਤੂਬਰ ਤੋਂ ਮਾਰਚ ਮੌਸਮ ਸੁਹਾਵਣਾ ਰਹਿੰਦਾ ਹੈ",
+     "hi": "अक्टूबर से मार्च मौसम सुहाना रहता है"
+    },
+    {
+     "en": "Fort Kochi is busiest on weekends",
+     "pa": "ਫ਼ੋਰਟ ਕੋਚੀ ਵੀਕਐਂਡ ਉੱਤੇ ਸਭ ਤੋਂ ਭੀੜ ਵਾਲਾ",
+     "hi": "फ़ोर्ट कोच्चि वीकेंड पर सबसे भीड़ वाला"
+    },
+    {
+     "en": "Do not rely on the last Water Metro boat back; queues build up",
+     "pa": "ਵਾਪਸੀ ਲਈ ਆਖ਼ਰੀ ਵਾਟਰ ਮੈਟਰੋ ਉੱਤੇ ਨਿਰਭਰ ਨਾ ਰਹੋ; ਲਾਈਨਾਂ ਲੰਬੀਆਂ",
+     "hi": "वापसी के लिए आखिरी वाटर मेट्रो पर निर्भर न रहें; लाइनें लंबी"
+    }
+   ],
+   "stays": [
+    {
+     "name": {
+      "en": "Brunton Boatyard",
+      "pa": "ਬਰੰਟਨ ਬੋਟਯਾਰਡ",
+      "hi": "ब्रंटन बोटयार्ड"
+     },
+     "town": {
+      "en": "Fort Kochi",
+      "pa": "ਫ਼ੋਰਟ ਕੋਚੀ",
+      "hi": "फ़ोर्ट कोच्चि"
+     },
+     "type": "hotel"
+    },
+    {
+     "name": {
+      "en": "Grand Hyatt Kochi Bolgatty",
+      "pa": "ਗ੍ਰੈਂਡ ਹਯਾਤ ਕੋਚੀ ਬੋਲਗੱਟੀ",
+      "hi": "ग्रैंड हयात कोच्चि बोलगट्टी"
+     },
+     "town": {
+      "en": "Bolgatty Island",
+      "pa": "ਬੋਲਗੱਟੀ ਟਾਪੂ",
+      "hi": "बोलगट्टी द्वीप"
+     },
+     "type": "hotel"
+    }
+   ],
+   "restStops": [],
+   "places": [
+    {
+     "name": {
+      "en": "Chinese fishing nets",
+      "pa": "ਚੀਨੀ ਮੱਛੀ ਜਾਲ",
+      "hi": "चीनी मछली जाल"
+     },
+     "town": {
+      "en": "Fort Kochi",
+      "pa": "ਫ਼ੋਰਟ ਕੋਚੀ",
+      "hi": "फ़ोर्ट कोच्चि"
+     },
+     "tags": [
+      "heritage",
+      "lakes"
+     ]
+    },
+    {
+     "name": {
+      "en": "Mattancherry Palace",
+      "pa": "ਮੱਟਨਚੇਰੀ ਮਹਿਲ",
+      "hi": "मट्टनचेरी पैलेस"
+     },
+     "town": {
+      "en": "Mattancherry",
+      "pa": "ਮੱਟਨਚੇਰੀ",
+      "hi": "मट्टनचेरी"
+     },
+     "tags": [
+      "heritage"
+     ]
+    },
+    {
+     "name": {
+      "en": "Paradesi Synagogue",
+      "pa": "ਪਰਦੇਸੀ ਸਿਨਾਗੌਗ",
+      "hi": "परदेसी सिनेगॉग"
+     },
+     "town": {
+      "en": "Mattancherry",
+      "pa": "ਮੱਟਨਚੇਰੀ",
+      "hi": "मट्टनचेरी"
+     },
+     "tags": [
+      "heritage",
+      "religious"
+     ]
+    },
+    {
+     "name": {
+      "en": "St Francis Church",
+      "pa": "ਸੇਂਟ ਫ਼੍ਰਾਂਸਿਸ ਚਰਚ",
+      "hi": "सेंट फ़्रांसिस चर्च"
+     },
+     "town": {
+      "en": "Fort Kochi",
+      "pa": "ਫ਼ੋਰਟ ਕੋਚੀ",
+      "hi": "फ़ोर्ट कोच्चि"
+     },
+     "tags": [
+      "heritage",
+      "religious"
+     ]
+    },
+    {
+     "name": {
+      "en": "Marine Drive",
+      "pa": "ਮਰੀਨ ਡਰਾਈਵ",
+      "hi": "मरीन ड्राइव"
+     },
+     "town": {
+      "en": "Ernakulam",
+      "pa": "ਏਰਨਾਕੁਲਮ",
+      "hi": "एर्णाकुलम"
+     },
+     "tags": [
+      "lakes",
+      "food"
+     ]
+    }
+   ],
+   "prices": {},
+   "roadKm": {
+    "Ludhiana": 2721,
+    "Chandigarh": 2697,
+    "Delhi": 2428,
+    "Amritsar": 2867,
+    "Jalandhar": 2782,
+    "Patiala": 2665,
+    "Jaipur": 2247
+   },
+   "railhead": {
+    "name": {
+     "en": "Ernakulam Junction",
+     "pa": "ਏਰਨਾਕੁਲਮ ਜੰਕਸ਼ਨ",
+     "hi": "एर्णाकुलम जंक्शन"
+    },
+    "code": "ERS",
+    "km": 7,
+    "note": "",
+    "lat": 9.9706,
+    "lng": 76.291
+   },
+   "airport": {
+    "code": "COK",
+    "km": 38
+   },
+   "ferry": [
+    {
+     "name": {
+      "en": "Kochi Water Metro High Court–Fort Kochi",
+      "pa": "ਕੋਚੀ ਵਾਟਰ ਮੈਟਰੋ ਹਾਈ ਕੋਰਟ–ਫ਼ੋਰਟ ਕੋਚੀ",
+      "hi": "कोच्चि वाटर मेट्रो हाई कोर्ट–फ़ोर्ट कोच्चि"
+     },
+     "fareMin": 40,
+     "fareMax": 40,
+     "rides": 2,
+     "note": {
+      "en": "About 20 minutes across the harbour",
+      "pa": "ਬੰਦਰਗਾਹ ਪਾਰ ਲਗਭਗ 20 ਮਿੰਟ",
+      "hi": "बंदरगाह के पार लगभग 20 मिनट"
+     },
+     "source": "The Hindu (Apr 2024), Kochi Water Metro fares",
+     "url": "https://watermetro.co.in/",
+     "checked": "2026-11-17",
+     "approx": false
+    }
+   ]
+  },
+  {
+   "id": "puducherry",
+   "keys": [
+    "Puducherry"
+   ],
+   "searchName": "Pondicherry",
+   "hill": false,
+   "lonelyPlanet": "https://www.lonelyplanet.com/destinations/india/tamil-nadu/puducherry-pondicherry",
+   "pros": [
+    {
+     "en": "French Quarter streets and cafes",
+     "pa": "ਫ਼੍ਰੈਂਚ ਕੁਆਰਟਰ ਦੀਆਂ ਗਲੀਆਂ ਅਤੇ ਕੈਫ਼ੇ",
+     "hi": "फ़्रेंच क्वार्टर की गलियाँ और कैफ़े"
+    },
+    {
+     "en": "Seafront Promenade, nice for evening walks",
+     "pa": "ਸਮੁੰਦਰ ਕੰਢੇ ਪ੍ਰੋਮੇਨੇਡ, ਸ਼ਾਮ ਦੀ ਸੈਰ ਲਈ ਵਧੀਆ",
+     "hi": "समुद्र किनारे प्रोमेनेड, शाम की सैर के लिए अच्छा"
+    },
+    {
+     "en": "Auroville is close by",
+     "pa": "ਔਰੋਵਿਲ ਨੇੜੇ ਹੀ ਹੈ",
+     "hi": "ऑरोविल पास ही है"
+    }
+   ],
+   "cons": [
+    {
+     "en": "Hot and humid in summer",
+     "pa": "ਗਰਮੀਆਂ ਵਿੱਚ ਗਰਮ ਅਤੇ ਹੁੰਮਸ",
+     "hi": "गर्मियों में गर्म और उमस"
+    },
+    {
+     "en": "Heavy rain and cyclones possible in Oct–Dec",
+     "pa": "ਅਕਤੂਬਰ–ਦਸੰਬਰ ਵਿੱਚ ਭਾਰੀ ਮੀਂਹ ਅਤੇ ਚੱਕਰਵਾਤ ਹੋ ਸਕਦੇ ਹਨ",
+     "hi": "अक्टूबर–दिसंबर में भारी बारिश और चक्रवात हो सकते हैं"
+    }
+   ],
+   "rush": [
+    {
+     "en": "January to March is best",
+     "pa": "ਜਨਵਰੀ ਤੋਂ ਮਾਰਚ ਸਭ ਤੋਂ ਵਧੀਆ",
+     "hi": "जनवरी से मार्च सबसे अच्छा"
+    },
+    {
+     "en": "Weekends are busy with visitors from Chennai",
+     "pa": "ਵੀਕਐਂਡ ਉੱਤੇ ਚੇਨਈ ਤੋਂ ਆਉਣ ਵਾਲਿਆਂ ਦੀ ਭੀੜ",
+     "hi": "वीकेंड पर चेन्नई से आने वालों की भीड़"
+    },
+    {
+     "en": "Matrimandir (Auroville) viewing needs a pass from the visitor centre",
+     "pa": "ਮਾਤ੍ਰੀਮੰਦਿਰ (ਔਰੋਵਿਲ) ਵੇਖਣ ਲਈ ਵਿਜ਼ਿਟਰ ਸੈਂਟਰ ਤੋਂ ਪਾਸ ਚਾਹੀਦਾ",
+     "hi": "मातृमंदिर (ऑरोविल) देखने के लिए विज़िटर सेंटर से पास चाहिए"
+    }
+   ],
+   "stays": [
+    {
+     "name": {
+      "en": "Palais de Mahe",
+      "pa": "ਪੈਲੇ ਦ ਮਾਹੇ",
+      "hi": "पैले द माहे"
+     },
+     "town": {
+      "en": "Puducherry",
+      "pa": "ਪੁੱਡੂਚੇਰੀ",
+      "hi": "पुदुच्चेरी"
+     },
+     "type": "hotel"
+    },
+    {
+     "name": {
+      "en": "The Promenade",
+      "pa": "ਦ ਪ੍ਰੋਮੇਨੇਡ",
+      "hi": "द प्रोमेनेड"
+     },
+     "town": {
+      "en": "Puducherry",
+      "pa": "ਪੁੱਡੂਚੇਰੀ",
+      "hi": "पुदुच्चेरी"
+     },
+     "type": "hotel"
+    }
+   ],
+   "restStops": [],
+   "places": [
+    {
+     "name": {
+      "en": "Promenade Beach",
+      "pa": "ਪ੍ਰੋਮੇਨੇਡ ਬੀਚ",
+      "hi": "प्रोमेनेड बीच"
+     },
+     "town": {
+      "en": "Puducherry",
+      "pa": "ਪੁੱਡੂਚੇਰੀ",
+      "hi": "पुदुच्चेरी"
+     },
+     "tags": [
+      "lakes"
+     ]
+    },
+    {
+     "name": {
+      "en": "French Quarter (White Town)",
+      "pa": "ਫ਼੍ਰੈਂਚ ਕੁਆਰਟਰ (ਵ੍ਹਾਈਟ ਟਾਊਨ)",
+      "hi": "फ़्रेंच क्वार्टर (व्हाइट टाउन)"
+     },
+     "town": {
+      "en": "Puducherry",
+      "pa": "ਪੁੱਡੂਚੇਰੀ",
+      "hi": "पुदुच्चेरी"
+     },
+     "tags": [
+      "heritage",
+      "food"
+     ]
+    },
+    {
+     "name": {
+      "en": "Sri Aurobindo Ashram",
+      "pa": "ਸ੍ਰੀ ਅਰਬਿੰਦੋ ਆਸ਼ਰਮ",
+      "hi": "श्री अरबिंदो आश्रम"
+     },
+     "town": {
+      "en": "Puducherry",
+      "pa": "ਪੁੱਡੂਚੇਰੀ",
+      "hi": "पुदुच्चेरी"
+     },
+     "tags": [
+      "religious"
+     ]
+    },
+    {
+     "name": {
+      "en": "Matrimandir",
+      "pa": "ਮਾਤ੍ਰੀਮੰਦਿਰ",
+      "hi": "मातृमंदिर"
+     },
+     "town": {
+      "en": "Auroville",
+      "pa": "ਔਰੋਵਿਲ",
+      "hi": "ऑरोविल"
+     },
+     "tags": [
+      "religious"
+     ]
+    },
+    {
+     "name": {
+      "en": "Paradise Beach",
+      "pa": "ਪੈਰਾਡਾਈਜ਼ ਬੀਚ",
+      "hi": "पैराडाइज़ बीच"
+     },
+     "town": {
+      "en": "Chunnambar",
+      "pa": "ਚੁੰਨਾਂਬਰ",
+      "hi": "चुन्नांबर"
+     },
+     "tags": [
+      "lakes",
+      "adventure"
+     ]
+    }
+   ],
+   "prices": {
+    "hotel": {
+     "min": 5700,
+     "max": 9000,
+     "source": {
+      "en": "Booking.com average for 3–4 star hotels in Puducherry",
+      "pa": "Booking.com 'ਤੇ ਪੁੱਡੂਚੇਰੀ ਦੇ 3–4 ਸਟਾਰ ਹੋਟਲਾਂ ਦੀ ਔਸਤ",
+      "hi": "Booking.com पर पुदुच्चेरी के 3–4 स्टार होटलों का औसत"
+     },
+     "note": {
+      "en": "Lowest to highest of the 3-star and 4-star averages shown (tonight and this weekend)",
+      "pa": "ਦਿਖਾਈ ਗਈ 3 ਅਤੇ 4 ਸਟਾਰ ਔਸਤ ਦਾ ਘੱਟ ਤੋਂ ਵੱਧ (ਅੱਜ ਰਾਤ ਅਤੇ ਇਸ ਵੀਕਐਂਡ)",
+      "hi": "दिखाए गए 3 और 4 स्टार औसत का कम से ज़्यादा (आज रात और इस वीकेंड)"
+     },
+     "checked": "2026-11-17",
+     "url": "https://www.booking.com/city/in/pondicherry.html?selected_currency=INR"
+    },
+    "homestay": {
+     "min": 4000,
+     "max": 4000,
+     "source": {
+      "en": "Booking.com average homestay price in Puducherry",
+      "pa": "Booking.com 'ਤੇ ਪੁੱਡੂਚੇਰੀ ਵਿੱਚ ਹੋਮਸਟੇ ਦੀ ਔਸਤ ਕੀਮਤ",
+      "hi": "Booking.com पर पुदुच्चेरी में होमस्टे की औसत कीमत"
+     },
+     "note": {
+      "en": "Shown in US$; converted at ₹94.25 per US$ (European Central Bank rate, 13 Nov 2026)",
+      "pa": "US$ ਵਿੱਚ ਦਿਖਾਈ; ₹94.25 ਪ੍ਰਤੀ US$ ਨਾਲ ਬਦਲੀ (ਯੂਰਪੀ ਕੇਂਦਰੀ ਬੈਂਕ ਦਾ ਰੇਟ, 13 ਨਵੰਬਰ 2026)",
+      "hi": "US$ में दिखाई गई; ₹94.25 प्रति US$ से बदली (यूरोपीय केंद्रीय बैंक की दर, 13 नवंबर 2026)"
+     },
+     "checked": "2026-11-17",
+     "url": "https://www.booking.com/homestay/city/in/pondicherry.html"
+    }
+   },
+   "roadKm": {
+    "Ludhiana": 2611,
+    "Chandigarh": 2587,
+    "Delhi": 2318,
+    "Amritsar": 2757,
+    "Jalandhar": 2672,
+    "Patiala": 2555,
+    "Jaipur": 2137
+   },
+   "railhead": {
+    "name": {
+     "en": "Puducherry",
+     "pa": "ਪੁੱਡੂਚੇਰੀ",
+     "hi": "पुदुच्चेरी"
+    },
+    "code": "PDY",
+    "km": 1,
+    "note": "",
+    "lat": 11.9252,
+    "lng": 79.8267
+   },
+   "airport": {
+    "code": "MAA",
+    "km": 148
+   }
+  },
+  {
+   "id": "hampi",
+   "keys": [
+    "Hampi"
+   ],
+   "searchName": "Hampi",
+   "hill": false,
+   "lonelyPlanet": "https://www.lonelyplanet.com/destinations/india/karnataka/hampi",
+   "pros": [
+    {
+     "en": "Vijayanagara ruins (UNESCO) spread over a huge area",
+     "pa": "ਵਿਜੈਨਗਰ ਦੇ ਖੰਡਰ (ਯੂਨੈਸਕੋ), ਬਹੁਤ ਵੱਡੇ ਇਲਾਕੇ ਵਿੱਚ",
+     "hi": "विजयनगर के खंडहर (यूनेस्को), बहुत बड़े इलाके में"
+    },
+    {
+     "en": "Boulder hills and great sunsets",
+     "pa": "ਵੱਡੇ ਪੱਥਰਾਂ ਵਾਲੀਆਂ ਪਹਾੜੀਆਂ ਅਤੇ ਸੋਹਣਾ ਸੂਰਜ ਡੁੱਬਣਾ",
+     "hi": "बड़ी चट्टानों वाली पहाड़ियाँ और सुंदर सूर्यास्त"
+    },
+    {
+     "en": "Calm and budget-friendly",
+     "pa": "ਸ਼ਾਂਤ ਅਤੇ ਘੱਟ ਖ਼ਰਚੇ ਵਾਲਾ",
+     "hi": "शांत और कम खर्च वाला"
+    }
+   ],
+   "cons": [
+    {
+     "en": "Very hot from March to May",
+     "pa": "ਮਾਰਚ ਤੋਂ ਮਈ ਬਹੁਤ ਗਰਮੀ",
+     "hi": "मार्च से मई बहुत गर्मी"
+    },
+    {
+     "en": "Lots of walking in the sun",
+     "pa": "ਧੁੱਪ ਵਿੱਚ ਬਹੁਤ ਤੁਰਨਾ ਪੈਂਦਾ ਹੈ",
+     "hi": "धूप में बहुत चलना पड़ता है"
+    },
+    {
+     "en": "Few large hotels",
+     "pa": "ਵੱਡੇ ਹੋਟਲ ਘੱਟ",
+     "hi": "बड़े होटल कम"
+    }
+   ],
+   "rush": [
+    {
+     "en": "October to February is best",
+     "pa": "ਅਕਤੂਬਰ ਤੋਂ ਫ਼ਰਵਰੀ ਸਭ ਤੋਂ ਵਧੀਆ",
+     "hi": "अक्टूबर से फ़रवरी सबसे अच्छा"
+    },
+    {
+     "en": "Start early and rest at midday",
+     "pa": "ਸਵੇਰੇ ਜਲਦੀ ਸ਼ੁਰੂ ਕਰੋ ਅਤੇ ਦੁਪਹਿਰੇ ਆਰਾਮ ਕਰੋ",
+     "hi": "सुबह जल्दी शुरू करें और दोपहर में आराम करें"
+    },
+    {
+     "en": "Hire a bicycle, scooter or auto to cover the ruins",
+     "pa": "ਖੰਡਰ ਵੇਖਣ ਲਈ ਸਾਈਕਲ, ਸਕੂਟਰ ਜਾਂ ਆਟੋ ਕਿਰਾਏ ਤੇ ਲਵੋ",
+     "hi": "खंडहर देखने के लिए साइकिल, स्कूटर या ऑटो किराए पर लें"
+    }
+   ],
+   "stays": [
+    {
+     "name": {
+      "en": "KSTDC Hotel Mayura Bhuvaneshwari",
+      "pa": "ਕੇਐਸਟੀਡੀਸੀ ਹੋਟਲ ਮਯੂਰਾ ਭੁਵਨੇਸ਼ਵਰੀ",
+      "hi": "केएसटीडीसी होटल मयूरा भुवनेश्वरी"
+     },
+     "town": {
+      "en": "Kamalapura",
+      "pa": "ਕਮਲਾਪੁਰਾ",
+      "hi": "कमलापुरा"
+     },
+     "type": "govt"
+    },
+    {
+     "name": {
+      "en": "Evolve Back Hampi",
+      "pa": "ਇਵੋਲਵ ਬੈਕ ਹੰਪੀ",
+      "hi": "इवॉल्व बैक हम्पी"
+     },
+     "town": {
+      "en": "Kamalapura",
+      "pa": "ਕਮਲਾਪੁਰਾ",
+      "hi": "कमलापुरा"
+     },
+     "type": "hotel"
+    }
+   ],
+   "restStops": [],
+   "places": [
+    {
+     "name": {
+      "en": "Virupaksha Temple",
+      "pa": "ਵਿਰੂਪਾਕਸ਼ ਮੰਦਰ",
+      "hi": "विरूपाक्ष मंदिर"
+     },
+     "town": {
+      "en": "Hampi",
+      "pa": "ਹੰਪੀ",
+      "hi": "हम्पी"
+     },
+     "tags": [
+      "religious",
+      "heritage"
+     ]
+    },
+    {
+     "name": {
+      "en": "Vittala Temple and stone chariot",
+      "pa": "ਵਿੱਠਲ ਮੰਦਰ ਅਤੇ ਪੱਥਰ ਦਾ ਰਥ",
+      "hi": "विट्ठल मंदिर और पत्थर का रथ"
+     },
+     "town": {
+      "en": "Hampi",
+      "pa": "ਹੰਪੀ",
+      "hi": "हम्पी"
+     },
+     "tags": [
+      "heritage"
+     ]
+    },
+    {
+     "name": {
+      "en": "Lotus Mahal",
+      "pa": "ਲੋਟਸ ਮਹਿਲ",
+      "hi": "लोटस महल"
+     },
+     "town": {
+      "en": "Hampi",
+      "pa": "ਹੰਪੀ",
+      "hi": "हम्पी"
+     },
+     "tags": [
+      "heritage"
+     ]
+    },
+    {
+     "name": {
+      "en": "Matanga Hill",
+      "pa": "ਮਾਤੰਗ ਪਹਾੜੀ",
+      "hi": "मातंग पहाड़ी"
+     },
+     "town": {
+      "en": "Hampi",
+      "pa": "ਹੰਪੀ",
+      "hi": "हम्पी"
+     },
+     "tags": [
+      "hills",
+      "adventure"
+     ]
+    },
+    {
+     "name": {
+      "en": "Coracle ride on the Tungabhadra",
+      "pa": "ਤੁੰਗਭੱਦਰਾ ਨਦੀ ਵਿੱਚ ਗੋਲ ਕਿਸ਼ਤੀ ਦੀ ਸੈਰ",
+      "hi": "तुंगभद्रा नदी में गोल नाव (कोरेकल) की सैर"
+     },
+     "town": {
+      "en": "Hampi",
+      "pa": "ਹੰਪੀ",
+      "hi": "हम्पी"
+     },
+     "tags": [
+      "lakes",
+      "adventure"
+     ]
+    }
+   ],
+   "prices": {
+    "hotel": {
+     "min": 4800,
+     "max": 12600,
+     "source": {
+      "en": "Booking.com average for 3–4 star hotels in Hampi",
+      "pa": "Booking.com 'ਤੇ ਹੰਪੀ ਦੇ 3–4 ਸਟਾਰ ਹੋਟਲਾਂ ਦੀ ਔਸਤ",
+      "hi": "Booking.com पर हम्पी के 3–4 स्टार होटलों का औसत"
+     },
+     "note": {
+      "en": "Lowest to highest of the 3-star and 4-star averages shown (tonight and this weekend)",
+      "pa": "ਦਿਖਾਈ ਗਈ 3 ਅਤੇ 4 ਸਟਾਰ ਔਸਤ ਦਾ ਘੱਟ ਤੋਂ ਵੱਧ (ਅੱਜ ਰਾਤ ਅਤੇ ਇਸ ਵੀਕਐਂਡ)",
+      "hi": "दिखाए गए 3 और 4 स्टार औसत का कम से ज़्यादा (आज रात और इस वीकेंड)"
+     },
+     "checked": "2026-11-17",
+     "url": "https://www.booking.com/city/in/hampi.html?selected_currency=INR"
+    },
+    "homestay": {
+     "min": 2700,
+     "max": 2700,
+     "source": {
+      "en": "Booking.com average homestay price in Hampi",
+      "pa": "Booking.com 'ਤੇ ਹੰਪੀ ਵਿੱਚ ਹੋਮਸਟੇ ਦੀ ਔਸਤ ਕੀਮਤ",
+      "hi": "Booking.com पर हम्पी में होमस्टे की औसत कीमत"
+     },
+     "note": {
+      "en": "Shown in US$; converted at ₹94.25 per US$ (European Central Bank rate, 13 Nov 2026)",
+      "pa": "US$ ਵਿੱਚ ਦਿਖਾਈ; ₹94.25 ਪ੍ਰਤੀ US$ ਨਾਲ ਬਦਲੀ (ਯੂਰਪੀ ਕੇਂਦਰੀ ਬੈਂਕ ਦਾ ਰੇਟ, 13 ਨਵੰਬਰ 2026)",
+      "hi": "US$ में दिखाई गई; ₹94.25 प्रति US$ से बदली (यूरोपीय केंद्रीय बैंक की दर, 13 नवंबर 2026)"
+     },
+     "checked": "2026-11-17",
+     "url": "https://www.booking.com/homestay/city/in/hampi.html"
+    }
+   },
+   "roadKm": {
+    "Ludhiana": 2012,
+    "Chandigarh": 1988,
+    "Delhi": 1720,
+    "Amritsar": 2158,
+    "Jalandhar": 2073,
+    "Patiala": 1956,
+    "Jaipur": 1538
+   },
+   "railhead": {
+    "name": {
+     "en": "Hosapete Junction",
+     "pa": "ਹੋਸਪੇਟ ਜੰਕਸ਼ਨ",
+     "hi": "होसपेट जंक्शन"
+    },
+    "code": "HPT",
+    "km": 12,
+    "note": "",
+    "lat": 15.2865,
+    "lng": 76.3866
+   },
+   "airport": {
+    "code": "HBX",
+    "km": 172
+   }
+  },
+  {
+   "id": "coorg",
+   "keys": [
+    "Coorg (Madikeri)"
+   ],
+   "searchName": "Coorg",
+   "hill": true,
+   "lonelyPlanet": "https://www.lonelyplanet.com/search?q=coorg",
+   "pros": [
+    {
+     "en": "Coffee estates and misty green hills",
+     "pa": "ਕੌਫ਼ੀ ਦੇ ਬਾਗ਼ ਅਤੇ ਧੁੰਦ ਭਰੀਆਂ ਹਰੀਆਂ ਪਹਾੜੀਆਂ",
+     "hi": "कॉफ़ी बागान और धुंध भरी हरी पहाड़ियाँ"
+    },
+    {
+     "en": "Waterfalls and an elephant camp",
+     "pa": "ਝਰਨੇ ਅਤੇ ਹਾਥੀ ਕੈਂਪ",
+     "hi": "झरने और हाथी कैंप"
+    },
+    {
+     "en": "Tibetan monastery at Bylakuppe",
+     "pa": "ਬਾਈਲਾਕੁੱਪੇ ਵਿੱਚ ਤਿੱਬਤੀ ਮੱਠ",
+     "hi": "बायलाकुप्पे में तिब्बती मठ"
+    }
+   ],
+   "cons": [
+    {
+     "en": "Heavy rain and leeches June–September",
+     "pa": "ਜੂਨ–ਸਤੰਬਰ ਭਾਰੀ ਮੀਂਹ ਅਤੇ ਜੋਕਾਂ",
+     "hi": "जून–सितंबर भारी बारिश और जोंक"
+    },
+    {
+     "en": "No railway nearby; winding roads",
+     "pa": "ਨੇੜੇ ਰੇਲ ਨਹੀਂ; ਘੁਮਾਵਦਾਰ ਸੜਕਾਂ",
+     "hi": "पास में रेल नहीं; घुमावदार सड़कें"
+    }
+   ],
+   "rush": [
+    {
+     "en": "October to March is the pleasant season",
+     "pa": "ਅਕਤੂਬਰ ਤੋਂ ਮਾਰਚ ਮੌਸਮ ਸੁਹਾਵਣਾ ਰਹਿੰਦਾ ਹੈ",
+     "hi": "अक्टूबर से मार्च मौसम सुहाना रहता है"
+    },
+    {
+     "en": "Weekends fill up with visitors from Bengaluru",
+     "pa": "ਵੀਕਐਂਡ ਉੱਤੇ ਬੈਂਗਲੁਰੂ ਤੋਂ ਭੀੜ",
+     "hi": "वीकेंड पर बेंगलुरु से भीड़"
+    },
+    {
+     "en": "Reach Dubare elephant camp in the morning",
+     "pa": "ਦੁਬਾਰੇ ਹਾਥੀ ਕੈਂਪ ਸਵੇਰੇ ਪਹੁੰਚੋ",
+     "hi": "दुबारे हाथी कैंप सुबह पहुँचें"
+    }
+   ],
+   "stays": [
+    {
+     "name": {
+      "en": "Taj Madikeri Resort & Spa",
+      "pa": "ਤਾਜ ਮਡੀਕੇਰੀ ਰਿਜ਼ੋਰਟ ਐਂਡ ਸਪਾ",
+      "hi": "ताज मडिकेरी रिज़ॉर्ट एंड स्पा"
+     },
+     "town": {
+      "en": "Madikeri",
+      "pa": "ਮਡੀਕੇਰੀ",
+      "hi": "मडिकेरी"
+     },
+     "type": "hotel"
+    },
+    {
+     "name": {
+      "en": "The Tamara Coorg",
+      "pa": "ਦ ਤਮਾਰਾ ਕੂਰਗ",
+      "hi": "द तमारा कूर्ग"
+     },
+     "town": {
+      "en": "Madikeri",
+      "pa": "ਮਡੀਕੇਰੀ",
+      "hi": "मडिकेरी"
+     },
+     "type": "hotel"
+    }
+   ],
+   "restStops": [],
+   "places": [
+    {
+     "name": {
+      "en": "Abbey Falls",
+      "pa": "ਐਬੀ ਝਰਨਾ",
+      "hi": "एबी फ़ॉल्स"
+     },
+     "town": {
+      "en": "Madikeri",
+      "pa": "ਮਡੀਕੇਰੀ",
+      "hi": "मडिकेरी"
+     },
+     "tags": [
+      "hills",
+      "lakes"
+     ]
+    },
+    {
+     "name": {
+      "en": "Raja’s Seat",
+      "pa": "ਰਾਜਾ ਦੀ ਸੀਟ",
+      "hi": "राजा की सीट"
+     },
+     "town": {
+      "en": "Madikeri",
+      "pa": "ਮਡੀਕੇਰੀ",
+      "hi": "मडिकेरी"
+     },
+     "tags": [
+      "hills"
+     ]
+    },
+    {
+     "name": {
+      "en": "Dubare Elephant Camp",
+      "pa": "ਦੁਬਾਰੇ ਹਾਥੀ ਕੈਂਪ",
+      "hi": "दुबारे हाथी कैंप"
+     },
+     "town": {
+      "en": "Dubare",
+      "pa": "ਦੁਬਾਰੇ",
+      "hi": "दुबारे"
+     },
+     "tags": [
+      "wildlife"
+     ]
+    },
+    {
+     "name": {
+      "en": "Namdroling Monastery (Golden Temple)",
+      "pa": "ਨਾਮਡ੍ਰੋਲਿੰਗ ਮੱਠ (ਗੋਲਡਨ ਟੈਂਪਲ)",
+      "hi": "नामद्रोलिंग मठ (गोल्डन टेंपल)"
+     },
+     "town": {
+      "en": "Bylakuppe",
+      "pa": "ਬਾਈਲਾਕੁੱਪੇ",
+      "hi": "बायलाकुप्पे"
+     },
+     "tags": [
+      "religious"
+     ]
+    },
+    {
+     "name": {
+      "en": "Talakaveri",
+      "pa": "ਤਲਕਾਵੇਰੀ",
+      "hi": "तलकावेरी"
+     },
+     "town": {
+      "en": "Bhagamandala",
+      "pa": "ਭਾਗਮੰਡਲਾ",
+      "hi": "भागमंडला"
+     },
+     "tags": [
+      "religious",
+      "hills"
+     ]
+    }
+   ],
+   "prices": {
+    "hotel": {
+     "min": 2100,
+     "max": 16400,
+     "source": {
+      "en": "Booking.com average for 3–4 star hotels in Madikeri",
+      "pa": "Booking.com 'ਤੇ ਮਡੀਕੇਰੀ ਦੇ 3–4 ਸਟਾਰ ਹੋਟਲਾਂ ਦੀ ਔਸਤ",
+      "hi": "Booking.com पर मडिकेरी के 3–4 स्टार होटलों का औसत"
+     },
+     "note": {
+      "en": "Lowest to highest of the 3-star and 4-star averages shown (tonight and this weekend)",
+      "pa": "ਦਿਖਾਈ ਗਈ 3 ਅਤੇ 4 ਸਟਾਰ ਔਸਤ ਦਾ ਘੱਟ ਤੋਂ ਵੱਧ (ਅੱਜ ਰਾਤ ਅਤੇ ਇਸ ਵੀਕਐਂਡ)",
+      "hi": "दिखाए गए 3 और 4 स्टार औसत का कम से ज़्यादा (आज रात और इस वीकेंड)"
+     },
+     "checked": "2026-11-17",
+     "url": "https://www.booking.com/city/in/madikeri.html?selected_currency=INR"
+    },
+    "homestay": {
+     "min": 4700,
+     "max": 4700,
+     "source": {
+      "en": "Booking.com average homestay price in Madikeri",
+      "pa": "Booking.com 'ਤੇ ਮਡੀਕੇਰੀ ਵਿੱਚ ਹੋਮਸਟੇ ਦੀ ਔਸਤ ਕੀਮਤ",
+      "hi": "Booking.com पर मडिकेरी में होमस्टे की औसत कीमत"
+     },
+     "note": {
+      "en": "Shown in US$; converted at ₹94.25 per US$ (European Central Bank rate, 13 Nov 2026)",
+      "pa": "US$ ਵਿੱਚ ਦਿਖਾਈ; ₹94.25 ਪ੍ਰਤੀ US$ ਨਾਲ ਬਦਲੀ (ਯੂਰਪੀ ਕੇਂਦਰੀ ਬੈਂਕ ਦਾ ਰੇਟ, 13 ਨਵੰਬਰ 2026)",
+      "hi": "US$ में दिखाई गई; ₹94.25 प्रति US$ से बदली (यूरोपीय केंद्रीय बैंक की दर, 13 नवंबर 2026)"
+     },
+     "checked": "2026-11-17",
+     "url": "https://www.booking.com/homestay/city/in/madikeri.html"
+    }
+   },
+   "roadKm": {
+    "Ludhiana": 2419,
+    "Chandigarh": 2395,
+    "Delhi": 2126,
+    "Amritsar": 2565,
+    "Jalandhar": 2480,
+    "Patiala": 2363,
+    "Jaipur": 1945
+   },
+   "railhead": {
+    "name": {
+     "en": "Mysuru Junction",
+     "pa": "ਮੈਸੂਰ ਜੰਕਸ਼ਨ",
+     "hi": "मैसूर जंक्शन"
+    },
+    "code": "MYS",
+    "km": 118,
+    "note": "coorgRail",
+    "lat": 12.317,
+    "lng": 76.6452
+   },
+   "airport": {
+    "code": "IXE",
+    "km": 141
+   }
+  },
+  {
+   "id": "kodaikanal",
+   "keys": [
+    "Kodaikanal"
+   ],
+   "searchName": "Kodaikanal",
+   "hill": true,
+   "lonelyPlanet": "https://www.lonelyplanet.com/search?q=kodaikanal",
+   "pros": [
+    {
+     "en": "Star-shaped lake and cool weather",
+     "pa": "ਤਾਰੇ ਵਰਗੀ ਝੀਲ ਅਤੇ ਠੰਢਾ ਮੌਸਮ",
+     "hi": "तारे जैसी झील और ठंडा मौसम"
+    },
+    {
+     "en": "Cliff views from Coaker’s Walk",
+     "pa": "ਕੋਕਰਜ਼ ਵਾਕ ਤੋਂ ਚੱਟਾਨਾਂ ਦੇ ਨਜ਼ਾਰੇ",
+     "hi": "कोकर्स वॉक से चट्टानों के नज़ारे"
+    },
+    {
+     "en": "Pine forests and quiet walks",
+     "pa": "ਚੀੜ ਦੇ ਜੰਗਲ ਅਤੇ ਸ਼ਾਂਤ ਸੈਰ",
+     "hi": "चीड़ के जंगल और शांत सैर"
+    }
+   ],
+   "cons": [
+    {
+     "en": "Weekend traffic jams on the ghat road",
+     "pa": "ਵੀਕਐਂਡ ਉੱਤੇ ਘਾਟ ਸੜਕ ਉੱਤੇ ਜਾਮ",
+     "hi": "वीकेंड पर घाट रोड पर जाम"
+    },
+    {
+     "en": "Mist can hide the views",
+     "pa": "ਧੁੰਦ ਨਜ਼ਾਰੇ ਲੁਕਾ ਸਕਦੀ ਹੈ",
+     "hi": "धुंध नज़ारे छिपा सकती है"
+    }
+   ],
+   "rush": [
+    {
+     "en": "April–May is the busiest season; September–March is calmer",
+     "pa": "ਅਪ੍ਰੈਲ–ਮਈ ਸਭ ਤੋਂ ਭੀੜ ਵਾਲਾ; ਸਤੰਬਰ–ਮਾਰਚ ਸ਼ਾਂਤ",
+     "hi": "अप्रैल–मई सबसे भीड़ वाला; सितंबर–मार्च शांत"
+    },
+    {
+     "en": "Go boating on the lake in the morning",
+     "pa": "ਸਵੇਰੇ ਝੀਲ ਵਿੱਚ ਕਿਸ਼ਤੀ ਚਲਾਓ",
+     "hi": "सुबह झील में नौका विहार करें"
+    },
+    {
+     "en": "Weekdays are calmer than weekends and long holidays",
+     "pa": "ਆਮ ਦਿਨ ਵੀਕਐਂਡ ਅਤੇ ਲੰਬੀਆਂ ਛੁੱਟੀਆਂ ਨਾਲੋਂ ਸ਼ਾਂਤ ਰਹਿੰਦੇ ਹਨ",
+     "hi": "आम दिन वीकेंड और लंबी छुट्टियों से शांत रहते हैं"
+    }
+   ],
+   "stays": [
+    {
+     "name": {
+      "en": "TTDC Hotel Tamil Nadu, Kodaikanal",
+      "pa": "ਟੀਟੀਡੀਸੀ ਹੋਟਲ ਤਮਿਲ ਨਾਡੂ, ਕੋਡਾਈਕਨਾਲ",
+      "hi": "टीटीडीसी होटल तमिलनाडु, कोडाइकनाल"
+     },
+     "town": {
+      "en": "Kodaikanal",
+      "pa": "ਕੋਡਾਈਕਨਾਲ",
+      "hi": "कोडाइकनाल"
+     },
+     "type": "govt"
+    },
+    {
+     "name": {
+      "en": "The Carlton",
+      "pa": "ਦ ਕਾਰਲਟਨ",
+      "hi": "द कार्लटन"
+     },
+     "town": {
+      "en": "Kodaikanal",
+      "pa": "ਕੋਡਾਈਕਨਾਲ",
+      "hi": "कोडाइकनाल"
+     },
+     "type": "hotel"
+    }
+   ],
+   "restStops": [],
+   "places": [
+    {
+     "name": {
+      "en": "Kodaikanal Lake",
+      "pa": "ਕੋਡਾਈਕਨਾਲ ਝੀਲ",
+      "hi": "कोडाइकनाल झील"
+     },
+     "town": {
+      "en": "Kodaikanal",
+      "pa": "ਕੋਡਾਈਕਨਾਲ",
+      "hi": "कोडाइकनाल"
+     },
+     "tags": [
+      "lakes"
+     ]
+    },
+    {
+     "name": {
+      "en": "Coaker’s Walk",
+      "pa": "ਕੋਕਰਜ਼ ਵਾਕ",
+      "hi": "कोकर्स वॉक"
+     },
+     "town": {
+      "en": "Kodaikanal",
+      "pa": "ਕੋਡਾਈਕਨਾਲ",
+      "hi": "कोडाइकनाल"
+     },
+     "tags": [
+      "hills"
+     ]
+    },
+    {
+     "name": {
+      "en": "Pillar Rocks",
+      "pa": "ਪਿੱਲਰ ਰੌਕਸ",
+      "hi": "पिलर रॉक्स"
+     },
+     "town": {
+      "en": "Kodaikanal",
+      "pa": "ਕੋਡਾਈਕਨਾਲ",
+      "hi": "कोडाइकनाल"
+     },
+     "tags": [
+      "hills"
+     ]
+    },
+    {
+     "name": {
+      "en": "Bryant Park",
+      "pa": "ਬ੍ਰਾਇੰਟ ਪਾਰਕ",
+      "hi": "ब्रायंट पार्क"
+     },
+     "town": {
+      "en": "Kodaikanal",
+      "pa": "ਕੋਡਾਈਕਨਾਲ",
+      "hi": "कोडाइकनाल"
+     },
+     "tags": [
+      "hills"
+     ]
+    },
+    {
+     "name": {
+      "en": "Guna Caves viewpoint",
+      "pa": "ਗੁਨਾ ਗੁਫ਼ਾ ਵਿਊਪੁਆਇੰਟ",
+      "hi": "गुना गुफा व्यूपॉइंट"
+     },
+     "town": {
+      "en": "Kodaikanal",
+      "pa": "ਕੋਡਾਈਕਨਾਲ",
+      "hi": "कोडाइकनाल"
+     },
+     "tags": [
+      "hills",
+      "adventure"
+     ]
+    }
+   ],
+   "prices": {
+    "hotel": {
+     "min": 5300,
+     "max": 11100,
+     "source": {
+      "en": "Booking.com average for 3–4 star hotels in Kodaikanal",
+      "pa": "Booking.com 'ਤੇ ਕੋਡਾਈਕਨਾਲ ਦੇ 3–4 ਸਟਾਰ ਹੋਟਲਾਂ ਦੀ ਔਸਤ",
+      "hi": "Booking.com पर कोडाइकनाल के 3–4 स्टार होटलों का औसत"
+     },
+     "note": {
+      "en": "Lowest to highest of the 3-star and 4-star averages shown (tonight and this weekend)",
+      "pa": "ਦਿਖਾਈ ਗਈ 3 ਅਤੇ 4 ਸਟਾਰ ਔਸਤ ਦਾ ਘੱਟ ਤੋਂ ਵੱਧ (ਅੱਜ ਰਾਤ ਅਤੇ ਇਸ ਵੀਕਐਂਡ)",
+      "hi": "दिखाए गए 3 और 4 स्टार औसत का कम से ज़्यादा (आज रात और इस वीकेंड)"
+     },
+     "checked": "2026-11-17",
+     "url": "https://www.booking.com/city/in/kodaikanal.html?selected_currency=INR"
+    },
+    "homestay": {
+     "min": 3500,
+     "max": 3500,
+     "source": {
+      "en": "Booking.com average homestay price in Kodaikanal",
+      "pa": "Booking.com 'ਤੇ ਕੋਡਾਈਕਨਾਲ ਵਿੱਚ ਹੋਮਸਟੇ ਦੀ ਔਸਤ ਕੀਮਤ",
+      "hi": "Booking.com पर कोडाइकनाल में होमस्टे की औसत कीमत"
+     },
+     "note": {
+      "en": "Shown in US$; converted at ₹94.25 per US$ (European Central Bank rate, 13 Nov 2026)",
+      "pa": "US$ ਵਿੱਚ ਦਿਖਾਈ; ₹94.25 ਪ੍ਰਤੀ US$ ਨਾਲ ਬਦਲੀ (ਯੂਰਪੀ ਕੇਂਦਰੀ ਬੈਂਕ ਦਾ ਰੇਟ, 13 ਨਵੰਬਰ 2026)",
+      "hi": "US$ में दिखाई गई; ₹94.25 प्रति US$ से बदली (यूरोपीय केंद्रीय बैंक की दर, 13 नवंबर 2026)"
+     },
+     "checked": "2026-11-17",
+     "url": "https://www.booking.com/homestay/city/in/kodaikanal.html"
+    }
+   },
+   "roadKm": {
+    "Ludhiana": 2739,
+    "Chandigarh": 2715,
+    "Delhi": 2447,
+    "Amritsar": 2886,
+    "Jalandhar": 2801,
+    "Patiala": 2683,
+    "Jaipur": 2265
+   },
+   "railhead": {
+    "name": {
+     "en": "Kodaikanal Road",
+     "pa": "ਕੋਡਾਈਕਨਾਲ ਰੋਡ",
+     "hi": "कोडाइकनाल रोड"
+    },
+    "code": "KQN",
+    "km": 87,
+    "note": "",
+    "lat": 10.179,
+    "lng": 77.9109
+   },
+   "airport": {
+    "code": "IXM",
+    "km": 136
+   }
+  },
+  {
+   "id": "madurai",
+   "keys": [
+    "Madurai",
+    "Rameswaram"
+   ],
+   "searchName": "Madurai",
+   "hill": false,
+   "lonelyPlanet": "https://www.lonelyplanet.com/destinations/india/tamil-nadu/madurai",
+   "pros": [
+    {
+     "en": "Meenakshi Amman Temple",
+     "pa": "ਮੀਨਾਕਸ਼ੀ ਅੰਮਨ ਮੰਦਰ",
+     "hi": "मीनाक्षी अम्मन मंदिर"
+    },
+    {
+     "en": "Thirumalai Nayak Palace",
+     "pa": "ਤਿਰੂਮਲਾਈ ਨਾਇਕ ਮਹਿਲ",
+     "hi": "तिरुमलै नायक महल"
+    },
+    {
+     "en": "Rameswaram temple and Pamban Bridge in reach",
+     "pa": "ਰਾਮੇਸ਼ਵਰਮ ਮੰਦਰ ਅਤੇ ਪੰਬਨ ਪੁਲ ਪਹੁੰਚ ਵਿੱਚ",
+     "hi": "रामेश्वरम मंदिर और पंबन पुल पहुँच में"
+    }
+   ],
+   "cons": [
+    {
+     "en": "Hot most of the year",
+     "pa": "ਸਾਲ ਦਾ ਜ਼ਿਆਦਾ ਸਮਾਂ ਗਰਮ",
+     "hi": "साल के ज़्यादातर समय गर्म"
+    },
+    {
+     "en": "Strict dress code inside temples",
+     "pa": "ਮੰਦਰਾਂ ਵਿੱਚ ਪਹਿਰਾਵੇ ਦੇ ਸਖ਼ਤ ਨਿਯਮ",
+     "hi": "मंदिरों में पहनावे के सख्त नियम"
+    }
+   ],
+   "rush": [
+    {
+     "en": "October to March is the pleasant season",
+     "pa": "ਅਕਤੂਬਰ ਤੋਂ ਮਾਰਚ ਮੌਸਮ ਸੁਹਾਵਣਾ ਰਹਿੰਦਾ ਹੈ",
+     "hi": "अक्टूबर से मार्च मौसम सुहाना रहता है"
+    },
+    {
+     "en": "Visit the temple early in the morning",
+     "pa": "ਮੰਦਰ ਸਵੇਰੇ ਜਲਦੀ ਜਾਓ",
+     "hi": "मंदिर सुबह जल्दी जाएँ"
+    },
+    {
+     "en": "The Chithirai festival (April–May) draws huge crowds",
+     "pa": "ਚਿਤਿਰਈ ਤਿਉਹਾਰ (ਅਪ੍ਰੈਲ–ਮਈ) ਵਿੱਚ ਬਹੁਤ ਭੀੜ",
+     "hi": "चितिरै उत्सव (अप्रैल–मई) में बहुत भीड़"
+    }
+   ],
+   "stays": [
+    {
+     "name": {
+      "en": "Heritage Madurai",
+      "pa": "ਹੈਰੀਟੇਜ ਮਦੁਰਈ",
+      "hi": "हेरिटेज मदुरै"
+     },
+     "town": {
+      "en": "Madurai",
+      "pa": "ਮਦੁਰਈ",
+      "hi": "मदुरै"
+     },
+     "type": "hotel"
+    },
+    {
+     "name": {
+      "en": "Courtyard by Marriott Madurai",
+      "pa": "ਕੋਰਟਯਾਰਡ ਬਾਏ ਮੈਰੀਅਟ ਮਦੁਰਈ",
+      "hi": "कोर्टयार्ड बाय मैरियट मदुरै"
+     },
+     "town": {
+      "en": "Madurai",
+      "pa": "ਮਦੁਰਈ",
+      "hi": "मदुरै"
+     },
+     "type": "hotel"
+    }
+   ],
+   "restStops": [],
+   "places": [
+    {
+     "name": {
+      "en": "Meenakshi Amman Temple",
+      "pa": "ਮੀਨਾਕਸ਼ੀ ਅੰਮਨ ਮੰਦਰ",
+      "hi": "मीनाक्षी अम्मन मंदिर"
+     },
+     "town": {
+      "en": "Madurai",
+      "pa": "ਮਦੁਰਈ",
+      "hi": "मदुरै"
+     },
+     "tags": [
+      "religious",
+      "heritage"
+     ]
+    },
+    {
+     "name": {
+      "en": "Thirumalai Nayakkar Mahal",
+      "pa": "ਤਿਰੂਮਲਾਈ ਨਾਇਕਰ ਮਹਿਲ",
+      "hi": "तिरुमलै नायकर महल"
+     },
+     "town": {
+      "en": "Madurai",
+      "pa": "ਮਦੁਰਈ",
+      "hi": "मदुरै"
+     },
+     "tags": [
+      "heritage"
+     ]
+    },
+    {
+     "name": {
+      "en": "Gandhi Memorial Museum",
+      "pa": "ਗਾਂਧੀ ਮੈਮੋਰੀਅਲ ਮਿਊਜ਼ੀਅਮ",
+      "hi": "गांधी स्मारक संग्रहालय"
+     },
+     "town": {
+      "en": "Madurai",
+      "pa": "ਮਦੁਰਈ",
+      "hi": "मदुरै"
+     },
+     "tags": [
+      "heritage"
+     ]
+    },
+    {
+     "name": {
+      "en": "Ramanathaswamy Temple",
+      "pa": "ਰਾਮਨਾਥਸਵਾਮੀ ਮੰਦਰ",
+      "hi": "रामनाथस्वामी मंदिर"
+     },
+     "town": {
+      "en": "Rameswaram",
+      "pa": "ਰਾਮੇਸ਼ਵਰਮ",
+      "hi": "रामेश्वरम"
+     },
+     "tags": [
+      "religious"
+     ]
+    },
+    {
+     "name": {
+      "en": "Pamban Bridge",
+      "pa": "ਪੰਬਨ ਪੁਲ",
+      "hi": "पंबन पुल"
+     },
+     "town": {
+      "en": "Pamban",
+      "pa": "ਪੰਬਨ",
+      "hi": "पंबन"
+     },
+     "tags": [
+      "heritage",
+      "lakes"
+     ]
+    }
+   ],
+   "prices": {
+    "hotel": {
+     "min": 3900,
+     "max": 5700,
+     "source": {
+      "en": "Booking.com average for 3–4 star hotels in Madurai",
+      "pa": "Booking.com 'ਤੇ ਮਦੁਰਈ ਦੇ 3–4 ਸਟਾਰ ਹੋਟਲਾਂ ਦੀ ਔਸਤ",
+      "hi": "Booking.com पर मदुरै के 3–4 स्टार होटलों का औसत"
+     },
+     "note": {
+      "en": "Lowest to highest of the 3-star and 4-star averages shown (tonight and this weekend)",
+      "pa": "ਦਿਖਾਈ ਗਈ 3 ਅਤੇ 4 ਸਟਾਰ ਔਸਤ ਦਾ ਘੱਟ ਤੋਂ ਵੱਧ (ਅੱਜ ਰਾਤ ਅਤੇ ਇਸ ਵੀਕਐਂਡ)",
+      "hi": "दिखाए गए 3 और 4 स्टार औसत का कम से ज़्यादा (आज रात और इस वीकेंड)"
+     },
+     "checked": "2026-11-17",
+     "url": "https://www.booking.com/city/in/madurai.html?selected_currency=INR"
+    },
+    "homestay": {
+     "min": 2300,
+     "max": 2500,
+     "source": {
+      "en": "Booking.com average homestay price in Madurai",
+      "pa": "Booking.com 'ਤੇ ਮਦੁਰਈ ਵਿੱਚ ਹੋਮਸਟੇ ਦੀ ਔਸਤ ਕੀਮਤ",
+      "hi": "Booking.com पर मदुरै में होमस्टे की औसत कीमत"
+     },
+     "note": {
+      "en": "Shown in US$; converted at ₹94.25 per US$ (European Central Bank rate, 13 Nov 2026)",
+      "pa": "US$ ਵਿੱਚ ਦਿਖਾਈ; ₹94.25 ਪ੍ਰਤੀ US$ ਨਾਲ ਬਦਲੀ (ਯੂਰਪੀ ਕੇਂਦਰੀ ਬੈਂਕ ਦਾ ਰੇਟ, 13 ਨਵੰਬਰ 2026)",
+      "hi": "US$ में दिखाई गई; ₹94.25 प्रति US$ से बदली (यूरोपीय केंद्रीय बैंक की दर, 13 नवंबर 2026)"
+     },
+     "checked": "2026-11-17",
+     "url": "https://www.booking.com/homestay/city/in/madurai.html"
+    }
+   },
+   "roadKm": {
+    "Ludhiana": 2746,
+    "Chandigarh": 2722,
+    "Delhi": 2453,
+    "Amritsar": 2892,
+    "Jalandhar": 2807,
+    "Patiala": 2690,
+    "Jaipur": 2272
+   },
+   "railhead": {
+    "name": {
+     "en": "Madurai Junction",
+     "pa": "ਮਦੁਰਈ ਜੰਕਸ਼ਨ",
+     "hi": "मदुरै जंक्शन"
+    },
+    "code": "MDU",
+    "km": 2,
+    "note": "",
+    "lat": 9.9193,
+    "lng": 78.1099
+   },
+   "airport": {
+    "code": "IXM",
+    "km": 11
+   }
+  },
+  {
+   "id": "mahabaleshwar",
+   "keys": [
+    "Mahabaleshwar",
+    "Lonavala"
+   ],
+   "searchName": "Mahabaleshwar",
+   "hill": true,
+   "lonelyPlanet": "https://www.lonelyplanet.com/search?q=mahabaleshwar",
+   "pros": [
+    {
+     "en": "Cool hill station with valley viewpoints",
+     "pa": "ਘਾਟੀ ਦੇ ਨਜ਼ਾਰਿਆਂ ਵਾਲਾ ਠੰਢਾ ਪਹਾੜੀ ਸ਼ਹਿਰ",
+     "hi": "घाटी के नज़ारों वाला ठंडा हिल स्टेशन"
+    },
+    {
+     "en": "Fresh strawberries (winter to spring)",
+     "pa": "ਤਾਜ਼ੀਆਂ ਸਟ੍ਰਾਬੇਰੀਆਂ (ਸਰਦੀ ਤੋਂ ਬਸੰਤ)",
+     "hi": "ताज़ी स्ट्रॉबेरी (सर्दी से वसंत)"
+    },
+    {
+     "en": "Boating on Venna Lake",
+     "pa": "ਵੇਣਾ ਝੀਲ ਵਿੱਚ ਕਿਸ਼ਤੀ",
+     "hi": "वेण्णा झील में नौका विहार"
+    }
+   ],
+   "cons": [
+    {
+     "en": "Very heavy monsoon rain; some points close",
+     "pa": "ਬਹੁਤ ਭਾਰੀ ਮੀਂਹ; ਕੁਝ ਪੁਆਇੰਟ ਬੰਦ",
+     "hi": "बहुत भारी बारिश; कुछ पॉइंट बंद"
+    },
+    {
+     "en": "Weekend crowds from Mumbai and Pune",
+     "pa": "ਮੁੰਬਈ ਅਤੇ ਪੁਣੇ ਤੋਂ ਵੀਕਐਂਡ ਭੀੜ",
+     "hi": "मुंबई और पुणे से वीकेंड भीड़"
+    }
+   ],
+   "rush": [
+    {
+     "en": "October to March is the pleasant season",
+     "pa": "ਅਕਤੂਬਰ ਤੋਂ ਮਾਰਚ ਮੌਸਮ ਸੁਹਾਵਣਾ ਰਹਿੰਦਾ ਹੈ",
+     "hi": "अक्टूबर से मार्च मौसम सुहाना रहता है"
+    },
+    {
+     "en": "Weekdays are calmer than weekends and long holidays",
+     "pa": "ਆਮ ਦਿਨ ਵੀਕਐਂਡ ਅਤੇ ਲੰਬੀਆਂ ਛੁੱਟੀਆਂ ਨਾਲੋਂ ਸ਼ਾਂਤ ਰਹਿੰਦੇ ਹਨ",
+     "hi": "आम दिन वीकेंड और लंबी छुट्टियों से शांत रहते हैं"
+    },
+    {
+     "en": "Reach the sunrise and sunset points early",
+     "pa": "ਸੂਰਜ ਚੜ੍ਹਨ ਅਤੇ ਡੁੱਬਣ ਵਾਲੇ ਪੁਆਇੰਟਾਂ ਉੱਤੇ ਜਲਦੀ ਪਹੁੰਚੋ",
+     "hi": "सूर्योदय और सूर्यास्त पॉइंट पर जल्दी पहुँचें"
+    }
+   ],
+   "stays": [
+    {
+     "name": {
+      "en": "MTDC Resort Mahabaleshwar",
+      "pa": "ਐਮਟੀਡੀਸੀ ਰਿਜ਼ੋਰਟ ਮਹਾਬਲੇਸ਼ਵਰ",
+      "hi": "एमटीडीसी रिज़ॉर्ट महाबलेश्वर"
+     },
+     "town": {
+      "en": "Mahabaleshwar",
+      "pa": "ਮਹਾਬਲੇਸ਼ਵਰ",
+      "hi": "महाबलेश्वर"
+     },
+     "type": "govt"
+    },
+    {
+     "name": {
+      "en": "Le Méridien Mahabaleshwar Resort & Spa",
+      "pa": "ਲੇ ਮੈਰੀਡੀਅਨ ਮਹਾਬਲੇਸ਼ਵਰ ਰਿਜ਼ੋਰਟ",
+      "hi": "ले मेरिडियन महाबलेश्वर रिज़ॉर्ट"
+     },
+     "town": {
+      "en": "Mahabaleshwar",
+      "pa": "ਮਹਾਬਲੇਸ਼ਵਰ",
+      "hi": "महाबलेश्वर"
+     },
+     "type": "hotel"
+    }
+   ],
+   "restStops": [],
+   "places": [
+    {
+     "name": {
+      "en": "Venna Lake",
+      "pa": "ਵੇਣਾ ਝੀਲ",
+      "hi": "वेण्णा झील"
+     },
+     "town": {
+      "en": "Mahabaleshwar",
+      "pa": "ਮਹਾਬਲੇਸ਼ਵਰ",
+      "hi": "महाबलेश्वर"
+     },
+     "tags": [
+      "lakes"
+     ]
+    },
+    {
+     "name": {
+      "en": "Arthur’s Seat",
+      "pa": "ਆਰਥਰਜ਼ ਸੀਟ",
+      "hi": "आर्थर्स सीट"
+     },
+     "town": {
+      "en": "Mahabaleshwar",
+      "pa": "ਮਹਾਬਲੇਸ਼ਵਰ",
+      "hi": "महाबलेश्वर"
+     },
+     "tags": [
+      "hills"
+     ]
+    },
+    {
+     "name": {
+      "en": "Pratapgad Fort",
+      "pa": "ਪ੍ਰਤਾਪਗੜ੍ਹ ਕਿਲ੍ਹਾ",
+      "hi": "प्रतापगढ़ किला"
+     },
+     "town": {
+      "en": "Mahabaleshwar",
+      "pa": "ਮਹਾਬਲੇਸ਼ਵਰ",
+      "hi": "महाबलेश्वर"
+     },
+     "tags": [
+      "heritage",
+      "adventure"
+     ]
+    },
+    {
+     "name": {
+      "en": "Table Land",
+      "pa": "ਟੇਬਲ ਲੈਂਡ",
+      "hi": "टेबल लैंड"
+     },
+     "town": {
+      "en": "Panchgani",
+      "pa": "ਪੰਚਗਨੀ",
+      "hi": "पंचगनी"
+     },
+     "tags": [
+      "hills"
+     ]
+    },
+    {
+     "name": {
+      "en": "Mapro Garden",
+      "pa": "ਮੈਪਰੋ ਗਾਰਡਨ",
+      "hi": "मैप्रो गार्डन"
+     },
+     "town": {
+      "en": "Panchgani",
+      "pa": "ਪੰਚਗਨੀ",
+      "hi": "पंचगनी"
+     },
+     "tags": [
+      "food"
+     ]
+    },
+    {
+     "name": {
+      "en": "Tiger’s Leap",
+      "pa": "ਟਾਈਗਰਜ਼ ਲੀਪ",
+      "hi": "टाइगर्स लीप"
+     },
+     "town": {
+      "en": "Lonavala",
+      "pa": "ਲੋਨਾਵਲਾ",
+      "hi": "लोनावला"
+     },
+     "tags": [
+      "hills"
+     ]
+    }
+   ],
+   "prices": {
+    "hotel": {
+     "min": 5200,
+     "max": 10900,
+     "source": {
+      "en": "Booking.com average for 3–4 star hotels in Mahabaleshwar",
+      "pa": "Booking.com 'ਤੇ ਮਹਾਬਲੇਸ਼ਵਰ ਦੇ 3–4 ਸਟਾਰ ਹੋਟਲਾਂ ਦੀ ਔਸਤ",
+      "hi": "Booking.com पर महाबलेश्वर के 3–4 स्टार होटलों का औसत"
+     },
+     "note": {
+      "en": "Lowest to highest of the 3-star and 4-star averages shown (tonight and this weekend)",
+      "pa": "ਦਿਖਾਈ ਗਈ 3 ਅਤੇ 4 ਸਟਾਰ ਔਸਤ ਦਾ ਘੱਟ ਤੋਂ ਵੱਧ (ਅੱਜ ਰਾਤ ਅਤੇ ਇਸ ਵੀਕਐਂਡ)",
+      "hi": "दिखाए गए 3 और 4 स्टार औसत का कम से ज़्यादा (आज रात और इस वीकेंड)"
+     },
+     "checked": "2026-11-17",
+     "url": "https://www.booking.com/city/in/mahabaleshwar.html?selected_currency=INR"
+    }
+   },
+   "roadKm": {
+    "Ludhiana": 1742,
+    "Chandigarh": 1718,
+    "Delhi": 1450,
+    "Amritsar": 1833,
+    "Jalandhar": 1808,
+    "Patiala": 1686,
+    "Jaipur": 1268
+   },
+   "railhead": {
+    "name": {
+     "en": "Pune Junction",
+     "pa": "ਪੁਣੇ ਜੰਕਸ਼ਨ",
+     "hi": "पुणे जंक्शन"
+    },
+    "code": "PUNE",
+    "km": 123,
+    "note": "",
+    "lat": 18.5289,
+    "lng": 73.8744
+   },
+   "airport": {
+    "code": "PNQ",
+    "km": 132
+   }
+  },
+  {
+   "id": "kutch",
+   "keys": [
+    "Rann of Kutch (Dhordo)"
+   ],
+   "searchName": "Bhuj",
+   "hill": false,
+   "lonelyPlanet": "https://www.lonelyplanet.com/search?q=kutch",
+   "pros": [
+    {
+     "en": "White salt desert, magical on full-moon nights",
+     "pa": "ਚਿੱਟਾ ਲੂਣ ਵਾਲਾ ਰੇਗਿਸਤਾਨ, ਪੂਰਨਮਾਸ਼ੀ ਦੀ ਰਾਤ ਜਾਦੂਈ",
+     "hi": "सफ़ेद नमक का रेगिस्तान, पूर्णिमा की रात जादुई"
+    },
+    {
+     "en": "Rann Utsav tent city in winter",
+     "pa": "ਸਰਦੀਆਂ ਵਿੱਚ ਰਣ ਉਤਸਵ ਟੈਂਟ ਸਿਟੀ",
+     "hi": "सर्दियों में रण उत्सव टेंट सिटी"
+    },
+    {
+     "en": "Village crafts and embroidery",
+     "pa": "ਪਿੰਡਾਂ ਦੀ ਦਸਤਕਾਰੀ ਅਤੇ ਕਢਾਈ",
+     "hi": "गाँवों की दस्तकारी और कढ़ाई"
+    }
+   ],
+   "cons": [
+    {
+     "en": "Very hot from April to September",
+     "pa": "ਅਪ੍ਰੈਲ ਤੋਂ ਸਤੰਬਰ ਬਹੁਤ ਗਰਮੀ",
+     "hi": "अप्रैल से सितंबर बहुत गर्मी"
+    },
+    {
+     "en": "A permit is needed for the White Rann",
+     "pa": "ਚਿੱਟੇ ਰਣ ਲਈ ਪਰਮਿਟ ਚਾਹੀਦਾ",
+     "hi": "सफ़ेद रण के लिए परमिट चाहिए"
+    },
+    {
+     "en": "Long drives between sights",
+     "pa": "ਥਾਵਾਂ ਵਿਚਕਾਰ ਲੰਬਾ ਸਫ਼ਰ",
+     "hi": "जगहों के बीच लंबा सफ़र"
+    }
+   ],
+   "rush": [
+    {
+     "en": "November to February is best (Rann Utsav season)",
+     "pa": "ਨਵੰਬਰ ਤੋਂ ਫ਼ਰਵਰੀ ਸਭ ਤੋਂ ਵਧੀਆ (ਰਣ ਉਤਸਵ)",
+     "hi": "नवंबर से फ़रवरी सबसे अच्छा (रण उत्सव)"
+    },
+    {
+     "en": "Full-moon dates sell out first",
+     "pa": "ਪੂਰਨਮਾਸ਼ੀ ਦੀਆਂ ਤਾਰੀਖ਼ਾਂ ਪਹਿਲਾਂ ਭਰ ਜਾਂਦੀਆਂ",
+     "hi": "पूर्णिमा की तारीखें पहले भर जाती हैं"
+    },
+    {
+     "en": "Get the White Rann permit online or at Bhirandiyara checkpoint",
+     "pa": "ਚਿੱਟੇ ਰਣ ਦਾ ਪਰਮਿਟ ਔਨਲਾਈਨ ਜਾਂ ਭਿਰੰਡਿਆਰਾ ਚੈੱਕਪੋਸਟ ਤੋਂ ਲਵੋ",
+     "hi": "सफ़ेद रण का परमिट ऑनलाइन या भिरंडियारा चेकपोस्ट से लें"
+    }
+   ],
+   "stays": [
+    {
+     "name": {
+      "en": "Toran Rann Resort, Dhordo (Gujarat Tourism)",
+      "pa": "ਤੋਰਣ ਰਣ ਰਿਜ਼ੋਰਟ, ਧੋਰਡੋ (ਗੁਜਰਾਤ ਟੂਰਿਜ਼ਮ)",
+      "hi": "तोरण रण रिज़ॉर्ट, धोरडो (गुजरात टूरिज़्म)"
+     },
+     "town": {
+      "en": "Dhordo",
+      "pa": "ਧੋਰਡੋ",
+      "hi": "धोरडो"
+     },
+     "type": "govt"
+    },
+    {
+     "name": {
+      "en": "Regenta Resort Bhuj",
+      "pa": "ਰੀਜੈਂਟਾ ਰਿਜ਼ੋਰਟ ਭੁਜ",
+      "hi": "रीजेंटा रिज़ॉर्ट भुज"
+     },
+     "town": {
+      "en": "Bhuj",
+      "pa": "ਭੁਜ",
+      "hi": "भुज"
+     },
+     "type": "hotel"
+    }
+   ],
+   "restStops": [],
+   "places": [
+    {
+     "name": {
+      "en": "White Rann",
+      "pa": "ਚਿੱਟਾ ਰਣ",
+      "hi": "सफ़ेद रण"
+     },
+     "town": {
+      "en": "Dhordo",
+      "pa": "ਧੋਰਡੋ",
+      "hi": "धोरडो"
+     },
+     "tags": [
+      "adventure"
+     ]
+    },
+    {
+     "name": {
+      "en": "Kalo Dungar viewpoint",
+      "pa": "ਕਾਲੋ ਡੂੰਗਰ ਵਿਊਪੁਆਇੰਟ",
+      "hi": "कालो डूंगर व्यूपॉइंट"
+     },
+     "town": {
+      "en": "Kalo Dungar",
+      "pa": "ਕਾਲੋ ਡੂੰਗਰ",
+      "hi": "कालो डूंगर"
+     },
+     "tags": [
+      "hills"
+     ]
+    },
+    {
+     "name": {
+      "en": "Aina Mahal",
+      "pa": "ਆਈਨਾ ਮਹਿਲ",
+      "hi": "आइना महल"
+     },
+     "town": {
+      "en": "Bhuj",
+      "pa": "ਭੁਜ",
+      "hi": "भुज"
+     },
+     "tags": [
+      "heritage"
+     ]
+    },
+    {
+     "name": {
+      "en": "Prag Mahal",
+      "pa": "ਪ੍ਰਾਗ ਮਹਿਲ",
+      "hi": "प्राग महल"
+     },
+     "town": {
+      "en": "Bhuj",
+      "pa": "ਭੁਜ",
+      "hi": "भुज"
+     },
+     "tags": [
+      "heritage"
+     ]
+    },
+    {
+     "name": {
+      "en": "Mandvi Beach",
+      "pa": "ਮਾਂਡਵੀ ਬੀਚ",
+      "hi": "मांडवी बीच"
+     },
+     "town": {
+      "en": "Mandvi",
+      "pa": "ਮਾਂਡਵੀ",
+      "hi": "मांडवी"
+     },
+     "tags": [
+      "lakes"
+     ]
+    }
+   ],
+   "prices": {},
+   "roadKm": {
+    "Ludhiana": 1154,
+    "Chandigarh": 1232,
+    "Delhi": 1109,
+    "Amritsar": 1195,
+    "Jalandhar": 1169,
+    "Patiala": 1165,
+    "Jaipur": 833
+   },
+   "railhead": {
+    "name": {
+     "en": "Bhuj",
+     "pa": "ਭੁਜ",
+     "hi": "भुज"
+    },
+    "code": "BHUJ",
+    "km": 83,
+    "note": "",
+    "lat": 23.2658,
+    "lng": 69.6784
+   },
+   "airport": {
+    "code": "BHJ",
+    "km": 80
+   }
+  },
+  {
+   "id": "khajuraho",
+   "keys": [
+    "Khajuraho"
+   ],
+   "searchName": "Khajuraho",
+   "hill": false,
+   "lonelyPlanet": "https://www.lonelyplanet.com/destinations/india/khajuraho",
+   "pros": [
+    {
+     "en": "Famous carved temples (UNESCO)",
+     "pa": "ਮਸ਼ਹੂਰ ਨੱਕਾਸ਼ੀ ਵਾਲੇ ਮੰਦਰ (ਯੂਨੈਸਕੋ)",
+     "hi": "मशहूर नक्काशीदार मंदिर (यूनेस्को)"
+    },
+    {
+     "en": "Small, calm town that is easy to walk",
+     "pa": "ਛੋਟਾ, ਸ਼ਾਂਤ ਸ਼ਹਿਰ, ਪੈਦਲ ਘੁੰਮਣਾ ਸੌਖਾ",
+     "hi": "छोटा, शांत शहर, पैदल घूमना आसान"
+    },
+    {
+     "en": "Panna Tiger Reserve is close",
+     "pa": "ਪੰਨਾ ਟਾਈਗਰ ਰਿਜ਼ਰਵ ਨੇੜੇ",
+     "hi": "पन्ना टाइगर रिज़र्व पास में"
+    }
+   ],
+   "cons": [
+    {
+     "en": "Very hot from April to June",
+     "pa": "ਅਪ੍ਰੈਲ ਤੋਂ ਜੂਨ ਤੱਕ ਬਹੁਤ ਗਰਮੀ",
+     "hi": "अप्रैल से जून तक बहुत गर्मी"
+    },
+    {
+     "en": "Few direct trains and flights",
+     "pa": "ਸਿੱਧੀਆਂ ਰੇਲਾਂ ਅਤੇ ਉਡਾਣਾਂ ਘੱਟ",
+     "hi": "सीधी ट्रेनें और उड़ानें कम"
+    }
+   ],
+   "rush": [
+    {
+     "en": "October to March is the pleasant season",
+     "pa": "ਅਕਤੂਬਰ ਤੋਂ ਮਾਰਚ ਮੌਸਮ ਸੁਹਾਵਣਾ ਰਹਿੰਦਾ ਹੈ",
+     "hi": "अक्टूबर से मार्च मौसम सुहाना रहता है"
+    },
+    {
+     "en": "The Khajuraho Dance Festival is in February",
+     "pa": "ਖਜੁਰਾਹੋ ਨ੍ਰਿਤ ਉਤਸਵ ਫ਼ਰਵਰੀ ਵਿੱਚ",
+     "hi": "खजुराहो नृत्य महोत्सव फ़रवरी में"
+    },
+    {
+     "en": "Reach popular sights early in the morning, before the crowds",
+     "pa": "ਮਸ਼ਹੂਰ ਥਾਵਾਂ ਉੱਤੇ ਸਵੇਰੇ ਜਲਦੀ ਪਹੁੰਚੋ, ਭੀੜ ਤੋਂ ਪਹਿਲਾਂ",
+     "hi": "मशहूर जगहों पर सुबह जल्दी पहुँचें, भीड़ से पहले"
+    }
+   ],
+   "stays": [
+    {
+     "name": {
+      "en": "MPT Jhankar, Khajuraho (MP Tourism)",
+      "pa": "ਐਮਪੀਟੀ ਝੰਕਾਰ, ਖਜੁਰਾਹੋ (ਐਮਪੀ ਟੂਰਿਜ਼ਮ)",
+      "hi": "एमपीटी झंकार, खजुराहो (एमपी टूरिज़्म)"
+     },
+     "town": {
+      "en": "Khajuraho",
+      "pa": "ਖਜੁਰਾਹੋ",
+      "hi": "खजुराहो"
+     },
+     "type": "govt"
+    },
+    {
+     "name": {
+      "en": "Radisson Jass Hotel Khajuraho",
+      "pa": "ਰੈਡੀਸਨ ਜੱਸ ਹੋਟਲ ਖਜੁਰਾਹੋ",
+      "hi": "रेडिसन जास होटल खजुराहो"
+     },
+     "town": {
+      "en": "Khajuraho",
+      "pa": "ਖਜੁਰਾਹੋ",
+      "hi": "खजुराहो"
+     },
+     "type": "hotel"
+    }
+   ],
+   "restStops": [],
+   "places": [
+    {
+     "name": {
+      "en": "Western Group of Temples",
+      "pa": "ਪੱਛਮੀ ਮੰਦਰ ਸਮੂਹ",
+      "hi": "पश्चिमी मंदिर समूह"
+     },
+     "town": {
+      "en": "Khajuraho",
+      "pa": "ਖਜੁਰਾਹੋ",
+      "hi": "खजुराहो"
+     },
+     "tags": [
+      "heritage",
+      "religious"
+     ]
+    },
+    {
+     "name": {
+      "en": "Kandariya Mahadeva Temple",
+      "pa": "ਕੰਦਾਰੀਆ ਮਹਾਦੇਵ ਮੰਦਰ",
+      "hi": "कंदारिया महादेव मंदिर"
+     },
+     "town": {
+      "en": "Khajuraho",
+      "pa": "ਖਜੁਰਾਹੋ",
+      "hi": "खजुराहो"
+     },
+     "tags": [
+      "heritage",
+      "religious"
+     ]
+    },
+    {
+     "name": {
+      "en": "Eastern Group of Temples",
+      "pa": "ਪੂਰਬੀ ਮੰਦਰ ਸਮੂਹ",
+      "hi": "पूर्वी मंदिर समूह"
+     },
+     "town": {
+      "en": "Khajuraho",
+      "pa": "ਖਜੁਰਾਹੋ",
+      "hi": "खजुराहो"
+     },
+     "tags": [
+      "heritage"
+     ]
+    },
+    {
+     "name": {
+      "en": "Panna National Park",
+      "pa": "ਪੰਨਾ ਨੈਸ਼ਨਲ ਪਾਰਕ",
+      "hi": "पन्ना राष्ट्रीय उद्यान"
+     },
+     "town": {
+      "en": "Panna",
+      "pa": "ਪੰਨਾ",
+      "hi": "पन्ना"
+     },
+     "tags": [
+      "wildlife"
+     ]
+    },
+    {
+     "name": {
+      "en": "Raneh Falls",
+      "pa": "ਰਨੇਹ ਝਰਨਾ",
+      "hi": "रनेह फ़ॉल्स"
+     },
+     "town": {
+      "en": "Khajuraho",
+      "pa": "ਖਜੁਰਾਹੋ",
+      "hi": "खजुराहो"
+     },
+     "tags": [
+      "lakes"
+     ]
+    }
+   ],
+   "prices": {
+    "homestay": {
+     "min": 1600,
+     "max": 1600,
+     "source": {
+      "en": "Booking.com average homestay price in Khajuraho",
+      "pa": "Booking.com 'ਤੇ ਖਜੁਰਾਹੋ ਵਿੱਚ ਹੋਮਸਟੇ ਦੀ ਔਸਤ ਕੀਮਤ",
+      "hi": "Booking.com पर खजुराहो में होमस्टे की औसत कीमत"
+     },
+     "note": {
+      "en": "Shown in US$; converted at ₹94.25 per US$ (European Central Bank rate, 13 Nov 2026)",
+      "pa": "US$ ਵਿੱਚ ਦਿਖਾਈ; ₹94.25 ਪ੍ਰਤੀ US$ ਨਾਲ ਬਦਲੀ (ਯੂਰਪੀ ਕੇਂਦਰੀ ਬੈਂਕ ਦਾ ਰੇਟ, 13 ਨਵੰਬਰ 2026)",
+      "hi": "US$ में दिखाई गई; ₹94.25 प्रति US$ से बदली (यूरोपीय केंद्रीय बैंक की दर, 13 नवंबर 2026)"
+     },
+     "checked": "2026-11-17",
+     "url": "https://www.booking.com/homestay/city/in/khajuraho.html"
+    }
+   },
+   "roadKm": {
+    "Ludhiana": 919,
+    "Chandigarh": 907,
+    "Delhi": 610,
+    "Amritsar": 1066,
+    "Jalandhar": 981,
+    "Patiala": 863,
+    "Jaipur": 622
+   },
+   "railhead": {
+    "name": {
+     "en": "Khajuraho",
+     "pa": "ਖਜੁਰਾਹੋ",
+     "hi": "खजुराहो"
+    },
+    "code": "KURJ",
+    "km": 6,
+    "note": "",
+    "lat": 24.7964,
+    "lng": 79.8893
+   },
+   "airport": {
+    "code": "HJR",
+    "km": 3
+   }
+  },
+  {
+   "id": "srinagar",
+   "keys": [
+    "Srinagar",
+    "Gulmarg",
+    "Pahalgam"
+   ],
+   "searchName": "Srinagar",
+   "hill": true,
+   "lonelyPlanet": "https://www.lonelyplanet.com/destinations/india/srinagar",
+   "pros": [
+    {
+     "en": "Shikara rides and houseboats on Dal Lake",
+     "pa": "ਡੱਲ ਝੀਲ ਉੱਤੇ ਸ਼ਿਕਾਰਾ ਸੈਰ ਅਤੇ ਹਾਊਸਬੋਟ",
+     "hi": "डल झील पर शिकारा सैर और हाउसबोट"
+    },
+    {
+     "en": "Mughal gardens and tulip garden in spring",
+     "pa": "ਮੁਗ਼ਲ ਬਾਗ਼ ਅਤੇ ਬਸੰਤ ਵਿੱਚ ਟਿਊਲਿਪ ਗਾਰਡਨ",
+     "hi": "मुगल बाग और वसंत में ट्यूलिप गार्डन"
+    },
+    {
+     "en": "Snow and the Gulmarg gondola in winter",
+     "pa": "ਸਰਦੀਆਂ ਵਿੱਚ ਬਰਫ਼ ਅਤੇ ਗੁਲਮਰਗ ਗੰਡੋਲਾ",
+     "hi": "सर्दियों में बर्फ़ और गुलमर्ग गोंडोला"
+    }
+   ],
+   "cons": [
+    {
+     "en": "Very cold in winter; roads can close in snow",
+     "pa": "ਸਰਦੀਆਂ ਵਿੱਚ ਬਹੁਤ ਠੰਢ; ਬਰਫ਼ ਨਾਲ ਸੜਕਾਂ ਬੰਦ ਹੋ ਸਕਦੀਆਂ",
+     "hi": "सर्दियों में बहुत ठंड; बर्फ़ से सड़कें बंद हो सकती हैं"
+    },
+    {
+     "en": "Check the travel advisory before you go",
+     "pa": "ਜਾਣ ਤੋਂ ਪਹਿਲਾਂ ਯਾਤਰਾ ਸਲਾਹ ਵੇਖੋ",
+     "hi": "जाने से पहले यात्रा सलाह देखें"
+    },
+    {
+     "en": "Prepaid mobile SIMs from other states do not work",
+     "pa": "ਦੂਜੇ ਸੂਬਿਆਂ ਦੇ ਪ੍ਰੀਪੇਡ ਸਿਮ ਕੰਮ ਨਹੀਂ ਕਰਦੇ",
+     "hi": "दूसरे राज्यों के प्रीपेड सिम काम नहीं करते"
+    }
+   ],
+   "rush": [
+    {
+     "en": "April–October for gardens and lakes; Dec–Feb for snow",
+     "pa": "ਬਾਗ਼ਾਂ ਅਤੇ ਝੀਲਾਂ ਲਈ ਅਪ੍ਰੈਲ–ਅਕਤੂਬਰ; ਬਰਫ਼ ਲਈ ਦਸੰਬਰ–ਫ਼ਰਵਰੀ",
+     "hi": "बाग और झीलों के लिए अप्रैल–अक्टूबर; बर्फ़ के लिए दिसंबर–फ़रवरी"
+    },
+    {
+     "en": "Book the Gulmarg gondola online in advance",
+     "pa": "ਗੁਲਮਰਗ ਗੰਡੋਲਾ ਪਹਿਲਾਂ ਔਨਲਾਈਨ ਬੁੱਕ ਕਰੋ",
+     "hi": "गुलमर्ग गोंडोला पहले ऑनलाइन बुक करें"
+    },
+    {
+     "en": "The tulip garden opens for only a few weeks (March–April)",
+     "pa": "ਟਿਊਲਿਪ ਗਾਰਡਨ ਸਿਰਫ਼ ਕੁਝ ਹਫ਼ਤੇ ਖੁੱਲ੍ਹਦਾ (ਮਾਰਚ–ਅਪ੍ਰੈਲ)",
+     "hi": "ट्यूलिप गार्डन सिर्फ़ कुछ हफ़्ते खुलता है (मार्च–अप्रैल)"
+    }
+   ],
+   "stays": [
+    {
+     "name": {
+      "en": "Dal Lake houseboats",
+      "pa": "ਡੱਲ ਝੀਲ ਹਾਊਸਬੋਟ",
+      "hi": "डल झील हाउसबोट"
+     },
+     "town": {
+      "en": "Srinagar",
+      "pa": "ਸ੍ਰੀਨਗਰ",
+      "hi": "श्रीनगर"
+     },
+     "type": "homestay"
+    },
+    {
+     "name": {
+      "en": "Vivanta Dal View",
+      "pa": "ਵਿਵਾਂਤਾ ਡੱਲ ਵਿਊ",
+      "hi": "विवांता डल व्यू"
+     },
+     "town": {
+      "en": "Srinagar",
+      "pa": "ਸ੍ਰੀਨਗਰ",
+      "hi": "श्रीनगर"
+     },
+     "type": "hotel"
+    },
+    {
+     "name": {
+      "en": "The Khyber Himalayan Resort & Spa",
+      "pa": "ਦ ਖ਼ੈਬਰ ਹਿਮਾਲੀਅਨ ਰਿਜ਼ੋਰਟ",
+      "hi": "द ख़ैबर हिमालयन रिज़ॉर्ट"
+     },
+     "town": {
+      "en": "Gulmarg",
+      "pa": "ਗੁਲਮਰਗ",
+      "hi": "गुलमर्ग"
+     },
+     "type": "hotel"
+    }
+   ],
+   "restStops": [],
+   "places": [
+    {
+     "name": {
+      "en": "Dal Lake shikara ride",
+      "pa": "ਡੱਲ ਝੀਲ ਸ਼ਿਕਾਰਾ ਸੈਰ",
+      "hi": "डल झील शिकारा सैर"
+     },
+     "town": {
+      "en": "Srinagar",
+      "pa": "ਸ੍ਰੀਨਗਰ",
+      "hi": "श्रीनगर"
+     },
+     "tags": [
+      "lakes"
+     ]
+    },
+    {
+     "name": {
+      "en": "Shalimar Bagh",
+      "pa": "ਸ਼ਾਲੀਮਾਰ ਬਾਗ਼",
+      "hi": "शालीमार बाग"
+     },
+     "town": {
+      "en": "Srinagar",
+      "pa": "ਸ੍ਰੀਨਗਰ",
+      "hi": "श्रीनगर"
+     },
+     "tags": [
+      "heritage"
+     ]
+    },
+    {
+     "name": {
+      "en": "Nishat Bagh",
+      "pa": "ਨਿਸ਼ਾਤ ਬਾਗ਼",
+      "hi": "निशात बाग"
+     },
+     "town": {
+      "en": "Srinagar",
+      "pa": "ਸ੍ਰੀਨਗਰ",
+      "hi": "श्रीनगर"
+     },
+     "tags": [
+      "heritage"
+     ]
+    },
+    {
+     "name": {
+      "en": "Gulmarg Gondola",
+      "pa": "ਗੁਲਮਰਗ ਗੰਡੋਲਾ",
+      "hi": "गुलमर्ग गोंडोला"
+     },
+     "town": {
+      "en": "Gulmarg",
+      "pa": "ਗੁਲਮਰਗ",
+      "hi": "गुलमर्ग"
+     },
+     "tags": [
+      "hills",
+      "adventure"
+     ]
+    },
+    {
+     "name": {
+      "en": "Betaab Valley",
+      "pa": "ਬੇਤਾਬ ਵੈਲੀ",
+      "hi": "बेताब वैली"
+     },
+     "town": {
+      "en": "Pahalgam",
+      "pa": "ਪਹਿਲਗਾਮ",
+      "hi": "पहलगाम"
+     },
+     "tags": [
+      "hills"
+     ]
+    },
+    {
+     "name": {
+      "en": "Hazratbal Shrine",
+      "pa": "ਹਜ਼ਰਤਬਲ ਦਰਗਾਹ",
+      "hi": "हज़रतबल दरगाह"
+     },
+     "town": {
+      "en": "Srinagar",
+      "pa": "ਸ੍ਰੀਨਗਰ",
+      "hi": "श्रीनगर"
+     },
+     "tags": [
+      "religious"
+     ]
+    }
+   ],
+   "prices": {
+    "hotel": {
+     "min": 2000,
+     "max": 8000,
+     "source": {
+      "en": "Booking.com average for 3–4 star hotels in Srinagar",
+      "pa": "Booking.com 'ਤੇ ਸ੍ਰੀਨਗਰ ਦੇ 3–4 ਸਟਾਰ ਹੋਟਲਾਂ ਦੀ ਔਸਤ",
+      "hi": "Booking.com पर श्रीनगर के 3–4 स्टार होटलों का औसत"
+     },
+     "note": {
+      "en": "Lowest to highest of the 3-star and 4-star averages shown (tonight and this weekend)",
+      "pa": "ਦਿਖਾਈ ਗਈ 3 ਅਤੇ 4 ਸਟਾਰ ਔਸਤ ਦਾ ਘੱਟ ਤੋਂ ਵੱਧ (ਅੱਜ ਰਾਤ ਅਤੇ ਇਸ ਵੀਕਐਂਡ)",
+      "hi": "दिखाए गए 3 और 4 स्टार औसत का कम से ज़्यादा (आज रात और इस वीकेंड)"
+     },
+     "checked": "2026-11-17",
+     "url": "https://www.booking.com/city/in/srinagar.html?selected_currency=INR"
+    },
+    "homestay": {
+     "min": 3400,
+     "max": 3400,
+     "source": {
+      "en": "Booking.com average homestay price in Srinagar",
+      "pa": "Booking.com 'ਤੇ ਸ੍ਰੀਨਗਰ ਵਿੱਚ ਹੋਮਸਟੇ ਦੀ ਔਸਤ ਕੀਮਤ",
+      "hi": "Booking.com पर श्रीनगर में होमस्टे की औसत कीमत"
+     },
+     "note": {
+      "en": "Shown in US$; converted at ₹94.25 per US$ (European Central Bank rate, 13 Nov 2026)",
+      "pa": "US$ ਵਿੱਚ ਦਿਖਾਈ; ₹94.25 ਪ੍ਰਤੀ US$ ਨਾਲ ਬਦਲੀ (ਯੂਰਪੀ ਕੇਂਦਰੀ ਬੈਂਕ ਦਾ ਰੇਟ, 13 ਨਵੰਬਰ 2026)",
+      "hi": "US$ में दिखाई गई; ₹94.25 प्रति US$ से बदली (यूरोपीय केंद्रीय बैंक की दर, 13 नवंबर 2026)"
+     },
+     "checked": "2026-11-17",
+     "url": "https://www.booking.com/homestay/city/in/srinagar.html"
+    }
+   },
+   "roadKm": {
+    "Ludhiana": 480,
+    "Chandigarh": 553,
+    "Delhi": 813,
+    "Amritsar": 399,
+    "Jalandhar": 421,
+    "Patiala": 593,
+    "Jaipur": 983
+   },
+   "railhead": {
+    "name": {
+     "en": "Srinagar",
+     "pa": "ਸ੍ਰੀਨਗਰ",
+     "hi": "श्रीनगर"
+    },
+    "code": "SINA",
+    "km": 11,
+    "note": "srinagarRail",
+    "lat": 34.0238,
+    "lng": 74.8473
+   },
+   "airport": {
+    "code": "SXR",
+    "km": 14
+   }
+  },
+  {
+   "id": "spiti",
+   "keys": [
+    "Spiti (Kaza)"
+   ],
+   "searchName": "Kaza",
+   "hill": true,
+   "lonelyPlanet": "https://www.lonelyplanet.com/search?q=spiti",
+   "pros": [
+    {
+     "en": "Old monasteries in a dramatic cold desert",
+     "pa": "ਸ਼ਾਨਦਾਰ ਠੰਢੇ ਰੇਗਿਸਤਾਨ ਵਿੱਚ ਪੁਰਾਣੇ ਮੱਠ",
+     "hi": "शानदार ठंडे रेगिस्तान में पुराने मठ"
+    },
+    {
+     "en": "Very clear night skies",
+     "pa": "ਬਹੁਤ ਸਾਫ਼ ਰਾਤ ਦਾ ਅਸਮਾਨ",
+     "hi": "बहुत साफ़ रात का आसमान"
+    },
+    {
+     "en": "Village homestays",
+     "pa": "ਪਿੰਡਾਂ ਵਿੱਚ ਹੋਮਸਟੇ",
+     "hi": "गाँवों में होमस्टे"
+    }
+   ],
+   "cons": [
+    {
+     "en": "Very long, rough mountain roads",
+     "pa": "ਬਹੁਤ ਲੰਬੀਆਂ, ਖ਼ਰਾਬ ਪਹਾੜੀ ਸੜਕਾਂ",
+     "hi": "बहुत लंबी, खराब पहाड़ी सड़कें"
+    },
+    {
+     "en": "High altitude (Kaza about 3,800 m)",
+     "pa": "ਬਹੁਤ ਉਚਾਈ (ਕਾਜ਼ਾ ਲਗਭਗ 3,800 ਮੀ.)",
+     "hi": "बहुत ऊँचाई (काज़ा लगभग 3,800 मी.)"
+    },
+    {
+     "en": "Weak mobile network and few ATMs",
+     "pa": "ਕਮਜ਼ੋਰ ਮੋਬਾਈਲ ਨੈੱਟਵਰਕ ਅਤੇ ਘੱਟ ਏਟੀਐਮ",
+     "hi": "कमज़ोर मोबाइल नेटवर्क और कम एटीएम"
+    }
+   ],
+   "rush": [
+    {
+     "en": "June to September is best; Kunzum Pass is closed in winter",
+     "pa": "ਜੂਨ ਤੋਂ ਸਤੰਬਰ ਸਭ ਤੋਂ ਵਧੀਆ; ਸਰਦੀਆਂ ਵਿੱਚ ਕੁੰਜ਼ਮ ਦੱਰਾ ਬੰਦ",
+     "hi": "जून से सितंबर सबसे अच्छा; सर्दियों में कुंज़ुम दर्रा बंद"
+    },
+    {
+     "en": "High altitude: rest on day one and drink water",
+     "pa": "ਬਹੁਤ ਉਚਾਈ: ਪਹਿਲੇ ਦਿਨ ਆਰਾਮ ਕਰੋ ਅਤੇ ਪਾਣੀ ਪੀਓ",
+     "hi": "बहुत ऊँचाई: पहले दिन आराम करें और पानी पिएँ"
+    },
+    {
+     "en": "Carry cash and keep a spare day for road delays",
+     "pa": "ਨਕਦੀ ਰੱਖੋ ਅਤੇ ਸੜਕ ਦੇਰੀ ਲਈ ਇੱਕ ਵਾਧੂ ਦਿਨ ਰੱਖੋ",
+     "hi": "नकद रखें और सड़क देरी के लिए एक अतिरिक्त दिन रखें"
+    }
+   ],
+   "stays": [
+    {
+     "name": {
+      "en": "Village homestays (Kibber, Langza)",
+      "pa": "ਪਿੰਡ ਦੇ ਹੋਮਸਟੇ (ਕਿੱਬਰ, ਲੰਗਜ਼ਾ)",
+      "hi": "गाँव के होमस्टे (किब्बर, लांगज़ा)"
+     },
+     "town": {
+      "en": "Kibber",
+      "pa": "ਕਿੱਬਰ",
+      "hi": "किब्बर"
+     },
+     "type": "homestay"
+    },
+    {
+     "name": {
+      "en": "Sakya Abode",
+      "pa": "ਸਕਿਆ ਅਬੋਡ",
+      "hi": "सक्या अबोड"
+     },
+     "town": {
+      "en": "Kaza",
+      "pa": "ਕਾਜ਼ਾ",
+      "hi": "काज़ा"
+     },
+     "type": "hotel"
+    },
+    {
+     "name": {
+      "en": "Hotel Deyzor",
+      "pa": "ਹੋਟਲ ਡੇਜ਼ੋਰ",
+      "hi": "होटल डेज़ोर"
+     },
+     "town": {
+      "en": "Kaza",
+      "pa": "ਕਾਜ਼ਾ",
+      "hi": "काज़ा"
+     },
+     "type": "hotel"
+    }
+   ],
+   "restStops": [],
+   "places": [
+    {
+     "name": {
+      "en": "Key Monastery",
+      "pa": "ਕੀ ਮੱਠ",
+      "hi": "की मठ"
+     },
+     "town": {
+      "en": "Key",
+      "pa": "ਕੀ",
+      "hi": "की"
+     },
+     "tags": [
+      "religious",
+      "hills"
+     ]
+    },
+    {
+     "name": {
+      "en": "Tabo Monastery",
+      "pa": "ਤਾਬੋ ਮੱਠ",
+      "hi": "ताबो मठ"
+     },
+     "town": {
+      "en": "Tabo",
+      "pa": "ਤਾਬੋ",
+      "hi": "ताबो"
+     },
+     "tags": [
+      "religious",
+      "heritage"
+     ]
+    },
+    {
+     "name": {
+      "en": "Chandratal Lake",
+      "pa": "ਚੰਦਰਤਾਲ ਝੀਲ",
+      "hi": "चंद्रताल झील"
+     },
+     "town": {
+      "en": "Chandratal",
+      "pa": "ਚੰਦਰਤਾਲ",
+      "hi": "चंद्रताल"
+     },
+     "tags": [
+      "lakes",
+      "adventure"
+     ]
+    },
+    {
+     "name": {
+      "en": "Kibber village",
+      "pa": "ਕਿੱਬਰ ਪਿੰਡ",
+      "hi": "किब्बर गाँव"
+     },
+     "town": {
+      "en": "Kibber",
+      "pa": "ਕਿੱਬਰ",
+      "hi": "किब्बर"
+     },
+     "tags": [
+      "hills"
+     ]
+    },
+    {
+     "name": {
+      "en": "Chicham Bridge",
+      "pa": "ਚਿਚਮ ਪੁਲ",
+      "hi": "चिचम पुल"
+     },
+     "town": {
+      "en": "Kibber",
+      "pa": "ਕਿੱਬਰ",
+      "hi": "किब्बर"
+     },
+     "tags": [
+      "adventure"
+     ]
+    }
+   ],
+   "prices": {
+    "homestay": {
+     "min": 5200,
+     "max": 5200,
+     "source": {
+      "en": "Booking.com average homestay price in Kaza",
+      "pa": "Booking.com 'ਤੇ ਕਾਜ਼ਾ ਵਿੱਚ ਹੋਮਸਟੇ ਦੀ ਔਸਤ ਕੀਮਤ",
+      "hi": "Booking.com पर काज़ा में होमस्टे की औसत कीमत"
+     },
+     "note": {
+      "en": "Shown in US$; converted at ₹94.25 per US$ (European Central Bank rate, 13 Nov 2026)",
+      "pa": "US$ ਵਿੱਚ ਦਿਖਾਈ; ₹94.25 ਪ੍ਰਤੀ US$ ਨਾਲ ਬਦਲੀ (ਯੂਰਪੀ ਕੇਂਦਰੀ ਬੈਂਕ ਦਾ ਰੇਟ, 13 ਨਵੰਬਰ 2026)",
+      "hi": "US$ में दिखाई गई; ₹94.25 प्रति US$ से बदली (यूरोपीय केंद्रीय बैंक की दर, 13 नवंबर 2026)"
+     },
+     "checked": "2026-11-17",
+     "url": "https://www.booking.com/homestay/city/in/kaza.html"
+    }
+   },
+   "roadKm": {
+    "Ludhiana": 642,
+    "Chandigarh": 527,
+    "Delhi": 789,
+    "Amritsar": 741,
+    "Jalandhar": 658,
+    "Patiala": 583,
+    "Jaipur": 993
+   },
+   "railhead": {
+    "name": {
+     "en": "Chandigarh",
+     "pa": "ਚੰਡੀਗੜ੍ਹ",
+     "hi": "चंडीगढ़"
+    },
+    "code": "CDG",
+    "km": 523,
+    "note": "spitiRail",
+    "lat": 30.7022,
+    "lng": 76.8215
+   },
+   "airport": {
+    "code": "KUU",
+    "km": 441
+   }
+  },
+  {
+   "id": "shillong",
+   "keys": [
+    "Shillong"
+   ],
+   "searchName": "Shillong",
+   "hill": true,
+   "lonelyPlanet": "https://www.lonelyplanet.com/search?q=shillong",
+   "pros": [
+    {
+     "en": "Waterfalls and living-root bridges",
+     "pa": "ਝਰਨੇ ਅਤੇ ਜਿਉਂਦੀਆਂ ਜੜ੍ਹਾਂ ਦੇ ਪੁਲ",
+     "hi": "झरने और जीवित जड़ों के पुल"
+    },
+    {
+     "en": "Pleasant weather all year",
+     "pa": "ਸਾਰਾ ਸਾਲ ਸੁਹਾਵਣਾ ਮੌਸਮ",
+     "hi": "साल भर सुहाना मौसम"
+    },
+    {
+     "en": "Crystal-clear river at Dawki",
+     "pa": "ਡਾਵਕੀ ਵਿੱਚ ਸ਼ੀਸ਼ੇ ਵਰਗੀ ਸਾਫ਼ ਨਦੀ",
+     "hi": "डावकी में शीशे जैसी साफ़ नदी"
+    }
+   ],
+   "cons": [
+    {
+     "en": "Very heavy rain June–September",
+     "pa": "ਜੂਨ–ਸਤੰਬਰ ਬਹੁਤ ਭਾਰੀ ਮੀਂਹ",
+     "hi": "जून–सितंबर बहुत भारी बारिश"
+    },
+    {
+     "en": "Traffic jams in town",
+     "pa": "ਸ਼ਹਿਰ ਵਿੱਚ ਟ੍ਰੈਫ਼ਿਕ ਜਾਮ",
+     "hi": "शहर में ट्रैफ़िक जाम"
+    },
+    {
+     "en": "Nongriat root bridge needs about 3,500 steps",
+     "pa": "ਨੌਂਗਰਿਆਤ ਜੜ੍ਹ ਪੁਲ ਲਈ ਲਗਭਗ 3,500 ਪੌੜੀਆਂ",
+     "hi": "नोंग्रियात जड़ पुल के लिए लगभग 3,500 सीढ़ियाँ"
+    }
+   ],
+   "rush": [
+    {
+     "en": "October to April is best",
+     "pa": "ਅਕਤੂਬਰ ਤੋਂ ਅਪ੍ਰੈਲ ਸਭ ਤੋਂ ਵਧੀਆ",
+     "hi": "अक्टूबर से अप्रैल सबसे अच्छा"
+    },
+    {
+     "en": "Dawki river is clearest from November to March",
+     "pa": "ਡਾਵਕੀ ਨਦੀ ਨਵੰਬਰ ਤੋਂ ਮਾਰਚ ਸਭ ਤੋਂ ਸਾਫ਼",
+     "hi": "डावकी नदी नवंबर से मार्च सबसे साफ़"
+    },
+    {
+     "en": "Leave Shillong early for Sohra to beat the traffic",
+     "pa": "ਟ੍ਰੈਫ਼ਿਕ ਤੋਂ ਬਚਣ ਲਈ ਸੋਹਰਾ ਲਈ ਸਵੇਰੇ ਜਲਦੀ ਨਿਕਲੋ",
+     "hi": "ट्रैफ़िक से बचने के लिए सोहरा के लिए सुबह जल्दी निकलें"
+    }
+   ],
+   "stays": [
+    {
+     "name": {
+      "en": "Ri Kynjai",
+      "pa": "ਰੀ ਕਿਨਜਾਈ",
+      "hi": "री किनजाई"
+     },
+     "town": {
+      "en": "Umiam",
+      "pa": "ਉਮੀਅਮ",
+      "hi": "उमियम"
+     },
+     "type": "hotel"
+    },
+    {
+     "name": {
+      "en": "Hotel Polo Towers",
+      "pa": "ਹੋਟਲ ਪੋਲੋ ਟਾਵਰਜ਼",
+      "hi": "होटल पोलो टावर्स"
+     },
+     "town": {
+      "en": "Shillong",
+      "pa": "ਸ਼ਿਲਾਂਗ",
+      "hi": "शिलांग"
+     },
+     "type": "hotel"
+    }
+   ],
+   "restStops": [],
+   "places": [
+    {
+     "name": {
+      "en": "Umiam Lake",
+      "pa": "ਉਮੀਅਮ ਝੀਲ",
+      "hi": "उमियम झील"
+     },
+     "town": {
+      "en": "Umiam",
+      "pa": "ਉਮੀਅਮ",
+      "hi": "उमियम"
+     },
+     "tags": [
+      "lakes"
+     ]
+    },
+    {
+     "name": {
+      "en": "Elephant Falls",
+      "pa": "ਐਲੀਫੈਂਟ ਝਰਨਾ",
+      "hi": "एलिफ़ेंट फ़ॉल्स"
+     },
+     "town": {
+      "en": "Shillong",
+      "pa": "ਸ਼ਿਲਾਂਗ",
+      "hi": "शिलांग"
+     },
+     "tags": [
+      "hills",
+      "lakes"
+     ]
+    },
+    {
+     "name": {
+      "en": "Nohkalikai Falls",
+      "pa": "ਨੋਹਕਾਲੀਕਾਈ ਝਰਨਾ",
+      "hi": "नोहकालिकाई फ़ॉल्स"
+     },
+     "town": {
+      "en": "Sohra (Cherrapunji)",
+      "pa": "ਸੋਹਰਾ (ਚੇਰਾਪੂੰਜੀ)",
+      "hi": "सोहरा (चेरापूंजी)"
+     },
+     "tags": [
+      "hills"
+     ]
+    },
+    {
+     "name": {
+      "en": "Double-decker living-root bridge, Nongriat",
+      "pa": "ਦੋ-ਮੰਜ਼ਿਲਾ ਜੜ੍ਹ ਪੁਲ, ਨੌਂਗਰਿਆਤ",
+      "hi": "दो-मंज़िला जड़ पुल, नोंग्रियात"
+     },
+     "town": {
+      "en": "Sohra (Cherrapunji)",
+      "pa": "ਸੋਹਰਾ (ਚੇਰਾਪੂੰਜੀ)",
+      "hi": "सोहरा (चेरापूंजी)"
+     },
+     "tags": [
+      "adventure"
+     ]
+    },
+    {
+     "name": {
+      "en": "Mawlynnong village",
+      "pa": "ਮਾਵਲਿਨੌਂਗ ਪਿੰਡ",
+      "hi": "मावलिननॉन्ग गाँव"
+     },
+     "town": {
+      "en": "Mawlynnong",
+      "pa": "ਮਾਵਲਿਨੌਂਗ",
+      "hi": "मावलिननॉन्ग"
+     },
+     "tags": [
+      "heritage"
+     ]
+    },
+    {
+     "name": {
+      "en": "Umngot River",
+      "pa": "ਉਮੰਗੋਟ ਨਦੀ",
+      "hi": "उमंगोट नदी"
+     },
+     "town": {
+      "en": "Dawki",
+      "pa": "ਡਾਵਕੀ",
+      "hi": "डावकी"
+     },
+     "tags": [
+      "lakes",
+      "adventure"
+     ]
+    }
+   ],
+   "prices": {
+    "hotel": {
+     "min": 2100,
+     "max": 12900,
+     "source": {
+      "en": "Booking.com average for 3–4 star hotels in Shillong",
+      "pa": "Booking.com 'ਤੇ ਸ਼ਿਲਾਂਗ ਦੇ 3–4 ਸਟਾਰ ਹੋਟਲਾਂ ਦੀ ਔਸਤ",
+      "hi": "Booking.com पर शिलांग के 3–4 स्टार होटलों का औसत"
+     },
+     "note": {
+      "en": "Lowest to highest of the 3-star and 4-star averages shown (tonight and this weekend)",
+      "pa": "ਦਿਖਾਈ ਗਈ 3 ਅਤੇ 4 ਸਟਾਰ ਔਸਤ ਦਾ ਘੱਟ ਤੋਂ ਵੱਧ (ਅੱਜ ਰਾਤ ਅਤੇ ਇਸ ਵੀਕਐਂਡ)",
+      "hi": "दिखाए गए 3 और 4 स्टार औसत का कम से ज़्यादा (आज रात और इस वीकेंड)"
+     },
+     "checked": "2026-11-17",
+     "url": "https://www.booking.com/city/in/shillong.html?selected_currency=INR"
+    },
+    "homestay": {
+     "min": 4400,
+     "max": 4400,
+     "source": {
+      "en": "Booking.com average homestay price in Shillong",
+      "pa": "Booking.com 'ਤੇ ਸ਼ਿਲਾਂਗ ਵਿੱਚ ਹੋਮਸਟੇ ਦੀ ਔਸਤ ਕੀਮਤ",
+      "hi": "Booking.com पर शिलांग में होमस्टे की औसत कीमत"
+     },
+     "note": {
+      "en": "Shown in US$; converted at ₹94.25 per US$ (European Central Bank rate, 13 Nov 2026)",
+      "pa": "US$ ਵਿੱਚ ਦਿਖਾਈ; ₹94.25 ਪ੍ਰਤੀ US$ ਨਾਲ ਬਦਲੀ (ਯੂਰਪੀ ਕੇਂਦਰੀ ਬੈਂਕ ਦਾ ਰੇਟ, 13 ਨਵੰਬਰ 2026)",
+      "hi": "US$ में दिखाई गई; ₹94.25 प्रति US$ से बदली (यूरोपीय केंद्रीय बैंक की दर, 13 नवंबर 2026)"
+     },
+     "checked": "2026-11-17",
+     "url": "https://www.booking.com/homestay/city/in/shillong.html"
+    }
+   },
+   "roadKm": {
+    "Ludhiana": 2123,
+    "Chandigarh": 2059,
+    "Delhi": 1870,
+    "Amritsar": 2265,
+    "Jalandhar": 2185,
+    "Patiala": 2069,
+    "Jaipur": 1948
+   },
+   "railhead": {
+    "name": {
+     "en": "Guwahati",
+     "pa": "ਗੁਹਾਟੀ",
+     "hi": "गुवाहाटी"
+    },
+    "code": "GHY",
+    "km": 96,
+    "note": "shillongRail",
+    "lat": 26.1821,
+    "lng": 91.7507
+   },
+   "airport": {
+    "code": "GAU",
+    "km": 121
+   }
+  },
+  {
+   "id": "gangtok",
+   "keys": [
+    "Gangtok"
+   ],
+   "searchName": "Gangtok",
+   "hill": true,
+   "lonelyPlanet": "https://www.lonelyplanet.com/search?q=gangtok",
+   "pros": [
+    {
+     "en": "Clean, safe hill town with Kanchenjunga views",
+     "pa": "ਸਾਫ਼, ਸੁਰੱਖਿਅਤ ਪਹਾੜੀ ਸ਼ਹਿਰ, ਕੰਚਨਜੰਗਾ ਦੇ ਨਜ਼ਾਰੇ",
+     "hi": "साफ़, सुरक्षित पहाड़ी शहर, कंचनजंगा के नज़ारे"
+    },
+    {
+     "en": "MG Marg is car-free and good for walks",
+     "pa": "ਐਮਜੀ ਮਾਰਗ ਉੱਤੇ ਗੱਡੀਆਂ ਨਹੀਂ, ਸੈਰ ਲਈ ਵਧੀਆ",
+     "hi": "एमजी मार्ग पर गाड़ियाँ नहीं, सैर के लिए अच्छा"
+    },
+    {
+     "en": "Tsomgo Lake and Nathula day trips",
+     "pa": "ਸੋਮਗੋ ਝੀਲ ਅਤੇ ਨਾਥੁਲਾ ਦੀ ਦਿਨ ਦੀ ਯਾਤਰਾ",
+     "hi": "सोमगो झील और नाथुला की दिन की यात्रा"
+    }
+   ],
+   "cons": [
+    {
+     "en": "Landslides in the monsoon can close the highway",
+     "pa": "ਮੀਂਹ ਵਿੱਚ ਢਿੱਗਾਂ ਡਿੱਗਣ ਨਾਲ ਹਾਈਵੇ ਬੰਦ ਹੋ ਸਕਦਾ",
+     "hi": "बारिश में भूस्खलन से हाईवे बंद हो सकता है"
+    },
+    {
+     "en": "Permits needed for Tsomgo and Nathula",
+     "pa": "ਸੋਮਗੋ ਅਤੇ ਨਾਥੁਲਾ ਲਈ ਪਰਮਿਟ ਚਾਹੀਦਾ",
+     "hi": "सोमगो और नाथुला के लिए परमिट चाहिए"
+    }
+   ],
+   "rush": [
+    {
+     "en": "March–May and October–December are best",
+     "pa": "ਮਾਰਚ–ਮਈ ਅਤੇ ਅਕਤੂਬਰ–ਦਸੰਬਰ ਸਭ ਤੋਂ ਵਧੀਆ",
+     "hi": "मार्च–मई और अक्टूबर–दिसंबर सबसे अच्छा"
+    },
+    {
+     "en": "Book Tsomgo/Nathula permits through a registered agent a day ahead",
+     "pa": "ਸੋਮਗੋ/ਨਾਥੁਲਾ ਪਰਮਿਟ ਰਜਿਸਟਰਡ ਏਜੰਟ ਰਾਹੀਂ ਇੱਕ ਦਿਨ ਪਹਿਲਾਂ",
+     "hi": "सोमगो/नाथुला परमिट रजिस्टर्ड एजेंट से एक दिन पहले"
+    },
+    {
+     "en": "Nathula is closed to visitors on Mondays and Tuesdays",
+     "pa": "ਨਾਥੁਲਾ ਸੋਮਵਾਰ ਅਤੇ ਮੰਗਲਵਾਰ ਨੂੰ ਬੰਦ",
+     "hi": "नाथुला सोमवार और मंगलवार को बंद"
+    }
+   ],
+   "stays": [
+    {
+     "name": {
+      "en": "Mayfair Spa Resort & Casino",
+      "pa": "ਮੇਅਫ਼ੇਅਰ ਸਪਾ ਰਿਜ਼ੋਰਟ",
+      "hi": "मेफ़ेयर स्पा रिज़ॉर्ट"
+     },
+     "town": {
+      "en": "Gangtok",
+      "pa": "ਗੰਗਟੋਕ",
+      "hi": "गंगटोक"
+     },
+     "type": "hotel"
+    },
+    {
+     "name": {
+      "en": "Elgin Nor-Khill",
+      "pa": "ਐਲਗਿਨ ਨੋਰ-ਖਿੱਲ",
+      "hi": "एल्गिन नोर-खिल"
+     },
+     "town": {
+      "en": "Gangtok",
+      "pa": "ਗੰਗਟੋਕ",
+      "hi": "गंगटोक"
+     },
+     "type": "hotel"
+    }
+   ],
+   "restStops": [],
+   "places": [
+    {
+     "name": {
+      "en": "MG Marg",
+      "pa": "ਐਮਜੀ ਮਾਰਗ",
+      "hi": "एमजी मार्ग"
+     },
+     "town": {
+      "en": "Gangtok",
+      "pa": "ਗੰਗਟੋਕ",
+      "hi": "गंगटोक"
+     },
+     "tags": [
+      "food"
+     ]
+    },
+    {
+     "name": {
+      "en": "Rumtek Monastery",
+      "pa": "ਰੁਮਟੇਕ ਮੱਠ",
+      "hi": "रुमटेक मठ"
+     },
+     "town": {
+      "en": "Rumtek",
+      "pa": "ਰੁਮਟੇਕ",
+      "hi": "रुमटेक"
+     },
+     "tags": [
+      "religious"
+     ]
+    },
+    {
+     "name": {
+      "en": "Tsomgo (Changu) Lake",
+      "pa": "ਸੋਮਗੋ (ਛਾਂਗੂ) ਝੀਲ",
+      "hi": "सोमगो (छांगू) झील"
+     },
+     "town": {
+      "en": "Tsomgo Lake area",
+      "pa": "ਸੋਮਗੋ ਝੀਲ ਇਲਾਕਾ",
+      "hi": "सोमगो झील क्षेत्र"
+     },
+     "tags": [
+      "lakes",
+      "hills"
+     ]
+    },
+    {
+     "name": {
+      "en": "Nathula Pass",
+      "pa": "ਨਾਥੁਲਾ ਦੱਰਾ",
+      "hi": "नाथुला दर्रा"
+     },
+     "town": {
+      "en": "Tsomgo Lake area",
+      "pa": "ਸੋਮਗੋ ਝੀਲ ਇਲਾਕਾ",
+      "hi": "सोमगो झील क्षेत्र"
+     },
+     "tags": [
+      "hills",
+      "adventure"
+     ]
+    },
+    {
+     "name": {
+      "en": "Namgyal Institute of Tibetology",
+      "pa": "ਨਾਮਗਿਆਲ ਤਿੱਬਤ ਵਿਗਿਆਨ ਸੰਸਥਾਨ",
+      "hi": "नामग्याल तिब्बत विज्ञान संस्थान"
+     },
+     "town": {
+      "en": "Gangtok",
+      "pa": "ਗੰਗਟੋਕ",
+      "hi": "गंगटोक"
+     },
+     "tags": [
+      "heritage"
+     ]
+    },
+    {
+     "name": {
+      "en": "Gangtok Ropeway",
+      "pa": "ਗੰਗਟੋਕ ਰੋਪਵੇਅ",
+      "hi": "गंगटोक रोपवे"
+     },
+     "town": {
+      "en": "Gangtok",
+      "pa": "ਗੰਗਟੋਕ",
+      "hi": "गंगटोक"
+     },
+     "tags": [
+      "hills"
+     ]
+    }
+   ],
+   "prices": {
+    "hotel": {
+     "min": 1700,
+     "max": 6700,
+     "source": {
+      "en": "Booking.com average for 3–4 star hotels in Gangtok",
+      "pa": "Booking.com 'ਤੇ ਗੰਗਟੋਕ ਦੇ 3–4 ਸਟਾਰ ਹੋਟਲਾਂ ਦੀ ਔਸਤ",
+      "hi": "Booking.com पर गंगटोक के 3–4 स्टार होटलों का औसत"
+     },
+     "note": {
+      "en": "Lowest to highest of the 3-star and 4-star averages shown (tonight and this weekend)",
+      "pa": "ਦਿਖਾਈ ਗਈ 3 ਅਤੇ 4 ਸਟਾਰ ਔਸਤ ਦਾ ਘੱਟ ਤੋਂ ਵੱਧ (ਅੱਜ ਰਾਤ ਅਤੇ ਇਸ ਵੀਕਐਂਡ)",
+      "hi": "दिखाए गए 3 और 4 स्टार औसत का कम से ज़्यादा (आज रात और इस वीकेंड)"
+     },
+     "checked": "2026-11-17",
+     "url": "https://www.booking.com/city/in/gangtok.html?selected_currency=INR"
+    },
+    "homestay": {
+     "min": 1200,
+     "max": 2600,
+     "source": {
+      "en": "Booking.com average homestay price in Gangtok",
+      "pa": "Booking.com 'ਤੇ ਗੰਗਟੋਕ ਵਿੱਚ ਹੋਮਸਟੇ ਦੀ ਔਸਤ ਕੀਮਤ",
+      "hi": "Booking.com पर गंगटोक में होमस्टे की औसत कीमत"
+     },
+     "note": {
+      "en": "Shown in US$; converted at ₹94.25 per US$ (European Central Bank rate, 13 Nov 2026)",
+      "pa": "US$ ਵਿੱਚ ਦਿਖਾਈ; ₹94.25 ਪ੍ਰਤੀ US$ ਨਾਲ ਬਦਲੀ (ਯੂਰਪੀ ਕੇਂਦਰੀ ਬੈਂਕ ਦਾ ਰੇਟ, 13 ਨਵੰਬਰ 2026)",
+      "hi": "US$ में दिखाई गई; ₹94.25 प्रति US$ से बदली (यूरोपीय केंद्रीय बैंक की दर, 13 नवंबर 2026)"
+     },
+     "checked": "2026-11-17",
+     "url": "https://www.booking.com/homestay/city/in/gangtok.html"
+    }
+   },
+   "roadKm": {
+    "Ludhiana": 1723,
+    "Chandigarh": 1659,
+    "Delhi": 1470,
+    "Amritsar": 1865,
+    "Jalandhar": 1785,
+    "Patiala": 1670,
+    "Jaipur": 1549
+   },
+   "railhead": {
+    "name": {
+     "en": "New Jalpaiguri",
+     "pa": "ਨਿਊ ਜਲਪਾਈਗੁੜੀ",
+     "hi": "न्यू जलपाईगुड़ी"
+    },
+    "code": "NJP",
+    "km": 119,
+    "note": "gangtokRail",
+    "lat": 26.6829,
+    "lng": 88.4425
+   },
+   "airport": {
+    "code": "IXB",
+    "km": 126
+   }
+  },
+  {
+   "id": "puri",
+   "keys": [
+    "Puri"
+   ],
+   "searchName": "Puri",
+   "hill": false,
+   "lonelyPlanet": "https://www.lonelyplanet.com/search?q=puri%20odisha",
+   "pros": [
+    {
+     "en": "Jagannath Temple, one of the Char Dham",
+     "pa": "ਜਗਨਨਾਥ ਮੰਦਰ, ਚਾਰ ਧਾਮਾਂ ਵਿੱਚੋਂ ਇੱਕ",
+     "hi": "जगन्नाथ मंदिर, चार धाम में से एक"
+    },
+    {
+     "en": "Long sandy beach",
+     "pa": "ਲੰਬਾ ਰੇਤਲਾ ਬੀਚ",
+     "hi": "लंबा रेतीला बीच"
+    },
+    {
+     "en": "Konark Sun Temple (UNESCO) is about 35 km away",
+     "pa": "ਕੋਣਾਰਕ ਸੂਰਜ ਮੰਦਰ (ਯੂਨੈਸਕੋ) ਲਗਭਗ 35 ਕਿ.ਮੀ.",
+     "hi": "कोणार्क सूर्य मंदिर (यूनेस्को) लगभग 35 कि.मी."
+    }
+   ],
+   "cons": [
+    {
+     "en": "Hot and humid in summer",
+     "pa": "ਗਰਮੀਆਂ ਵਿੱਚ ਗਰਮ ਅਤੇ ਹੁੰਮਸ",
+     "hi": "गर्मियों में गर्म और उमस"
+    },
+    {
+     "en": "Huge crowds at Rath Yatra (June–July)",
+     "pa": "ਰਥ ਯਾਤਰਾ (ਜੂਨ–ਜੁਲਾਈ) ਵੇਲੇ ਬਹੁਤ ਭੀੜ",
+     "hi": "रथ यात्रा (जून–जुलाई) में बहुत भीड़"
+    },
+    {
+     "en": "Strong sea currents; swim only where lifeguards are",
+     "pa": "ਸਮੁੰਦਰ ਦੀਆਂ ਤੇਜ਼ ਲਹਿਰਾਂ; ਸਿਰਫ਼ ਲਾਈਫ਼ਗਾਰਡ ਵਾਲੀ ਥਾਂ ਤੈਰੋ",
+     "hi": "समुद्र की तेज़ धाराएँ; सिर्फ़ लाइफ़गार्ड वाली जगह तैरें"
+    }
+   ],
+   "rush": [
+    {
+     "en": "October to March is the pleasant season",
+     "pa": "ਅਕਤੂਬਰ ਤੋਂ ਮਾਰਚ ਮੌਸਮ ਸੁਹਾਵਣਾ ਰਹਿੰਦਾ ਹੈ",
+     "hi": "अक्टूबर से मार्च मौसम सुहाना रहता है"
+    },
+    {
+     "en": "Book months ahead for Rath Yatra",
+     "pa": "ਰਥ ਯਾਤਰਾ ਲਈ ਮਹੀਨੇ ਪਹਿਲਾਂ ਬੁੱਕ ਕਰੋ",
+     "hi": "रथ यात्रा के लिए महीनों पहले बुक करें"
+    },
+    {
+     "en": "Phones and bags are not allowed inside Jagannath Temple",
+     "pa": "ਜਗਨਨਾਥ ਮੰਦਰ ਵਿੱਚ ਫ਼ੋਨ ਅਤੇ ਬੈਗ ਦੀ ਇਜਾਜ਼ਤ ਨਹੀਂ",
+     "hi": "जगन्नाथ मंदिर में फ़ोन और बैग की अनुमति नहीं"
+    }
+   ],
+   "stays": [
+    {
+     "name": {
+      "en": "OTDC Panthanivas Puri",
+      "pa": "ਓਟੀਡੀਸੀ ਪੰਥਨਿਵਾਸ ਪੁਰੀ",
+      "hi": "ओटीडीसी पंथनिवास पुरी"
+     },
+     "town": {
+      "en": "Puri",
+      "pa": "ਪੁਰੀ",
+      "hi": "पुरी"
+     },
+     "type": "govt"
+    },
+    {
+     "name": {
+      "en": "Mayfair Heritage",
+      "pa": "ਮੇਅਫ਼ੇਅਰ ਹੈਰੀਟੇਜ",
+      "hi": "मेफ़ेयर हेरिटेज"
+     },
+     "town": {
+      "en": "Puri",
+      "pa": "ਪੁਰੀ",
+      "hi": "पुरी"
+     },
+     "type": "hotel"
+    }
+   ],
+   "restStops": [],
+   "places": [
+    {
+     "name": {
+      "en": "Jagannath Temple",
+      "pa": "ਜਗਨਨਾਥ ਮੰਦਰ",
+      "hi": "जगन्नाथ मंदिर"
+     },
+     "town": {
+      "en": "Puri",
+      "pa": "ਪੁਰੀ",
+      "hi": "पुरी"
+     },
+     "tags": [
+      "religious",
+      "heritage"
+     ]
+    },
+    {
+     "name": {
+      "en": "Puri Beach",
+      "pa": "ਪੁਰੀ ਬੀਚ",
+      "hi": "पुरी बीच"
+     },
+     "town": {
+      "en": "Puri",
+      "pa": "ਪੁਰੀ",
+      "hi": "पुरी"
+     },
+     "tags": [
+      "lakes"
+     ]
+    },
+    {
+     "name": {
+      "en": "Konark Sun Temple",
+      "pa": "ਕੋਣਾਰਕ ਸੂਰਜ ਮੰਦਰ",
+      "hi": "कोणार्क सूर्य मंदिर"
+     },
+     "town": {
+      "en": "Konark",
+      "pa": "ਕੋਣਾਰਕ",
+      "hi": "कोणार्क"
+     },
+     "tags": [
+      "heritage",
+      "religious"
+     ]
+    },
+    {
+     "name": {
+      "en": "Chilika Lake (dolphins)",
+      "pa": "ਚਿਲਕਾ ਝੀਲ (ਡੌਲਫ਼ਿਨ)",
+      "hi": "चिल्का झील (डॉल्फ़िन)"
+     },
+     "town": {
+      "en": "Satapada",
+      "pa": "ਸਤਪਦਾ",
+      "hi": "सतपदा"
+     },
+     "tags": [
+      "lakes",
+      "wildlife"
+     ]
+    },
+    {
+     "name": {
+      "en": "Chandrabhaga Beach",
+      "pa": "ਚੰਦਰਭਾਗਾ ਬੀਚ",
+      "hi": "चंद्रभागा बीच"
+     },
+     "town": {
+      "en": "Konark",
+      "pa": "ਕੋਣਾਰਕ",
+      "hi": "कोणार्क"
+     },
+     "tags": [
+      "lakes"
+     ]
+    }
+   ],
+   "prices": {
+    "hotel": {
+     "min": 2200,
+     "max": 7300,
+     "source": {
+      "en": "Booking.com average for 3–4 star hotels in Puri",
+      "pa": "Booking.com 'ਤੇ ਪੁਰੀ ਦੇ 3–4 ਸਟਾਰ ਹੋਟਲਾਂ ਦੀ ਔਸਤ",
+      "hi": "Booking.com पर पुरी के 3–4 स्टार होटलों का औसत"
+     },
+     "note": {
+      "en": "Lowest to highest of the 3-star and 4-star averages shown (tonight and this weekend)",
+      "pa": "ਦਿਖਾਈ ਗਈ 3 ਅਤੇ 4 ਸਟਾਰ ਔਸਤ ਦਾ ਘੱਟ ਤੋਂ ਵੱਧ (ਅੱਜ ਰਾਤ ਅਤੇ ਇਸ ਵੀਕਐਂਡ)",
+      "hi": "दिखाए गए 3 और 4 स्टार औसत का कम से ज़्यादा (आज रात और इस वीकेंड)"
+     },
+     "checked": "2026-11-17",
+     "url": "https://www.booking.com/city/in/puri.html?selected_currency=INR"
+    },
+    "homestay": {
+     "min": 2000,
+     "max": 2000,
+     "source": {
+      "en": "Booking.com average homestay price in Puri",
+      "pa": "Booking.com 'ਤੇ ਪੁਰੀ ਵਿੱਚ ਹੋਮਸਟੇ ਦੀ ਔਸਤ ਕੀਮਤ",
+      "hi": "Booking.com पर पुरी में होमस्टे की औसत कीमत"
+     },
+     "note": {
+      "en": "Shown in US$; converted at ₹94.25 per US$ (European Central Bank rate, 13 Nov 2026)",
+      "pa": "US$ ਵਿੱਚ ਦਿਖਾਈ; ₹94.25 ਪ੍ਰਤੀ US$ ਨਾਲ ਬਦਲੀ (ਯੂਰਪੀ ਕੇਂਦਰੀ ਬੈਂਕ ਦਾ ਰੇਟ, 13 ਨਵੰਬਰ 2026)",
+      "hi": "US$ में दिखाई गई; ₹94.25 प्रति US$ से बदली (यूरोपीय केंद्रीय बैंक की दर, 13 नवंबर 2026)"
+     },
+     "checked": "2026-11-17",
+     "url": "https://www.booking.com/homestay/city/in/puri.html"
+    }
+   },
+   "roadKm": {
+    "Ludhiana": 1944,
+    "Chandigarh": 1880,
+    "Delhi": 1691,
+    "Amritsar": 2086,
+    "Jalandhar": 2006,
+    "Patiala": 1891,
+    "Jaipur": 1678
+   },
+   "railhead": {
+    "name": {
+     "en": "Puri",
+     "pa": "ਪੁਰੀ",
+     "hi": "पुरी"
+    },
+    "code": "PURI",
+    "km": 2,
+    "note": "",
+    "lat": 19.8103,
+    "lng": 85.8415
+   },
+   "airport": {
+    "code": "BBI",
+    "km": 58
+   }
+  },
+  {
+   "id": "andaman",
+   "keys": [
+    "Andaman (Port Blair)"
+   ],
+   "searchName": "Port Blair",
+   "hill": false,
+   "lonelyPlanet": "https://www.lonelyplanet.com/destinations/india/andaman-islands",
+   "pros": [
+    {
+     "en": "Clear water and white-sand beaches",
+     "pa": "ਸਾਫ਼ ਪਾਣੀ ਅਤੇ ਚਿੱਟੀ ਰੇਤ ਦੇ ਬੀਚ",
+     "hi": "साफ़ पानी और सफ़ेद रेत के बीच"
+    },
+    {
+     "en": "Snorkelling and scuba diving",
+     "pa": "ਸਨੌਰਕਲਿੰਗ ਅਤੇ ਸਕੂਬਾ ਡਾਈਵਿੰਗ",
+     "hi": "स्नॉर्कलिंग और स्कूबा डाइविंग"
+    },
+    {
+     "en": "Cellular Jail history and light show",
+     "pa": "ਸੈਲੂਲਰ ਜੇਲ੍ਹ ਦਾ ਇਤਿਹਾਸ ਅਤੇ ਲਾਈਟ ਸ਼ੋਅ",
+     "hi": "सेल्युलर जेल का इतिहास और लाइट शो"
+    }
+   ],
+   "cons": [
+    {
+     "en": "Reachable only by flight or ship; no road from the mainland",
+     "pa": "ਸਿਰਫ਼ ਉਡਾਣ ਜਾਂ ਜਹਾਜ਼ ਰਾਹੀਂ; ਮੁੱਖ ਭੂਮੀ ਤੋਂ ਸੜਕ ਨਹੀਂ",
+     "hi": "सिर्फ़ उड़ान या जहाज़ से; मुख्य भूमि से सड़क नहीं"
+    },
+    {
+     "en": "Ferries between islands sell out; weather can cancel them",
+     "pa": "ਟਾਪੂਆਂ ਵਿਚਕਾਰ ਫ਼ੈਰੀ ਭਰ ਜਾਂਦੀਆਂ; ਮੌਸਮ ਕਾਰਨ ਰੱਦ ਹੋ ਸਕਦੀਆਂ",
+     "hi": "द्वीपों के बीच फ़ेरी भर जाती हैं; मौसम से रद्द हो सकती हैं"
+    },
+    {
+     "en": "Costly compared with mainland trips",
+     "pa": "ਮੁੱਖ ਭੂਮੀ ਦੇ ਸਫ਼ਰ ਨਾਲੋਂ ਮਹਿੰਗਾ",
+     "hi": "मुख्य भूमि की यात्रा से महँगा"
+    }
+   ],
+   "rush": [
+    {
+     "en": "November to April is best; May–September is rough at sea",
+     "pa": "ਨਵੰਬਰ ਤੋਂ ਅਪ੍ਰੈਲ ਸਭ ਤੋਂ ਵਧੀਆ; ਮਈ–ਸਤੰਬਰ ਸਮੁੰਦਰ ਖ਼ਰਾਬ",
+     "hi": "नवंबर से अप्रैल सबसे अच्छा; मई–सितंबर समुद्र अशांत"
+    },
+    {
+     "en": "Book Havelock ferries as soon as flights are fixed",
+     "pa": "ਉਡਾਣ ਪੱਕੀ ਹੁੰਦੇ ਹੀ ਹੈਵਲੌਕ ਫ਼ੈਰੀ ਬੁੱਕ ਕਰੋ",
+     "hi": "उड़ान पक्की होते ही हैवलॉक फ़ेरी बुक करें"
+    },
+    {
+     "en": "Cellular Jail is closed on Mondays",
+     "pa": "ਸੈਲੂਲਰ ਜੇਲ੍ਹ ਸੋਮਵਾਰ ਨੂੰ ਬੰਦ",
+     "hi": "सेल्युलर जेल सोमवार को बंद"
+    }
+   ],
+   "stays": [
+    {
+     "name": {
+      "en": "Taj Exotica Resort & Spa, Andamans",
+      "pa": "ਤਾਜ ਐਕਸੋਟਿਕਾ ਰਿਜ਼ੋਰਟ, ਅੰਡੇਮਾਨ",
+      "hi": "ताज एक्सोटिका रिज़ॉर्ट, अंडमान"
+     },
+     "town": {
+      "en": "Havelock (Swaraj Dweep)",
+      "pa": "ਹੈਵਲੌਕ (ਸਵਰਾਜ ਦ੍ਵੀਪ)",
+      "hi": "हैवलॉक (स्वराज द्वीप)"
+     },
+     "type": "hotel"
+    },
+    {
+     "name": {
+      "en": "SeaShell Port Blair",
+      "pa": "ਸੀਸ਼ੈੱਲ ਪੋਰਟ ਬਲੇਅਰ",
+      "hi": "सीशेल पोर्ट ब्लेयर"
+     },
+     "town": {
+      "en": "Port Blair",
+      "pa": "ਪੋਰਟ ਬਲੇਅਰ",
+      "hi": "पोर्ट ब्लेयर"
+     },
+     "type": "hotel"
+    }
+   ],
+   "restStops": [],
+   "places": [
+    {
+     "name": {
+      "en": "Cellular Jail",
+      "pa": "ਸੈਲੂਲਰ ਜੇਲ੍ਹ",
+      "hi": "सेल्युलर जेल"
+     },
+     "town": {
+      "en": "Port Blair",
+      "pa": "ਪੋਰਟ ਬਲੇਅਰ",
+      "hi": "पोर्ट ब्लेयर"
+     },
+     "tags": [
+      "heritage"
+     ]
+    },
+    {
+     "name": {
+      "en": "Radhanagar Beach",
+      "pa": "ਰਾਧਾਨਗਰ ਬੀਚ",
+      "hi": "राधानगर बीच"
+     },
+     "town": {
+      "en": "Havelock (Swaraj Dweep)",
+      "pa": "ਹੈਵਲੌਕ (ਸਵਰਾਜ ਦ੍ਵੀਪ)",
+      "hi": "हैवलॉक (स्वराज द्वीप)"
+     },
+     "tags": [
+      "lakes"
+     ]
+    },
+    {
+     "name": {
+      "en": "Elephant Beach (snorkelling)",
+      "pa": "ਐਲੀਫੈਂਟ ਬੀਚ (ਸਨੌਰਕਲਿੰਗ)",
+      "hi": "एलिफ़ेंट बीच (स्नॉर्कलिंग)"
+     },
+     "town": {
+      "en": "Havelock (Swaraj Dweep)",
+      "pa": "ਹੈਵਲੌਕ (ਸਵਰਾਜ ਦ੍ਵੀਪ)",
+      "hi": "हैवलॉक (स्वराज द्वीप)"
+     },
+     "tags": [
+      "adventure",
+      "lakes"
+     ]
+    },
+    {
+     "name": {
+      "en": "Ross Island ruins",
+      "pa": "ਰੌਸ ਟਾਪੂ ਦੇ ਖੰਡਰ",
+      "hi": "रॉस द्वीप के खंडहर"
+     },
+     "town": {
+      "en": "Ross Island (Netaji Subhas Chandra Bose Dweep)",
+      "pa": "ਰੌਸ ਟਾਪੂ (ਨੇਤਾਜੀ ਸੁਭਾਸ਼ ਚੰਦਰ ਬੋਸ ਦ੍ਵੀਪ)",
+      "hi": "रॉस द्वीप (नेताजी सुभाष चंद्र बोस द्वीप)"
+     },
+     "tags": [
+      "heritage"
+     ]
+    },
+    {
+     "name": {
+      "en": "Chidiya Tapu sunset",
+      "pa": "ਚਿੜੀਆ ਟਾਪੂ ਸੂਰਜ ਡੁੱਬਣਾ",
+      "hi": "चिड़िया टापू सूर्यास्त"
+     },
+     "town": {
+      "en": "Port Blair",
+      "pa": "ਪੋਰਟ ਬਲੇਅਰ",
+      "hi": "पोर्ट ब्लेयर"
+     },
+     "tags": [
+      "wildlife",
+      "lakes"
+     ]
+    }
+   ],
+   "prices": {
+    "hotel": {
+     "min": 5100,
+     "max": 10700,
+     "source": {
+      "en": "Booking.com average for 3–4 star hotels in Port Blair",
+      "pa": "Booking.com 'ਤੇ ਪੋਰਟ ਬਲੇਅਰ ਦੇ 3–4 ਸਟਾਰ ਹੋਟਲਾਂ ਦੀ ਔਸਤ",
+      "hi": "Booking.com पर पोर्ट ब्लेयर के 3–4 स्टार होटलों का औसत"
+     },
+     "note": {
+      "en": "Lowest to highest of the 3-star and 4-star averages shown (tonight and this weekend)",
+      "pa": "ਦਿਖਾਈ ਗਈ 3 ਅਤੇ 4 ਸਟਾਰ ਔਸਤ ਦਾ ਘੱਟ ਤੋਂ ਵੱਧ (ਅੱਜ ਰਾਤ ਅਤੇ ਇਸ ਵੀਕਐਂਡ)",
+      "hi": "दिखाए गए 3 और 4 स्टार औसत का कम से ज़्यादा (आज रात और इस वीकेंड)"
+     },
+     "checked": "2026-11-17",
+     "url": "https://www.booking.com/city/in/port-blair.html?selected_currency=INR"
+    },
+    "homestay": {
+     "min": 2000,
+     "max": 2000,
+     "source": {
+      "en": "Booking.com average homestay price in Port Blair",
+      "pa": "Booking.com 'ਤੇ ਪੋਰਟ ਬਲੇਅਰ ਵਿੱਚ ਹੋਮਸਟੇ ਦੀ ਔਸਤ ਕੀਮਤ",
+      "hi": "Booking.com पर पोर्ट ब्लेयर में होमस्टे की औसत कीमत"
+     },
+     "note": {
+      "en": "Shown in US$; converted at ₹94.25 per US$ (European Central Bank rate, 13 Nov 2026)",
+      "pa": "US$ ਵਿੱਚ ਦਿਖਾਈ; ₹94.25 ਪ੍ਰਤੀ US$ ਨਾਲ ਬਦਲੀ (ਯੂਰਪੀ ਕੇਂਦਰੀ ਬੈਂਕ ਦਾ ਰੇਟ, 13 ਨਵੰਬਰ 2026)",
+      "hi": "US$ में दिखाई गई; ₹94.25 प्रति US$ से बदली (यूरोपीय केंद्रीय बैंक की दर, 13 नवंबर 2026)"
+     },
+     "checked": "2026-11-17",
+     "url": "https://www.booking.com/homestay/city/in/port-blair.html"
+    }
+   },
+   "noRoad": true,
+   "roadKm": {},
+   "airport": {
+    "code": "IXZ",
+    "km": 4
+   },
+   "ferry": [
+    {
+     "name": {
+      "en": "Govt ferry Port Blair–Havelock (DSS)",
+      "pa": "ਸਰਕਾਰੀ ਫ਼ੈਰੀ ਪੋਰਟ ਬਲੇਅਰ–ਹੈਵਲੌਕ (DSS)",
+      "hi": "सरकारी फ़ेरी पोर्ट ब्लेयर–हैवलॉक (DSS)"
+     },
+     "fareMin": 460,
+     "fareMax": 970,
+     "rides": 2,
+     "note": {
+      "en": "Deck to chair class, non-islander fares; private catamarans cost more. Sources differ, so approx.",
+      "pa": "ਡੈੱਕ ਤੋਂ ਚੇਅਰ ਕਲਾਸ, ਬਾਹਰਲੇ ਯਾਤਰੀਆਂ ਦਾ ਕਿਰਾਇਆ; ਪ੍ਰਾਈਵੇਟ ਕੈਟਾਮਰੈਨ ਮਹਿੰਗੇ। ਸਰੋਤ ਵੱਖਰੇ, ਇਸ ਲਈ ਲਗਭਗ।",
+      "hi": "डेक से चेयर क्लास, बाहरी यात्रियों का किराया; प्राइवेट कैटामरैन महँगे। स्रोत अलग, इसलिए लगभग।"
+     },
+     "source": "Directorate of Shipping Services (DSS) fare order FY2026-27 via andamanferrytickets.com (₹460 deck); dekhoandaman.com (₹770–970)",
+     "url": "https://dss.andamannicobar.gov.in/",
+     "checked": "2026-11-17",
+     "approx": true
+    }
+   ]
+  },
+  {
+   "id": "mountabu",
+   "keys": [
+    "Mount Abu"
+   ],
+   "searchName": "Mount Abu",
+   "hill": true,
+   "lonelyPlanet": "https://www.lonelyplanet.com/search?q=mount%20abu",
+   "pros": [
+    {
+     "en": "Rajasthan’s only hill station",
+     "pa": "ਰਾਜਸਥਾਨ ਦਾ ਇੱਕੋ-ਇੱਕ ਪਹਾੜੀ ਸ਼ਹਿਰ",
+     "hi": "राजस्थान का इकलौता हिल स्टेशन"
+    },
+    {
+     "en": "Marble carvings at the Dilwara Temples",
+     "pa": "ਦਿਲਵਾੜਾ ਮੰਦਰਾਂ ਵਿੱਚ ਸੰਗਮਰਮਰ ਦੀ ਨੱਕਾਸ਼ੀ",
+     "hi": "दिलवाड़ा मंदिरों में संगमरमर की नक्काशी"
+    },
+    {
+     "en": "Boating on Nakki Lake",
+     "pa": "ਨੱਕੀ ਝੀਲ ਵਿੱਚ ਕਿਸ਼ਤੀ",
+     "hi": "नक्की झील में नौका विहार"
+    }
+   ],
+   "cons": [
+    {
+     "en": "Crowded in summer and on Gujarat holidays",
+     "pa": "ਗਰਮੀਆਂ ਅਤੇ ਗੁਜਰਾਤ ਦੀਆਂ ਛੁੱਟੀਆਂ ਵਿੱਚ ਭੀੜ",
+     "hi": "गर्मियों और गुजरात की छुट्टियों में भीड़"
+    },
+    {
+     "en": "Phones and cameras not allowed inside Dilwara",
+     "pa": "ਦਿਲਵਾੜਾ ਅੰਦਰ ਫ਼ੋਨ ਅਤੇ ਕੈਮਰੇ ਦੀ ਇਜਾਜ਼ਤ ਨਹੀਂ",
+     "hi": "दिलवाड़ा के अंदर फ़ोन और कैमरे की अनुमति नहीं"
+    }
+   ],
+   "rush": [
+    {
+     "en": "October to March is the pleasant season",
+     "pa": "ਅਕਤੂਬਰ ਤੋਂ ਮਾਰਚ ਮੌਸਮ ਸੁਹਾਵਣਾ ਰਹਿੰਦਾ ਹੈ",
+     "hi": "अक्टूबर से मार्च मौसम सुहाना रहता है"
+    },
+    {
+     "en": "Dilwara is open to visitors only from about noon",
+     "pa": "ਦਿਲਵਾੜਾ ਯਾਤਰੀਆਂ ਲਈ ਲਗਭਗ ਦੁਪਹਿਰ ਤੋਂ ਹੀ ਖੁੱਲ੍ਹਦਾ",
+     "hi": "दिलवाड़ा पर्यटकों के लिए लगभग दोपहर से ही खुलता है"
+    },
+    {
+     "en": "Weekdays are calmer than weekends and long holidays",
+     "pa": "ਆਮ ਦਿਨ ਵੀਕਐਂਡ ਅਤੇ ਲੰਬੀਆਂ ਛੁੱਟੀਆਂ ਨਾਲੋਂ ਸ਼ਾਂਤ ਰਹਿੰਦੇ ਹਨ",
+     "hi": "आम दिन वीकेंड और लंबी छुट्टियों से शांत रहते हैं"
+    }
+   ],
+   "stays": [
+    {
+     "name": {
+      "en": "RTDC Hotel Shikhar",
+      "pa": "ਆਰਟੀਡੀਸੀ ਹੋਟਲ ਸ਼ਿਖਰ",
+      "hi": "आरटीडीसी होटल शिखर"
+     },
+     "town": {
+      "en": "Mount Abu",
+      "pa": "ਮਾਊਂਟ ਆਬੂ",
+      "hi": "माउंट आबू"
+     },
+     "type": "govt"
+    },
+    {
+     "name": {
+      "en": "Cama Rajputana Club Resort",
+      "pa": "ਕਾਮਾ ਰਾਜਪੂਤਾਨਾ ਕਲੱਬ ਰਿਜ਼ੋਰਟ",
+      "hi": "कामा राजपूताना क्लब रिज़ॉर्ट"
+     },
+     "town": {
+      "en": "Mount Abu",
+      "pa": "ਮਾਊਂਟ ਆਬੂ",
+      "hi": "माउंट आबू"
+     },
+     "type": "hotel"
+    }
+   ],
+   "restStops": [],
+   "places": [
+    {
+     "name": {
+      "en": "Dilwara Temples",
+      "pa": "ਦਿਲਵਾੜਾ ਮੰਦਰ",
+      "hi": "दिलवाड़ा मंदिर"
+     },
+     "town": {
+      "en": "Mount Abu",
+      "pa": "ਮਾਊਂਟ ਆਬੂ",
+      "hi": "माउंट आबू"
+     },
+     "tags": [
+      "religious",
+      "heritage"
+     ]
+    },
+    {
+     "name": {
+      "en": "Nakki Lake",
+      "pa": "ਨੱਕੀ ਝੀਲ",
+      "hi": "नक्की झील"
+     },
+     "town": {
+      "en": "Mount Abu",
+      "pa": "ਮਾਊਂਟ ਆਬੂ",
+      "hi": "माउंट आबू"
+     },
+     "tags": [
+      "lakes"
+     ]
+    },
+    {
+     "name": {
+      "en": "Guru Shikhar",
+      "pa": "ਗੁਰੂ ਸ਼ਿਖਰ",
+      "hi": "गुरु शिखर"
+     },
+     "town": {
+      "en": "Mount Abu",
+      "pa": "ਮਾਊਂਟ ਆਬੂ",
+      "hi": "माउंट आबू"
+     },
+     "tags": [
+      "hills",
+      "religious"
+     ]
+    },
+    {
+     "name": {
+      "en": "Sunset Point",
+      "pa": "ਸਨਸੈੱਟ ਪੁਆਇੰਟ",
+      "hi": "सनसेट पॉइंट"
+     },
+     "town": {
+      "en": "Mount Abu",
+      "pa": "ਮਾਊਂਟ ਆਬੂ",
+      "hi": "माउंट आबू"
+     },
+     "tags": [
+      "hills"
+     ]
+    },
+    {
+     "name": {
+      "en": "Mount Abu Wildlife Sanctuary",
+      "pa": "ਮਾਊਂਟ ਆਬੂ ਜੰਗਲੀ ਜੀਵ ਰੱਖ",
+      "hi": "माउंट आबू वन्यजीव अभयारण्य"
+     },
+     "town": {
+      "en": "Mount Abu",
+      "pa": "ਮਾਊਂਟ ਆਬੂ",
+      "hi": "माउंट आबू"
+     },
+     "tags": [
+      "wildlife"
+     ]
+    }
+   ],
+   "prices": {},
+   "roadKm": {
+    "Ludhiana": 926,
+    "Chandigarh": 975,
+    "Delhi": 765,
+    "Amritsar": 966,
+    "Jalandhar": 941,
+    "Patiala": 900,
+    "Jaipur": 489
+   },
+   "railhead": {
+    "name": {
+     "en": "Abu Road",
+     "pa": "ਆਬੂ ਰੋਡ",
+     "hi": "आबू रोड"
+    },
+    "code": "ABR",
+    "km": 27,
+    "note": "",
+    "lat": 24.4813,
+    "lng": 72.7853
+   },
+   "airport": {
+    "code": "UDR",
+    "km": 177
+   }
+  },
+  {
+   "id": "kaziranga",
+   "keys": [
+    "Kaziranga"
+   ],
+   "searchName": "Kaziranga",
+   "hill": false,
+   "lonelyPlanet": "https://www.lonelyplanet.com/search?q=kaziranga",
+   "pros": [
+    {
+     "en": "One-horned rhinos (UNESCO park)",
+     "pa": "ਇੱਕ ਸਿੰਗ ਵਾਲੇ ਗੈਂਡੇ (ਯੂਨੈਸਕੋ ਪਾਰਕ)",
+     "hi": "एक सींग वाले गैंडे (यूनेस्को उद्यान)"
+    },
+    {
+     "en": "Jeep and elephant safaris",
+     "pa": "ਜੀਪ ਅਤੇ ਹਾਥੀ ਸਫ਼ਾਰੀ",
+     "hi": "जीप और हाथी सफ़ारी"
+    },
+    {
+     "en": "Tea gardens nearby",
+     "pa": "ਨੇੜੇ ਚਾਹ ਦੇ ਬਾਗ਼",
+     "hi": "पास में चाय बागान"
+    }
+   ],
+   "cons": [
+    {
+     "en": "Park is closed from about May to October (monsoon)",
+     "pa": "ਪਾਰਕ ਲਗਭਗ ਮਈ ਤੋਂ ਅਕਤੂਬਰ ਬੰਦ (ਮੀਂਹ)",
+     "hi": "उद्यान लगभग मई से अक्टूबर बंद (बारिश)"
+    },
+    {
+     "en": "Far from big cities",
+     "pa": "ਵੱਡੇ ਸ਼ਹਿਰਾਂ ਤੋਂ ਦੂਰ",
+     "hi": "बड़े शहरों से दूर"
+    }
+   ],
+   "rush": [
+    {
+     "en": "November to April; safari zones open in stages",
+     "pa": "ਨਵੰਬਰ ਤੋਂ ਅਪ੍ਰੈਲ; ਸਫ਼ਾਰੀ ਜ਼ੋਨ ਹੌਲੀ-ਹੌਲੀ ਖੁੱਲ੍ਹਦੇ",
+     "hi": "नवंबर से अप्रैल; सफ़ारी ज़ोन धीरे-धीरे खुलते हैं"
+    },
+    {
+     "en": "Book safaris a few days ahead",
+     "pa": "ਸਫ਼ਾਰੀ ਕੁਝ ਦਿਨ ਪਹਿਲਾਂ ਬੁੱਕ ਕਰੋ",
+     "hi": "सफ़ारी कुछ दिन पहले बुक करें"
+    },
+    {
+     "en": "Morning safaris have the best wildlife sightings",
+     "pa": "ਸਵੇਰ ਦੀ ਸਫ਼ਾਰੀ ਵਿੱਚ ਜਾਨਵਰ ਸਭ ਤੋਂ ਵੱਧ ਦਿਸਦੇ",
+     "hi": "सुबह की सफ़ारी में जानवर सबसे ज़्यादा दिखते हैं"
+    }
+   ],
+   "stays": [
+    {
+     "name": {
+      "en": "Diphlu River Lodge",
+      "pa": "ਡਿਫਲੂ ਰਿਵਰ ਲੌਜ",
+      "hi": "डिफ्लू रिवर लॉज"
+     },
+     "town": {
+      "en": "Kaziranga",
+      "pa": "ਕਾਜ਼ੀਰੰਗਾ",
+      "hi": "काज़ीरंगा"
+     },
+     "type": "hotel"
+    },
+    {
+     "name": {
+      "en": "IORA – The Retreat",
+      "pa": "ਆਇਓਰਾ – ਦ ਰਿਟਰੀਟ",
+      "hi": "आयोरा – द रिट्रीट"
+     },
+     "town": {
+      "en": "Kohora",
+      "pa": "ਕੋਹੋਰਾ",
+      "hi": "कोहोरा"
+     },
+     "type": "hotel"
+    }
+   ],
+   "restStops": [],
+   "places": [
+    {
+     "name": {
+      "en": "Central Range (Kohora) jeep safari",
+      "pa": "ਸੈਂਟਰਲ ਰੇਂਜ (ਕੋਹੋਰਾ) ਜੀਪ ਸਫ਼ਾਰੀ",
+      "hi": "सेंट्रल रेंज (कोहोरा) जीप सफ़ारी"
+     },
+     "town": {
+      "en": "Kohora",
+      "pa": "ਕੋਹੋਰਾ",
+      "hi": "कोहोरा"
+     },
+     "tags": [
+      "wildlife",
+      "adventure"
+     ]
+    },
+    {
+     "name": {
+      "en": "Elephant safari",
+      "pa": "ਹਾਥੀ ਸਫ਼ਾਰੀ",
+      "hi": "हाथी सफ़ारी"
+     },
+     "town": {
+      "en": "Kaziranga",
+      "pa": "ਕਾਜ਼ੀਰੰਗਾ",
+      "hi": "काज़ीरंगा"
+     },
+     "tags": [
+      "wildlife"
+     ]
+    },
+    {
+     "name": {
+      "en": "Kaziranga Orchid Park",
+      "pa": "ਕਾਜ਼ੀਰੰਗਾ ਆਰਕਿਡ ਪਾਰਕ",
+      "hi": "काज़ीरंगा ऑर्किड पार्क"
+     },
+     "town": {
+      "en": "Kaziranga",
+      "pa": "ਕਾਜ਼ੀਰੰਗਾ",
+      "hi": "काज़ीरंगा"
+     },
+     "tags": [
+      "wildlife"
+     ]
+    },
+    {
+     "name": {
+      "en": "Tea gardens",
+      "pa": "ਚਾਹ ਦੇ ਬਾਗ਼",
+      "hi": "चाय बागान"
+     },
+     "town": {
+      "en": "Kaziranga",
+      "pa": "ਕਾਜ਼ੀਰੰਗਾ",
+      "hi": "काज़ीरंगा"
+     },
+     "tags": [
+      "hills",
+      "food"
+     ]
+    }
+   ],
+   "prices": {
+    "hotel": {
+     "min": 2300,
+     "max": 2300,
+     "source": {
+      "en": "Booking.com average for 3–4 star hotels in Kaziranga",
+      "pa": "Booking.com 'ਤੇ ਕਾਜ਼ੀਰੰਗਾ ਦੇ 3–4 ਸਟਾਰ ਹੋਟਲਾਂ ਦੀ ਔਸਤ",
+      "hi": "Booking.com पर काज़ीरंगा के 3–4 स्टार होटलों का औसत"
+     },
+     "note": {
+      "en": "Lowest to highest of the 3-star and 4-star averages shown (tonight and this weekend)",
+      "pa": "ਦਿਖਾਈ ਗਈ 3 ਅਤੇ 4 ਸਟਾਰ ਔਸਤ ਦਾ ਘੱਟ ਤੋਂ ਵੱਧ (ਅੱਜ ਰਾਤ ਅਤੇ ਇਸ ਵੀਕਐਂਡ)",
+      "hi": "दिखाए गए 3 और 4 स्टार औसत का कम से ज़्यादा (आज रात और इस वीकेंड)"
+     },
+     "checked": "2026-11-17",
+     "url": "https://www.booking.com/city/in/kaziranga.html?selected_currency=INR"
+    }
+   },
+   "roadKm": {
+    "Ludhiana": 2196,
+    "Chandigarh": 2133,
+    "Delhi": 1943,
+    "Amritsar": 2338,
+    "Jalandhar": 2258,
+    "Patiala": 2143,
+    "Jaipur": 2022
+   },
+   "railhead": {
+    "name": {
+     "en": "Furkating Junction",
+     "pa": "ਫ਼ੁਰਕਾਟਿੰਗ ਜੰਕਸ਼ਨ",
+     "hi": "फुरकाटिंग जंक्शन"
+    },
+    "code": "FKG",
+    "km": 98,
+    "note": "",
+    "lat": 26.4647,
+    "lng": 94.0018
+   },
+   "airport": {
+    "code": "JRH",
+    "km": 116
+   }
+  },
+  {
+   "id": "pushkar",
+   "keys": [
+    "Pushkar"
+   ],
+   "searchName": "Pushkar",
+   "hill": false,
+   "lonelyPlanet": "https://www.lonelyplanet.com/destinations/india/rajasthan/pushkar",
+   "pros": [
+    {
+     "en": "Holy lake with ghats and the Brahma Temple",
+     "pa": "ਘਾਟਾਂ ਵਾਲੀ ਪਵਿੱਤਰ ਝੀਲ ਅਤੇ ਬ੍ਰਹਮਾ ਮੰਦਰ",
+     "hi": "घाटों वाली पवित्र झील और ब्रह्मा मंदिर"
+    },
+    {
+     "en": "Famous camel fair in October–November",
+     "pa": "ਅਕਤੂਬਰ–ਨਵੰਬਰ ਵਿੱਚ ਮਸ਼ਹੂਰ ਊਠ ਮੇਲਾ",
+     "hi": "अक्टूबर–नवंबर में मशहूर ऊँट मेला"
+    },
+    {
+     "en": "Ajmer Sharif Dargah is about 15 km away",
+     "pa": "ਅਜਮੇਰ ਸ਼ਰੀਫ਼ ਦਰਗਾਹ ਲਗਭਗ 15 ਕਿ.ਮੀ.",
+     "hi": "अजमेर शरीफ़ दरगाह लगभग 15 कि.मी."
+    }
+   ],
+   "cons": [
+    {
+     "en": "Very hot from April to June",
+     "pa": "ਅਪ੍ਰੈਲ ਤੋਂ ਜੂਨ ਤੱਕ ਬਹੁਤ ਗਰਮੀ",
+     "hi": "अप्रैल से जून तक बहुत गर्मी"
+    },
+    {
+     "en": "Very crowded during the camel fair",
+     "pa": "ਊਠ ਮੇਲੇ ਵੇਲੇ ਬਹੁਤ ਭੀੜ",
+     "hi": "ऊँट मेले में बहुत भीड़"
+    },
+    {
+     "en": "Pushy “priests” may ask for money at the ghats",
+     "pa": "ਘਾਟਾਂ ਉੱਤੇ ਕੁਝ “ਪੁਜਾਰੀ” ਪੈਸੇ ਮੰਗ ਸਕਦੇ",
+     "hi": "घाटों पर कुछ “पुजारी” पैसे माँग सकते हैं"
+    }
+   ],
+   "rush": [
+    {
+     "en": "October to March is the pleasant season",
+     "pa": "ਅਕਤੂਬਰ ਤੋਂ ਮਾਰਚ ਮੌਸਮ ਸੁਹਾਵਣਾ ਰਹਿੰਦਾ ਹੈ",
+     "hi": "अक्टूबर से मार्च मौसम सुहाना रहता है"
+    },
+    {
+     "en": "Book far ahead for the camel fair dates",
+     "pa": "ਊਠ ਮੇਲੇ ਦੀਆਂ ਤਾਰੀਖ਼ਾਂ ਲਈ ਬਹੁਤ ਪਹਿਲਾਂ ਬੁੱਕ ਕਰੋ",
+     "hi": "ऊँट मेले की तारीखों के लिए बहुत पहले बुक करें"
+    },
+    {
+     "en": "Pushkar is vegetarian-only and alcohol-free",
+     "pa": "ਪੁਸ਼ਕਰ ਵਿੱਚ ਸਿਰਫ਼ ਸ਼ਾਕਾਹਾਰੀ ਭੋਜਨ, ਸ਼ਰਾਬ ਨਹੀਂ",
+     "hi": "पुष्कर में सिर्फ़ शाकाहारी भोजन, शराब नहीं"
+    }
+   ],
+   "stays": [
+    {
+     "name": {
+      "en": "RTDC Hotel Sarovar",
+      "pa": "ਆਰਟੀਡੀਸੀ ਹੋਟਲ ਸਰੋਵਰ",
+      "hi": "आरटीडीसी होटल सरोवर"
+     },
+     "town": {
+      "en": "Pushkar",
+      "pa": "ਪੁਸ਼ਕਰ",
+      "hi": "पुष्कर"
+     },
+     "type": "govt"
+    },
+    {
+     "name": {
+      "en": "Ananta Spa & Resort",
+      "pa": "ਅਨੰਤਾ ਸਪਾ ਐਂਡ ਰਿਜ਼ੋਰਟ",
+      "hi": "अनंता स्पा एंड रिज़ॉर्ट"
+     },
+     "town": {
+      "en": "Pushkar",
+      "pa": "ਪੁਸ਼ਕਰ",
+      "hi": "पुष्कर"
+     },
+     "type": "hotel"
+    }
+   ],
+   "restStops": [],
+   "places": [
+    {
+     "name": {
+      "en": "Pushkar Lake ghats",
+      "pa": "ਪੁਸ਼ਕਰ ਝੀਲ ਦੇ ਘਾਟ",
+      "hi": "पुष्कर झील के घाट"
+     },
+     "town": {
+      "en": "Pushkar",
+      "pa": "ਪੁਸ਼ਕਰ",
+      "hi": "पुष्कर"
+     },
+     "tags": [
+      "lakes",
+      "religious"
+     ]
+    },
+    {
+     "name": {
+      "en": "Brahma Temple",
+      "pa": "ਬ੍ਰਹਮਾ ਮੰਦਰ",
+      "hi": "ब्रह्मा मंदिर"
+     },
+     "town": {
+      "en": "Pushkar",
+      "pa": "ਪੁਸ਼ਕਰ",
+      "hi": "पुष्कर"
+     },
+     "tags": [
+      "religious"
+     ]
+    },
+    {
+     "name": {
+      "en": "Savitri Mata Temple (ropeway)",
+      "pa": "ਸਾਵਿਤਰੀ ਮਾਤਾ ਮੰਦਰ (ਰੋਪਵੇਅ)",
+      "hi": "सावित्री माता मंदिर (रोपवे)"
+     },
+     "town": {
+      "en": "Pushkar",
+      "pa": "ਪੁਸ਼ਕਰ",
+      "hi": "पुष्कर"
+     },
+     "tags": [
+      "religious",
+      "hills"
+     ]
+    },
+    {
+     "name": {
+      "en": "Ajmer Sharif Dargah",
+      "pa": "ਅਜਮੇਰ ਸ਼ਰੀਫ਼ ਦਰਗਾਹ",
+      "hi": "अजमेर शरीफ़ दरगाह"
+     },
+     "town": {
+      "en": "Ajmer",
+      "pa": "ਅਜਮੇਰ",
+      "hi": "अजमेर"
+     },
+     "tags": [
+      "religious",
+      "heritage"
+     ]
+    },
+    {
+     "name": {
+      "en": "Main Bazaar",
+      "pa": "ਮੇਨ ਬਾਜ਼ਾਰ",
+      "hi": "मेन बाज़ार"
+     },
+     "town": {
+      "en": "Pushkar",
+      "pa": "ਪੁਸ਼ਕਰ",
+      "hi": "पुष्कर"
+     },
+     "tags": [
+      "food"
+     ]
+    }
+   ],
+   "prices": {
+    "hotel": {
+     "min": 2100,
+     "max": 16100,
+     "source": {
+      "en": "Booking.com average for 3–4 star hotels in Pushkar",
+      "pa": "Booking.com 'ਤੇ ਪੁਸ਼ਕਰ ਦੇ 3–4 ਸਟਾਰ ਹੋਟਲਾਂ ਦੀ ਔਸਤ",
+      "hi": "Booking.com पर पुष्कर के 3–4 स्टार होटलों का औसत"
+     },
+     "note": {
+      "en": "Lowest to highest of the 3-star and 4-star averages shown (tonight and this weekend)",
+      "pa": "ਦਿਖਾਈ ਗਈ 3 ਅਤੇ 4 ਸਟਾਰ ਔਸਤ ਦਾ ਘੱਟ ਤੋਂ ਵੱਧ (ਅੱਜ ਰਾਤ ਅਤੇ ਇਸ ਵੀਕਐਂਡ)",
+      "hi": "दिखाए गए 3 और 4 स्टार औसत का कम से ज़्यादा (आज रात और इस वीकेंड)"
+     },
+     "checked": "2026-11-17",
+     "url": "https://www.booking.com/city/in/pushkar.html?selected_currency=INR"
+    },
+    "homestay": {
+     "min": 1200,
+     "max": 1200,
+     "source": {
+      "en": "Booking.com average homestay price in Pushkar",
+      "pa": "Booking.com 'ਤੇ ਪੁਸ਼ਕਰ ਵਿੱਚ ਹੋਮਸਟੇ ਦੀ ਔਸਤ ਕੀਮਤ",
+      "hi": "Booking.com पर पुष्कर में होमस्टे की औसत कीमत"
+     },
+     "note": {
+      "en": "Shown in US$; converted at ₹94.25 per US$ (European Central Bank rate, 13 Nov 2026)",
+      "pa": "US$ ਵਿੱਚ ਦਿਖਾਈ; ₹94.25 ਪ੍ਰਤੀ US$ ਨਾਲ ਬਦਲੀ (ਯੂਰਪੀ ਕੇਂਦਰੀ ਬੈਂਕ ਦਾ ਰੇਟ, 13 ਨਵੰਬਰ 2026)",
+      "hi": "US$ में दिखाई गई; ₹94.25 प्रति US$ से बदली (यूरोपीय केंद्रीय बैंक की दर, 13 नवंबर 2026)"
+     },
+     "checked": "2026-11-17",
+     "url": "https://www.booking.com/homestay/city/in/pushkar.html"
+    }
+   },
+   "roadKm": {
+    "Ludhiana": 622,
+    "Chandigarh": 616,
+    "Delhi": 419,
+    "Amritsar": 729,
+    "Jalandhar": 704,
+    "Patiala": 556,
+    "Jaipur": 142
+   },
+   "railhead": {
+    "name": {
+     "en": "Ajmer Junction",
+     "pa": "ਅਜਮੇਰ ਜੰਕਸ਼ਨ",
+     "hi": "अजमेर जंक्शन"
+    },
+    "code": "AII",
+    "km": 15,
+    "note": "",
+    "lat": 26.4563,
+    "lng": 74.6373
+   },
+   "airport": {
+    "code": "JAI",
+    "km": 148
+   }
+  },
+  {
+   "id": "katra",
+   "keys": [
+    "Katra (Vaishno Devi)",
+    "Jammu"
+   ],
+   "searchName": "Katra",
+   "hill": true,
+   "lonelyPlanet": "https://www.lonelyplanet.com/search?q=vaishno%20devi",
+   "pros": [
+    {
+     "en": "Vaishno Devi shrine, one of India’s most visited",
+     "pa": "ਵੈਸ਼ਨੋ ਦੇਵੀ ਧਾਮ, ਭਾਰਤ ਦੇ ਸਭ ਤੋਂ ਵੱਧ ਜਾਣ ਵਾਲੇ ਧਾਮਾਂ ਵਿੱਚੋਂ",
+     "hi": "वैष्णो देवी धाम, भारत के सबसे ज़्यादा जाने वाले धामों में से"
+    },
+    {
+     "en": "Direct trains to Katra (SVDK station)",
+     "pa": "ਕਟੜਾ (SVDK ਸਟੇਸ਼ਨ) ਲਈ ਸਿੱਧੀਆਂ ਰੇਲਾਂ",
+     "hi": "कटरा (SVDK स्टेशन) के लिए सीधी ट्रेनें"
+    },
+    {
+     "en": "Helicopter and battery-car options for part of the climb",
+     "pa": "ਚੜ੍ਹਾਈ ਦੇ ਕੁਝ ਹਿੱਸੇ ਲਈ ਹੈਲੀਕਾਪਟਰ ਅਤੇ ਬੈਟਰੀ ਕਾਰ",
+     "hi": "चढ़ाई के कुछ हिस्से के लिए हेलीकॉप्टर और बैटरी कार"
+    }
+   ],
+   "cons": [
+    {
+     "en": "About 12–13 km uphill trek each way",
+     "pa": "ਹਰ ਪਾਸੇ ਲਗਭਗ 12–13 ਕਿ.ਮੀ. ਚੜ੍ਹਾਈ",
+     "hi": "हर तरफ़ लगभग 12–13 कि.मी. चढ़ाई"
+    },
+    {
+     "en": "Very crowded during Navratri and holidays",
+     "pa": "ਨਰਾਤਿਆਂ ਅਤੇ ਛੁੱਟੀਆਂ ਵਿੱਚ ਬਹੁਤ ਭੀੜ",
+     "hi": "नवरात्रि और छुट्टियों में बहुत भीड़"
+    }
+   ],
+   "rush": [
+    {
+     "en": "Register for the yatra (RFID card) on the shrine board website before you go",
+     "pa": "ਜਾਣ ਤੋਂ ਪਹਿਲਾਂ ਸ਼ਰਾਈਨ ਬੋਰਡ ਦੀ ਵੈੱਬਸਾਈਟ ਉੱਤੇ ਯਾਤਰਾ (RFID ਕਾਰਡ) ਰਜਿਸਟਰ ਕਰੋ",
+     "hi": "जाने से पहले श्राइन बोर्ड की वेबसाइट पर यात्रा (RFID कार्ड) पंजीकरण करें"
+    },
+    {
+     "en": "Book helicopter tickets early; they sell out",
+     "pa": "ਹੈਲੀਕਾਪਟਰ ਟਿਕਟਾਂ ਜਲਦੀ ਬੁੱਕ ਕਰੋ; ਭਰ ਜਾਂਦੀਆਂ",
+     "hi": "हेलीकॉप्टर टिकट जल्दी बुक करें; भर जाते हैं"
+    },
+    {
+     "en": "Night climbs are common and avoid the daytime heat",
+     "pa": "ਰਾਤ ਦੀ ਚੜ੍ਹਾਈ ਆਮ ਹੈ ਅਤੇ ਦਿਨ ਦੀ ਗਰਮੀ ਤੋਂ ਬਚਾਉਂਦੀ",
+     "hi": "रात की चढ़ाई आम है और दिन की गर्मी से बचाती है"
+    }
+   ],
+   "stays": [
+    {
+     "name": {
+      "en": "Niharika Bhawan (Shrine Board)",
+      "pa": "ਨਿਹਾਰਿਕਾ ਭਵਨ (ਸ਼ਰਾਈਨ ਬੋਰਡ)",
+      "hi": "निहारिका भवन (श्राइन बोर्ड)"
+     },
+     "town": {
+      "en": "Katra",
+      "pa": "ਕਟੜਾ",
+      "hi": "कटरा"
+     },
+     "type": "govt"
+    },
+    {
+     "name": {
+      "en": "Hotel Asia Vaishno Devi",
+      "pa": "ਹੋਟਲ ਏਸ਼ੀਆ ਵੈਸ਼ਨੋ ਦੇਵੀ",
+      "hi": "होटल एशिया वैष्णो देवी"
+     },
+     "town": {
+      "en": "Katra",
+      "pa": "ਕਟੜਾ",
+      "hi": "कटरा"
+     },
+     "type": "hotel"
+    }
+   ],
+   "restStops": [],
+   "places": [
+    {
+     "name": {
+      "en": "Vaishno Devi Bhawan",
+      "pa": "ਵੈਸ਼ਨੋ ਦੇਵੀ ਭਵਨ",
+      "hi": "वैष्णो देवी भवन"
+     },
+     "town": {
+      "en": "Bhawan (Vaishno Devi)",
+      "pa": "ਭਵਨ (ਵੈਸ਼ਨੋ ਦੇਵੀ)",
+      "hi": "भवन (वैष्णो देवी)"
+     },
+     "tags": [
+      "religious",
+      "hills"
+     ]
+    },
+    {
+     "name": {
+      "en": "Bhairon Baba Temple",
+      "pa": "ਭੈਰੋਂ ਬਾਬਾ ਮੰਦਰ",
+      "hi": "भैरों बाबा मंदिर"
+     },
+     "town": {
+      "en": "Bhawan (Vaishno Devi)",
+      "pa": "ਭਵਨ (ਵੈਸ਼ਨੋ ਦੇਵੀ)",
+      "hi": "भवन (वैष्णो देवी)"
+     },
+     "tags": [
+      "religious",
+      "adventure"
+     ]
+    },
+    {
+     "name": {
+      "en": "Ardhkuwari",
+      "pa": "ਅਰਧਕੁਆਰੀ",
+      "hi": "अर्धकुवारी"
+     },
+     "town": {
+      "en": "Katra",
+      "pa": "ਕਟੜਾ",
+      "hi": "कटरा"
+     },
+     "tags": [
+      "religious"
+     ]
+    },
+    {
+     "name": {
+      "en": "Raghunath Temple",
+      "pa": "ਰਘੁਨਾਥ ਮੰਦਰ",
+      "hi": "रघुनाथ मंदिर"
+     },
+     "town": {
+      "en": "Jammu",
+      "pa": "ਜੰਮੂ",
+      "hi": "जम्मू"
+     },
+     "tags": [
+      "religious",
+      "heritage"
+     ]
+    },
+    {
+     "name": {
+      "en": "Bahu Fort",
+      "pa": "ਬਾਹੂ ਕਿਲ੍ਹਾ",
+      "hi": "बाहु किला"
+     },
+     "town": {
+      "en": "Jammu",
+      "pa": "ਜੰਮੂ",
+      "hi": "जम्मू"
+     },
+     "tags": [
+      "heritage"
+     ]
+    }
+   ],
+   "prices": {
+    "hotel": {
+     "min": 1800,
+     "max": 5900,
+     "source": {
+      "en": "Booking.com average for 3–4 star hotels in Katra",
+      "pa": "Booking.com 'ਤੇ ਕਟੜਾ ਦੇ 3–4 ਸਟਾਰ ਹੋਟਲਾਂ ਦੀ ਔਸਤ",
+      "hi": "Booking.com पर कटरा के 3–4 स्टार होटलों का औसत"
+     },
+     "note": {
+      "en": "Lowest to highest of the 3-star and 4-star averages shown (tonight and this weekend)",
+      "pa": "ਦਿਖਾਈ ਗਈ 3 ਅਤੇ 4 ਸਟਾਰ ਔਸਤ ਦਾ ਘੱਟ ਤੋਂ ਵੱਧ (ਅੱਜ ਰਾਤ ਅਤੇ ਇਸ ਵੀਕਐਂਡ)",
+      "hi": "दिखाए गए 3 और 4 स्टार औसत का कम से ज़्यादा (आज रात और इस वीकेंड)"
+     },
+     "checked": "2026-11-17",
+     "url": "https://www.booking.com/city/in/katra.html?selected_currency=INR"
+    }
+   },
+   "roadKm": {
+    "Ludhiana": 319,
+    "Chandigarh": 393,
+    "Delhi": 652,
+    "Amritsar": 238,
+    "Jalandhar": 261,
+    "Patiala": 432,
+    "Jaipur": 822
+   },
+   "railhead": {
+    "name": {
+     "en": "Shri Mata Vaishno Devi Katra",
+     "pa": "ਸ੍ਰੀ ਮਾਤਾ ਵੈਸ਼ਨੋ ਦੇਵੀ ਕਟੜਾ",
+     "hi": "श्री माता वैष्णो देवी कटरा"
+    },
+    "code": "SVDK",
+    "km": 2,
+    "note": "",
+    "lat": 32.983,
+    "lng": 74.935
+   },
+   "airport": {
+    "code": "IXJ",
+    "km": 49
+   }
   }
  ],
  "distanceSource": {
@@ -12994,6 +18325,56 @@
    },
    "lat": 23.3146,
    "lng": 85.3255
+  },
+  {
+   "code": "HBX",
+   "city": {
+    "en": "Hubballi",
+    "pa": "ਹੁਬਲੀ",
+    "hi": "हुबली"
+   },
+   "lat": 15.3605,
+   "lng": 75.0776
+  },
+  {
+   "code": "IXM",
+   "city": {
+    "en": "Madurai",
+    "pa": "ਮਦੁਰਈ",
+    "hi": "मदुरै"
+   },
+   "lat": 9.8363,
+   "lng": 78.0939
+  },
+  {
+   "code": "BHJ",
+   "city": {
+    "en": "Bhuj",
+    "pa": "ਭੁਜ",
+    "hi": "भुज"
+   },
+   "lat": 23.2757,
+   "lng": 69.6637
+  },
+  {
+   "code": "HJR",
+   "city": {
+    "en": "Khajuraho",
+    "pa": "ਖਜੁਰਾਹੋ",
+    "hi": "खजुराहो"
+   },
+   "lat": 24.8138,
+   "lng": 79.9158
+  },
+  {
+   "code": "JRH",
+   "city": {
+    "en": "Jorhat",
+    "pa": "ਜੋਰਹਾਟ",
+    "hi": "जोरहाट"
+   },
+   "lat": 26.7293,
+   "lng": 94.1721
   }
  ],
  "originHubs": {
