@@ -1,6 +1,6 @@
 {
  "schema_version": 1,
- "data_version": "2026.11.17",
+ "data_version": "2026.11.17.2",
  "updated_at": "2026-11-17",
  "checkedOn": "Nov 2026",
  "destinations": [
@@ -500,6 +500,22 @@
       "src": "promallu.com listing"
      }
     ]
+   },
+   "railhead": {
+    "name": {
+     "en": "Jaipur Junction",
+     "pa": "ਜੈਪੁਰ ਜੰਕਸ਼ਨ",
+     "hi": "जयपुर जंक्शन"
+    },
+    "code": "JP",
+    "km": 2,
+    "note": "",
+    "lat": 26.9208,
+    "lng": 75.7867
+   },
+   "airport": {
+    "code": "JAI",
+    "km": 14
    }
   },
   {
@@ -1153,6 +1169,22 @@
       "src": "v1 research"
      }
     ]
+   },
+   "railhead": {
+    "name": {
+     "en": "Udaipur City",
+     "pa": "ਉਦੈਪੁਰ ਸਿਟੀ",
+     "hi": "उदयपुर सिटी"
+    },
+    "code": "UDZ",
+    "km": 5,
+    "note": "",
+    "lat": 24.5675,
+    "lng": 73.6996
+   },
+   "airport": {
+    "code": "UDR",
+    "km": 21
    }
   },
   {
@@ -1580,6 +1612,22 @@
       "src": "v1 research"
      }
     ]
+   },
+   "railhead": {
+    "name": {
+     "en": "Jodhpur Junction",
+     "pa": "ਜੋਧਪੁਰ ਜੰਕਸ਼ਨ",
+     "hi": "जोधपुर जंक्शन"
+    },
+    "code": "JU",
+    "km": 8,
+    "note": "",
+    "lat": 26.2846,
+    "lng": 73.0219
+   },
+   "airport": {
+    "code": "JDH",
+    "km": 9
    }
   },
   {
@@ -2000,6 +2048,22 @@
       "src": "v1 research"
      }
     ]
+   },
+   "railhead": {
+    "name": {
+     "en": "Jaisalmer",
+     "pa": "ਜੈਸਲਮੇਰ",
+     "hi": "जैसलमेर"
+    },
+    "code": "JSM",
+    "km": 3,
+    "note": "",
+    "lat": 26.915,
+    "lng": 70.9267
+   },
+   "airport": {
+    "code": "JSA",
+    "km": 10
    }
   },
   {
@@ -2545,6 +2609,22 @@
       "src": "hotelhighwayking.com"
      }
     ]
+   },
+   "railhead": {
+    "name": {
+     "en": "Falna",
+     "pa": "ਫ਼ਾਲਨਾ",
+     "hi": "फालना"
+    },
+    "code": "FA",
+    "km": 67,
+    "note": "",
+    "lat": 25.2359,
+    "lng": 73.2352
+   },
+   "airport": {
+    "code": "UDR",
+    "km": 109
    }
   },
   {
@@ -2975,6 +3055,22 @@
       "src": "v1 research"
      }
     ]
+   },
+   "railhead": {
+    "name": {
+     "en": "Jawai Bandh",
+     "pa": "ਜਵਾਈ ਬੰਦ",
+     "hi": "जवाई बांध"
+    },
+    "code": "JWB",
+    "km": 5,
+    "note": "",
+    "lat": 25.1144,
+    "lng": 73.1475
+   },
+   "airport": {
+    "code": "UDR",
+    "km": 139
    }
   },
   {
@@ -3362,6 +3458,22 @@
       "src": "travelandleisureasia.com"
      }
     ]
+   },
+   "railhead": {
+    "name": {
+     "en": "Sawai Madhopur",
+     "pa": "ਸਵਾਈ ਮਾਧੋਪੁਰ",
+     "hi": "सवाई माधोपुर"
+    },
+    "code": "SWM",
+    "km": 29,
+    "note": "",
+    "lat": 26.018,
+    "lng": 76.3565
+   },
+   "airport": {
+    "code": "JAI",
+    "km": 183
    }
   },
   {
@@ -3734,6 +3846,22 @@
       "src": "travelandleisureasia.com"
      }
     ]
+   },
+   "railhead": {
+    "name": {
+     "en": "Agra Cantt",
+     "pa": "ਆਗਰਾ ਕੈਂਟ",
+     "hi": "आगरा कैंट"
+    },
+    "code": "AGC",
+    "km": 7,
+    "note": "",
+    "lat": 27.159,
+    "lng": 77.99
+   },
+   "airport": {
+    "code": "AGR",
+    "km": 13
    }
   },
   {
@@ -4071,6 +4199,22 @@
       "src": "travelandleisureasia.com"
      }
     ]
+   },
+   "railhead": {
+    "name": {
+     "en": "Bharatpur Junction",
+     "pa": "ਭਰਤਪੁਰ ਜੰਕਸ਼ਨ",
+     "hi": "भरतपुर जंक्शन"
+    },
+    "code": "BTE",
+    "km": 3,
+    "note": "",
+    "lat": 27.2365,
+    "lng": 77.4876
+   },
+   "airport": {
+    "code": "AGR",
+    "km": 56
    }
   },
   {
@@ -4781,6 +4925,22 @@
       "src": "v1 research"
      }
     ]
+   },
+   "railhead": {
+    "name": {
+     "en": "Kalka",
+     "pa": "ਕਾਲਕਾ",
+     "hi": "कालका"
+    },
+    "code": "KLK",
+    "km": 87,
+    "note": "toyKalka",
+    "lat": 30.8392,
+    "lng": 76.9316
+   },
+   "airport": {
+    "code": "IXC",
+    "km": 117
    }
   },
   {
@@ -5548,6 +5708,22 @@
       "src": "v1 research"
      }
     ]
+   },
+   "railhead": {
+    "name": {
+     "en": "Chandigarh",
+     "pa": "ਚੰਡੀਗੜ੍ਹ",
+     "hi": "चंडीगढ़"
+    },
+    "code": "CDG",
+    "km": 276,
+    "note": "manaliRail",
+    "lat": 30.7022,
+    "lng": 76.8215
+   },
+   "airport": {
+    "code": "KUU",
+    "km": 49
    }
   },
   {
@@ -6120,6 +6296,22 @@
       "src": "yappe.in listing"
      }
     ]
+   },
+   "railhead": {
+    "name": {
+     "en": "Pathankot Cantt",
+     "pa": "ਪਠਾਨਕੋਟ ਕੈਂਟ",
+     "hi": "पठानकोट कैंट"
+    },
+    "code": "PTKC",
+    "km": 91,
+    "note": "",
+    "lat": 32.2594,
+    "lng": 75.6365
+   },
+   "airport": {
+    "code": "DHM",
+    "km": 13
    }
   },
   {
@@ -6826,6 +7018,22 @@
       "src": "v1 research"
      }
     ]
+   },
+   "railhead": {
+    "name": {
+     "en": "Pathankot Junction",
+     "pa": "ਪਠਾਨਕੋਟ ਜੰਕਸ਼ਨ",
+     "hi": "पठानकोट जंक्शन"
+    },
+    "code": "PTK",
+    "km": 86,
+    "note": "",
+    "lat": 32.2715,
+    "lng": 75.6493
+   },
+   "airport": {
+    "code": "DHM",
+    "km": 106
    }
   },
   {
@@ -7325,6 +7533,22 @@
       "src": "restaurant-guru.in listing"
      }
     ]
+   },
+   "railhead": {
+    "name": {
+     "en": "Dehradun",
+     "pa": "ਦੇਹਰਾਦੂਨ",
+     "hi": "देहरादून"
+    },
+    "code": "DDN",
+    "km": 31,
+    "note": "",
+    "lat": 30.3125,
+    "lng": 78.0335
+   },
+   "airport": {
+    "code": "DED",
+    "km": 53
    }
   },
   {
@@ -7851,6 +8075,22 @@
       "src": "restaurant-guru.in listing"
      }
     ]
+   },
+   "railhead": {
+    "name": {
+     "en": "Haridwar Junction",
+     "pa": "ਹਰਿਦੁਆਰ ਜੰਕਸ਼ਨ",
+     "hi": "हरिद्वार जंक्शन"
+    },
+    "code": "HW",
+    "km": 21,
+    "note": "",
+    "lat": 29.9475,
+    "lng": 78.1601
+   },
+   "airport": {
+    "code": "DED",
+    "km": 22
    }
   },
   {
@@ -8309,6 +8549,22 @@
       "src": "v1 research"
      }
     ]
+   },
+   "railhead": {
+    "name": {
+     "en": "Ramnagar",
+     "pa": "ਰਾਮਨਗਰ",
+     "hi": "रामनगर"
+    },
+    "code": "RMR",
+    "km": 1,
+    "note": "",
+    "lat": 29.3896,
+    "lng": 79.1219
+   },
+   "airport": {
+    "code": "PGH",
+    "km": 87
    }
   },
   {
@@ -8945,6 +9201,22 @@
       "src": "v1 research"
      }
     ]
+   },
+   "railhead": {
+    "name": {
+     "en": "Kathgodam",
+     "pa": "ਕਾਠਗੋਦਾਮ",
+     "hi": "काठगोदाम"
+    },
+    "code": "KGM",
+    "km": 41,
+    "note": "",
+    "lat": 29.2666,
+    "lng": 79.5466
+   },
+   "airport": {
+    "code": "PGH",
+    "km": 80
    }
   },
   {
@@ -9463,6 +9735,22 @@
       "src": "promallu.com listing"
      }
     ]
+   },
+   "railhead": {
+    "name": {
+     "en": "Amritsar Junction",
+     "pa": "ਅੰਮ੍ਰਿਤਸਰ ਜੰਕਸ਼ਨ",
+     "hi": "अमृतसर जंक्शन"
+    },
+    "code": "ASR",
+    "km": 2,
+    "note": "",
+    "lat": 31.6332,
+    "lng": 74.8671
+   },
+   "airport": {
+    "code": "ATQ",
+    "km": 13
    }
   },
   {
@@ -9764,6 +10052,22 @@
       "src": "v1 research"
      }
     ]
+   },
+   "railhead": {
+    "name": {
+     "en": "Junagadh Junction",
+     "pa": "ਜੂਨਾਗੜ੍ਹ ਜੰਕਸ਼ਨ",
+     "hi": "जूनागढ़ जंक्शन"
+    },
+    "code": "JND",
+    "km": 53,
+    "note": "",
+    "lat": 21.5294,
+    "lng": 70.4578
+   },
+   "airport": {
+    "code": "HSR",
+    "km": 183
    }
   },
   {
@@ -10483,11 +10787,2243 @@
       "src": "v1 research"
      }
     ]
+   },
+   "railhead": {
+    "name": {
+     "en": "Jammu Tawi",
+     "pa": "ਜੰਮੂ ਤਵੀ",
+     "hi": "जम्मू तवी"
+    },
+    "code": "JAT",
+    "km": 658,
+    "note": "lehRail",
+    "lat": 32.7068,
+    "lng": 74.8806
+   },
+   "airport": {
+    "code": "IXL",
+    "km": 8
    }
+  },
+  {
+   "id": "goa",
+   "keys": [
+    "Goa"
+   ],
+   "searchName": "Goa",
+   "hill": false,
+   "lonelyPlanet": "https://www.lonelyplanet.com/india/goa",
+   "pros": [
+    {
+     "en": "Beaches, forts and old churches in one small state",
+     "pa": "ਇੱਕ ਛੋਟੇ ਸੂਬੇ ਵਿੱਚ ਬੀਚ, ਕਿਲ੍ਹੇ ਅਤੇ ਪੁਰਾਣੇ ਗਿਰਜਾਘਰ",
+     "hi": "एक छोटे राज्य में बीच, किले और पुराने चर्च"
+    },
+    {
+     "en": "Good seafood and Goan food",
+     "pa": "ਵਧੀਆ ਸਮੁੰਦਰੀ ਖਾਣਾ ਅਤੇ ਗੋਆ ਦਾ ਖਾਣਾ",
+     "hi": "बढ़िया सी-फ़ूड और गोवा का खाना"
+    },
+    {
+     "en": "Two airports and direct trains",
+     "pa": "ਦੋ ਹਵਾਈ ਅੱਡੇ ਅਤੇ ਸਿੱਧੀਆਂ ਰੇਲਾਂ",
+     "hi": "दो हवाई अड्डे और सीधी ट्रेनें"
+    }
+   ],
+   "cons": [
+    {
+     "en": "Very far by road from North India",
+     "pa": "ਉੱਤਰੀ ਭਾਰਤ ਤੋਂ ਸੜਕ ਰਾਹੀਂ ਬਹੁਤ ਦੂਰ",
+     "hi": "उत्तर भारत से सड़क से बहुत दूर"
+    },
+    {
+     "en": "Prices jump at Christmas and New Year",
+     "pa": "ਕ੍ਰਿਸਮਸ ਅਤੇ ਨਵੇਂ ਸਾਲ ਉੱਤੇ ਕੀਮਤਾਂ ਬਹੁਤ ਵੱਧ ਜਾਂਦੀਆਂ ਹਨ",
+     "hi": "क्रिसमस और नए साल पर कीमतें बहुत बढ़ जाती हैं"
+    },
+    {
+     "en": "Heavy rain from June to September",
+     "pa": "ਜੂਨ ਤੋਂ ਸਤੰਬਰ ਤੱਕ ਭਾਰੀ ਮੀਂਹ",
+     "hi": "जून से सितंबर तक भारी बारिश"
+    }
+   ],
+   "rush": [
+    {
+     "en": "November to February is best; book early for December",
+     "pa": "ਨਵੰਬਰ ਤੋਂ ਫ਼ਰਵਰੀ ਸਭ ਤੋਂ ਵਧੀਆ; ਦਸੰਬਰ ਲਈ ਜਲਦੀ ਬੁੱਕ ਕਰੋ",
+     "hi": "नवंबर से फ़रवरी सबसे अच्छा; दिसंबर के लिए जल्दी बुक करें"
+    },
+    {
+     "en": "South Goa beaches are calmer than Calangute and Baga",
+     "pa": "ਦੱਖਣੀ ਗੋਆ ਦੇ ਬੀਚ ਕਲੰਗੂਟ ਅਤੇ ਬਾਗਾ ਨਾਲੋਂ ਸ਼ਾਂਤ ਹਨ",
+     "hi": "दक्षिण गोवा के बीच कलंगुट और बागा से शांत हैं"
+    },
+    {
+     "en": "Weekdays are cheaper than weekends",
+     "pa": "ਆਮ ਦਿਨ ਵੀਕਐਂਡ ਨਾਲੋਂ ਸਸਤੇ ਹਨ",
+     "hi": "आम दिन वीकेंड से सस्ते हैं"
+    }
+   ],
+   "stays": [
+    {
+     "name": {
+      "en": "GTDC Panaji Residency",
+      "pa": "ਜੀਟੀਡੀਸੀ ਪਣਜੀ ਰੈਜ਼ੀਡੈਂਸੀ",
+      "hi": "जीटीडीसी पणजी रेज़िडेंसी"
+     },
+     "town": {
+      "en": "Panaji",
+      "pa": "ਪਣਜੀ",
+      "hi": "पणजी"
+     },
+     "type": "govt"
+    },
+    {
+     "name": {
+      "en": "Taj Fort Aguada Resort & Spa",
+      "pa": "ਤਾਜ ਫ਼ੋਰਟ ਅਗੁਆਡਾ ਰਿਜ਼ੋਰਟ ਐਂਡ ਸਪਾ",
+      "hi": "ताज फ़ोर्ट अगुआडा रिज़ॉर्ट एंड स्पा"
+     },
+     "town": {
+      "en": "Candolim",
+      "pa": "ਕੈਂਡੋਲਿਮ",
+      "hi": "कैंडोलिम"
+     },
+     "type": "hotel"
+    },
+    {
+     "name": {
+      "en": "The Leela Goa",
+      "pa": "ਦ ਲੀਲਾ ਗੋਆ",
+      "hi": "द लीला गोवा"
+     },
+     "town": {
+      "en": "Cavelossim",
+      "pa": "ਕਾਵੇਲੋਸਿਮ",
+      "hi": "कावेलोसिम"
+     },
+     "type": "hotel"
+    },
+    {
+     "name": {
+      "en": "Hotel Mandovi",
+      "pa": "ਹੋਟਲ ਮਾਂਡਵੀ",
+      "hi": "होटल मांडवी"
+     },
+     "town": {
+      "en": "Panaji",
+      "pa": "ਪਣਜੀ",
+      "hi": "पणजी"
+     },
+     "type": "hotel"
+    }
+   ],
+   "restStops": [],
+   "places": [
+    {
+     "name": {
+      "en": "Basilica of Bom Jesus",
+      "pa": "ਬੈਸਿਲਿਕਾ ਆਫ਼ ਬੋਮ ਜੀਸਸ",
+      "hi": "बेसिलिका ऑफ़ बॉम जीसस"
+     },
+     "town": {
+      "en": "Old Goa",
+      "pa": "ਓਲਡ ਗੋਆ",
+      "hi": "ओल्ड गोवा"
+     },
+     "tags": [
+      "heritage",
+      "religious"
+     ]
+    },
+    {
+     "name": {
+      "en": "Fort Aguada",
+      "pa": "ਫ਼ੋਰਟ ਅਗੁਆਡਾ",
+      "hi": "फ़ोर्ट अगुआडा"
+     },
+     "town": {
+      "en": "Candolim",
+      "pa": "ਕੈਂਡੋਲਿਮ",
+      "hi": "कैंडोलिम"
+     },
+     "tags": [
+      "heritage",
+      "lakes"
+     ]
+    },
+    {
+     "name": {
+      "en": "Calangute Beach",
+      "pa": "ਕਲੰਗੂਟ ਬੀਚ",
+      "hi": "कलंगुट बीच"
+     },
+     "town": {
+      "en": "Calangute",
+      "pa": "ਕਲੰਗੂਟ",
+      "hi": "कलंगुट"
+     },
+     "tags": [
+      "lakes",
+      "adventure"
+     ]
+    },
+    {
+     "name": {
+      "en": "Fontainhas Latin Quarter",
+      "pa": "ਫ਼ੋਂਟੇਨਹਾਸ ਲੈਟਿਨ ਕੁਆਰਟਰ",
+      "hi": "फ़ोंटेनहास लैटिन क्वार्टर"
+     },
+     "town": {
+      "en": "Panaji",
+      "pa": "ਪਣਜੀ",
+      "hi": "पणजी"
+     },
+     "tags": [
+      "heritage",
+      "food"
+     ]
+    },
+    {
+     "name": {
+      "en": "Dudhsagar Falls",
+      "pa": "ਦੂਧਸਾਗਰ ਝਰਨਾ",
+      "hi": "दूधसागर झरना"
+     },
+     "town": {
+      "en": "Sanguem",
+      "pa": "ਸਾਂਗੇਮ",
+      "hi": "सांगेम"
+     },
+     "tags": [
+      "hills",
+      "adventure"
+     ]
+    }
+   ],
+   "prices": {
+    "hotel": {
+     "min": 4200,
+     "max": 9500,
+     "source": {
+      "en": "Booking.com average for 3–4 star hotels in Panaji (Goa)",
+      "pa": "Booking.com 'ਤੇ ਪਣਜੀ (ਗੋਆ) ਦੇ 3–4 ਸਟਾਰ ਹੋਟਲਾਂ ਦੀ ਔਸਤ",
+      "hi": "Booking.com पर पणजी (गोवा) के 3–4 स्टार होटलों का औसत"
+     },
+     "note": {
+      "en": "Lowest to highest of the 3-star and 4-star averages shown (tonight and this weekend)",
+      "pa": "ਦਿਖਾਈ ਗਈ 3 ਅਤੇ 4 ਸਟਾਰ ਔਸਤ ਦਾ ਘੱਟ ਤੋਂ ਵੱਧ (ਅੱਜ ਰਾਤ ਅਤੇ ਇਸ ਵੀਕਐਂਡ)",
+      "hi": "दिखाए गए 3 और 4 स्टार औसत का कम से ज़्यादा (आज रात और इस वीकेंड)"
+     },
+     "checked": "2026-11-17",
+     "url": "https://www.booking.com/city/in/panaji.html?selected_currency=INR"
+    },
+    "homestay": {
+     "min": 4400,
+     "max": 4400,
+     "source": {
+      "en": "Booking.com average homestay price in Panaji (Goa)",
+      "pa": "Booking.com 'ਤੇ ਪਣਜੀ (ਗੋਆ) ਵਿੱਚ ਹੋਮਸਟੇ ਦੀ ਔਸਤ ਕੀਮਤ",
+      "hi": "Booking.com पर पणजी (गोवा) में होमस्टे की औसत कीमत"
+     },
+     "note": {
+      "en": "Shown in US$; converted at ₹94.25 per US$ (European Central Bank rate, 13 Nov 2026)",
+      "pa": "US$ ਵਿੱਚ ਦਿਖਾਈ; ₹94.25 ਪ੍ਰਤੀ US$ ਨਾਲ ਬਦਲੀ (ਯੂਰਪੀ ਕੇਂਦਰੀ ਬੈਂਕ ਦਾ ਰੇਟ, 13 ਨਵੰਬਰ 2026)",
+      "hi": "US$ में दिखाई गई; ₹94.25 प्रति US$ से बदली (यूरोपीय केंद्रीय बैंक की दर, 13 नवंबर 2026)"
+     },
+     "checked": "2026-11-17",
+     "url": "https://www.booking.com/homestay/city/in/panaji.html"
+    }
+   },
+   "roadKm": {
+    "Ludhiana": 2015,
+    "Chandigarh": 1991,
+    "Delhi": 1722,
+    "Amritsar": 2161,
+    "Jalandhar": 2076,
+    "Patiala": 1959,
+    "Jaipur": 1541
+   },
+   "railhead": {
+    "name": {
+     "en": "Madgaon Junction",
+     "pa": "ਮਡਗਾਓਂ ਜੰਕਸ਼ਨ",
+     "hi": "मडगांव जंक्शन"
+    },
+    "code": "MAO",
+    "km": 35,
+    "note": "",
+    "lat": 15.2673,
+    "lng": 73.9703
+   },
+   "airport": {
+    "code": "GOI",
+    "km": 31
+   },
+   "ferry": [
+    {
+     "name": {
+      "en": "Government river ferries (e.g. Panaji–Betim)",
+      "pa": "ਸਰਕਾਰੀ ਦਰਿਆਈ ਫ਼ੈਰੀ (ਜਿਵੇਂ ਪਣਜੀ–ਬੇਤਿਮ)",
+      "hi": "सरकारी नदी फ़ेरी (जैसे पणजी–बेतिम)"
+     },
+     "fareMin": 0,
+     "fareMax": 0,
+     "rides": 2,
+     "note": {
+      "en": "Free for foot passengers",
+      "pa": "ਪੈਦਲ ਯਾਤਰੀਆਂ ਲਈ ਮੁਫ਼ਤ",
+      "hi": "पैदल यात्रियों के लिए मुफ़्त"
+     },
+     "source": "River Navigation Department, Govt of Goa",
+     "url": "https://rnd.goa.gov.in/ferry-routes/",
+     "checked": "2026-11-17",
+     "approx": false
+    }
+   ]
+  },
+  {
+   "id": "varanasi",
+   "keys": [
+    "Varanasi"
+   ],
+   "searchName": "Varanasi",
+   "hill": false,
+   "lonelyPlanet": "https://www.lonelyplanet.com/india/uttar-pradesh/varanasi",
+   "pros": [
+    {
+     "en": "Ganga ghats and the evening aarti",
+     "pa": "ਗੰਗਾ ਦੇ ਘਾਟ ਅਤੇ ਸ਼ਾਮ ਦੀ ਆਰਤੀ",
+     "hi": "गंगा के घाट और शाम की आरती"
+    },
+    {
+     "en": "Sarnath is close by",
+     "pa": "ਸਾਰਨਾਥ ਨੇੜੇ ਹੀ ਹੈ",
+     "hi": "सारनाथ पास ही है"
+    },
+    {
+     "en": "Famous street food and Banarasi silk",
+     "pa": "ਮਸ਼ਹੂਰ ਸਟ੍ਰੀਟ ਫ਼ੂਡ ਅਤੇ ਬਨਾਰਸੀ ਸਿਲਕ",
+     "hi": "मशहूर स्ट्रीट फ़ूड और बनारसी सिल्क"
+    }
+   ],
+   "cons": [
+    {
+     "en": "Narrow, crowded lanes; hard to park",
+     "pa": "ਤੰਗ, ਭੀੜ ਵਾਲੀਆਂ ਗਲੀਆਂ; ਪਾਰਕਿੰਗ ਔਖੀ",
+     "hi": "तंग, भीड़ वाली गलियाँ; पार्किंग मुश्किल"
+    },
+    {
+     "en": "Very hot from April to June",
+     "pa": "ਅਪ੍ਰੈਲ ਤੋਂ ਜੂਨ ਤੱਕ ਬਹੁਤ ਗਰਮੀ",
+     "hi": "अप्रैल से जून तक बहुत गर्मी"
+    }
+   ],
+   "rush": [
+    {
+     "en": "October to March is best",
+     "pa": "ਅਕਤੂਬਰ ਤੋਂ ਮਾਰਚ ਸਭ ਤੋਂ ਵਧੀਆ",
+     "hi": "अक्टूबर से मार्च सबसे अच्छा"
+    },
+    {
+     "en": "Reach the ghats early for the aarti",
+     "pa": "ਆਰਤੀ ਲਈ ਘਾਟ ਉੱਤੇ ਜਲਦੀ ਪਹੁੰਚੋ",
+     "hi": "आरती के लिए घाट पर जल्दी पहुँचें"
+    },
+    {
+     "en": "Avoid big festival days unless you want the crowd",
+     "pa": "ਵੱਡੇ ਤਿਉਹਾਰਾਂ ਵਾਲੇ ਦਿਨਾਂ ਤੋਂ ਬਚੋ, ਜੇ ਭੀੜ ਨਹੀਂ ਚਾਹੀਦੀ",
+     "hi": "बड़े त्योहारों के दिनों से बचें, अगर भीड़ नहीं चाहिए"
+    }
+   ],
+   "stays": [
+    {
+     "name": {
+      "en": "UPSTDC Rahi Tourist Bungalow",
+      "pa": "ਯੂਪੀਐਸਟੀਡੀਸੀ ਰਾਹੀ ਟੂਰਿਸਟ ਬੰਗਲਾ",
+      "hi": "यूपीएसटीडीसी राही टूरिस्ट बंगला"
+     },
+     "town": {
+      "en": "Varanasi",
+      "pa": "ਵਾਰਾਣਸੀ",
+      "hi": "वाराणसी"
+     },
+     "type": "govt"
+    },
+    {
+     "name": {
+      "en": "Taj Ganges",
+      "pa": "ਤਾਜ ਗੈਂਜਿਜ਼",
+      "hi": "ताज गंगेज़"
+     },
+     "town": {
+      "en": "Varanasi",
+      "pa": "ਵਾਰਾਣਸੀ",
+      "hi": "वाराणसी"
+     },
+     "type": "hotel"
+    },
+    {
+     "name": {
+      "en": "BrijRama Palace",
+      "pa": "ਬ੍ਰਿਜਰਾਮਾ ਪੈਲੇਸ",
+      "hi": "बृजरामा पैलेस"
+     },
+     "town": {
+      "en": "Varanasi",
+      "pa": "ਵਾਰਾਣਸੀ",
+      "hi": "वाराणसी"
+     },
+     "type": "hotel"
+    }
+   ],
+   "restStops": [],
+   "places": [
+    {
+     "name": {
+      "en": "Dashashwamedh Ghat",
+      "pa": "ਦਸ਼ਾਸ਼ਵਮੇਧ ਘਾਟ",
+      "hi": "दशाश्वमेध घाट"
+     },
+     "town": {
+      "en": "Varanasi",
+      "pa": "ਵਾਰਾਣਸੀ",
+      "hi": "वाराणसी"
+     },
+     "tags": [
+      "religious",
+      "heritage"
+     ]
+    },
+    {
+     "name": {
+      "en": "Kashi Vishwanath Temple",
+      "pa": "ਕਾਸ਼ੀ ਵਿਸ਼ਵਨਾਥ ਮੰਦਰ",
+      "hi": "काशी विश्वनाथ मंदिर"
+     },
+     "town": {
+      "en": "Varanasi",
+      "pa": "ਵਾਰਾਣਸੀ",
+      "hi": "वाराणसी"
+     },
+     "tags": [
+      "religious"
+     ]
+    },
+    {
+     "name": {
+      "en": "Assi Ghat",
+      "pa": "ਅੱਸੀ ਘਾਟ",
+      "hi": "अस्सी घाट"
+     },
+     "town": {
+      "en": "Varanasi",
+      "pa": "ਵਾਰਾਣਸੀ",
+      "hi": "वाराणसी"
+     },
+     "tags": [
+      "religious",
+      "lakes"
+     ]
+    },
+    {
+     "name": {
+      "en": "Sarnath",
+      "pa": "ਸਾਰਨਾਥ",
+      "hi": "सारनाथ"
+     },
+     "town": {
+      "en": "Sarnath",
+      "pa": "ਸਾਰਨਾਥ",
+      "hi": "सारनाथ"
+     },
+     "tags": [
+      "heritage",
+      "religious"
+     ]
+    },
+    {
+     "name": {
+      "en": "Ramnagar Fort",
+      "pa": "ਰਾਮਨਗਰ ਕਿਲ੍ਹਾ",
+      "hi": "रामनगर किला"
+     },
+     "town": {
+      "en": "Ramnagar",
+      "pa": "ਰਾਮਨਗਰ",
+      "hi": "रामनगर"
+     },
+     "tags": [
+      "heritage"
+     ]
+    }
+   ],
+   "prices": {},
+   "roadKm": {
+    "Ludhiana": 1039,
+    "Chandigarh": 975,
+    "Delhi": 786,
+    "Amritsar": 1181,
+    "Jalandhar": 1101,
+    "Patiala": 986,
+    "Jaipur": 834
+   },
+   "railhead": {
+    "name": {
+     "en": "Varanasi Junction",
+     "pa": "ਵਾਰਾਣਸੀ ਜੰਕਸ਼ਨ",
+     "hi": "वाराणसी जंक्शन"
+    },
+    "code": "BSB",
+    "km": 4,
+    "note": "",
+    "lat": 25.3276,
+    "lng": 82.9862
+   },
+   "airport": {
+    "code": "VNS",
+    "km": 25
+   }
+  },
+  {
+   "id": "darjeeling",
+   "keys": [
+    "Darjeeling"
+   ],
+   "searchName": "Darjeeling",
+   "hill": true,
+   "lonelyPlanet": "https://www.lonelyplanet.com/india/west-bengal/darjeeling",
+   "pros": [
+    {
+     "en": "Kanchenjunga views on clear mornings",
+     "pa": "ਸਾਫ਼ ਸਵੇਰਾਂ ਨੂੰ ਕੰਚਨਜੰਗਾ ਦੇ ਨਜ਼ਾਰੇ",
+     "hi": "साफ़ सुबह कंचनजंगा के नज़ारे"
+    },
+    {
+     "en": "Toy train and tea gardens",
+     "pa": "ਖਿਡੌਣਾ ਰੇਲ ਅਤੇ ਚਾਹ ਦੇ ਬਾਗ਼",
+     "hi": "टॉय ट्रेन और चाय के बागान"
+    },
+    {
+     "en": "Cool weather in summer",
+     "pa": "ਗਰਮੀਆਂ ਵਿੱਚ ਠੰਢਾ ਮੌਸਮ",
+     "hi": "गर्मियों में ठंडा मौसम"
+    }
+   ],
+   "cons": [
+    {
+     "en": "Very far from Punjab; best by train or flight",
+     "pa": "ਪੰਜਾਬ ਤੋਂ ਬਹੁਤ ਦੂਰ; ਰੇਲ ਜਾਂ ਹਵਾਈ ਜਹਾਜ਼ ਨਾਲ ਵਧੀਆ",
+     "hi": "पंजाब से बहुत दूर; ट्रेन या फ़्लाइट से बेहतर"
+    },
+    {
+     "en": "Steep, jammed roads in the town",
+     "pa": "ਸ਼ਹਿਰ ਵਿੱਚ ਚੜ੍ਹਾਈ ਵਾਲੀਆਂ, ਜਾਮ ਵਾਲੀਆਂ ਸੜਕਾਂ",
+     "hi": "शहर में चढ़ाई वाली, जाम वाली सड़कें"
+    },
+    {
+     "en": "Landslides possible in the monsoon",
+     "pa": "ਮੀਂਹ ਦੇ ਮੌਸਮ ਵਿੱਚ ਢਿੱਗਾਂ ਡਿੱਗ ਸਕਦੀਆਂ ਹਨ",
+     "hi": "बारिश के मौसम में भूस्खलन हो सकता है"
+    }
+   ],
+   "rush": [
+    {
+     "en": "October–November has the clearest mountain views",
+     "pa": "ਅਕਤੂਬਰ–ਨਵੰਬਰ ਵਿੱਚ ਪਹਾੜ ਸਭ ਤੋਂ ਸਾਫ਼ ਦਿਸਦੇ ਹਨ",
+     "hi": "अक्टूबर–नवंबर में पहाड़ सबसे साफ़ दिखते हैं"
+    },
+    {
+     "en": "Leave for Tiger Hill before dawn",
+     "pa": "ਟਾਈਗਰ ਹਿੱਲ ਲਈ ਸੂਰਜ ਚੜ੍ਹਨ ਤੋਂ ਪਹਿਲਾਂ ਨਿਕਲੋ",
+     "hi": "टाइगर हिल के लिए सूर्योदय से पहले निकलें"
+    },
+    {
+     "en": "Avoid the October Puja holiday rush if you can",
+     "pa": "ਹੋ ਸਕੇ ਤਾਂ ਅਕਤੂਬਰ ਦੀਆਂ ਪੂਜਾ ਛੁੱਟੀਆਂ ਦੀ ਭੀੜ ਤੋਂ ਬਚੋ",
+     "hi": "हो सके तो अक्टूबर की पूजा छुट्टियों की भीड़ से बचें"
+    }
+   ],
+   "stays": [
+    {
+     "name": {
+      "en": "WBTDC Darjeeling Tourist Lodge",
+      "pa": "ਡਬਲਯੂਬੀਟੀਡੀਸੀ ਦਾਰਜੀਲਿੰਗ ਟੂਰਿਸਟ ਲੌਜ",
+      "hi": "डब्ल्यूबीटीडीसी दार्जिलिंग टूरिस्ट लॉज"
+     },
+     "town": {
+      "en": "Darjeeling",
+      "pa": "ਦਾਰਜੀਲਿੰਗ",
+      "hi": "दार्जिलिंग"
+     },
+     "type": "govt"
+    },
+    {
+     "name": {
+      "en": "Windamere Hotel",
+      "pa": "ਵਿੰਡਮੇਅਰ ਹੋਟਲ",
+      "hi": "विंडमियर होटल"
+     },
+     "town": {
+      "en": "Darjeeling",
+      "pa": "ਦਾਰਜੀਲਿੰਗ",
+      "hi": "दार्जिलिंग"
+     },
+     "type": "hotel"
+    },
+    {
+     "name": {
+      "en": "Mayfair Darjeeling",
+      "pa": "ਮੇਫ਼ੇਅਰ ਦਾਰਜੀਲਿੰਗ",
+      "hi": "मेफ़ेयर दार्जिलिंग"
+     },
+     "town": {
+      "en": "Darjeeling",
+      "pa": "ਦਾਰਜੀਲਿੰਗ",
+      "hi": "दार्जिलिंग"
+     },
+     "type": "hotel"
+    }
+   ],
+   "restStops": [],
+   "places": [
+    {
+     "name": {
+      "en": "Tiger Hill",
+      "pa": "ਟਾਈਗਰ ਹਿੱਲ",
+      "hi": "टाइगर हिल"
+     },
+     "town": {
+      "en": "Ghum",
+      "pa": "ਘੂਮ",
+      "hi": "घूम"
+     },
+     "tags": [
+      "hills"
+     ]
+    },
+    {
+     "name": {
+      "en": "Batasia Loop",
+      "pa": "ਬਤਾਸੀਆ ਲੂਪ",
+      "hi": "बतासिया लूप"
+     },
+     "town": {
+      "en": "Ghum",
+      "pa": "ਘੂਮ",
+      "hi": "घूम"
+     },
+     "tags": [
+      "hills",
+      "heritage"
+     ]
+    },
+    {
+     "name": {
+      "en": "Darjeeling Himalayan Railway",
+      "pa": "ਦਾਰਜੀਲਿੰਗ ਹਿਮਾਲਿਅਨ ਰੇਲਵੇ",
+      "hi": "दार्जिलिंग हिमालयन रेलवे"
+     },
+     "town": {
+      "en": "Darjeeling",
+      "pa": "ਦਾਰਜੀਲਿੰਗ",
+      "hi": "दार्जिलिंग"
+     },
+     "tags": [
+      "heritage",
+      "hills"
+     ]
+    },
+    {
+     "name": {
+      "en": "Padmaja Naidu Himalayan Zoological Park",
+      "pa": "ਪਦਮਜਾ ਨਾਇਡੂ ਹਿਮਾਲਿਅਨ ਚਿੜੀਆਘਰ",
+      "hi": "पद्मजा नायडू हिमालयन प्राणी उद्यान"
+     },
+     "town": {
+      "en": "Darjeeling",
+      "pa": "ਦਾਰਜੀਲਿੰਗ",
+      "hi": "दार्जिलिंग"
+     },
+     "tags": [
+      "wildlife"
+     ]
+    },
+    {
+     "name": {
+      "en": "Happy Valley Tea Estate",
+      "pa": "ਹੈਪੀ ਵੈਲੀ ਚਾਹ ਬਾਗ਼",
+      "hi": "हैप्पी वैली चाय बागान"
+     },
+     "town": {
+      "en": "Darjeeling",
+      "pa": "ਦਾਰਜੀਲਿੰਗ",
+      "hi": "दार्जिलिंग"
+     },
+     "tags": [
+      "hills",
+      "food"
+     ]
+    }
+   ],
+   "prices": {
+    "hotel": {
+     "min": 2600,
+     "max": 17000,
+     "source": {
+      "en": "Booking.com average for 3–4 star hotels in Darjeeling",
+      "pa": "Booking.com 'ਤੇ ਦਾਰਜੀਲਿੰਗ ਦੇ 3–4 ਸਟਾਰ ਹੋਟਲਾਂ ਦੀ ਔਸਤ",
+      "hi": "Booking.com पर दार्जिलिंग के 3–4 स्टार होटलों का औसत"
+     },
+     "note": {
+      "en": "Lowest to highest of the 3-star and 4-star averages shown (tonight and this weekend)",
+      "pa": "ਦਿਖਾਈ ਗਈ 3 ਅਤੇ 4 ਸਟਾਰ ਔਸਤ ਦਾ ਘੱਟ ਤੋਂ ਵੱਧ (ਅੱਜ ਰਾਤ ਅਤੇ ਇਸ ਵੀਕਐਂਡ)",
+      "hi": "दिखाए गए 3 और 4 स्टार औसत का कम से ज़्यादा (आज रात और इस वीकेंड)"
+     },
+     "checked": "2026-11-17",
+     "url": "https://www.booking.com/city/in/darjeeling.html?selected_currency=INR"
+    },
+    "homestay": {
+     "min": 2700,
+     "max": 2700,
+     "source": {
+      "en": "Booking.com average homestay price in Darjeeling",
+      "pa": "Booking.com 'ਤੇ ਦਾਰਜੀਲਿੰਗ ਵਿੱਚ ਹੋਮਸਟੇ ਦੀ ਔਸਤ ਕੀਮਤ",
+      "hi": "Booking.com पर दार्जिलिंग में होमस्टे की औसत कीमत"
+     },
+     "note": {
+      "en": "Shown in US$; converted at ₹94.25 per US$ (European Central Bank rate, 13 Nov 2026)",
+      "pa": "US$ ਵਿੱਚ ਦਿਖਾਈ; ₹94.25 ਪ੍ਰਤੀ US$ ਨਾਲ ਬਦਲੀ (ਯੂਰਪੀ ਕੇਂਦਰੀ ਬੈਂਕ ਦਾ ਰੇਟ, 13 ਨਵੰਬਰ 2026)",
+      "hi": "US$ में दिखाई गई; ₹94.25 प्रति US$ से बदली (यूरोपीय केंद्रीय बैंक की दर, 13 नवंबर 2026)"
+     },
+     "checked": "2026-11-17",
+     "url": "https://www.booking.com/homestay/city/in/darjeeling.html"
+    }
+   },
+   "roadKm": {
+    "Ludhiana": 1651,
+    "Chandigarh": 1587,
+    "Delhi": 1398,
+    "Amritsar": 1793,
+    "Jalandhar": 1713,
+    "Patiala": 1598,
+    "Jaipur": 1477
+   },
+   "railhead": {
+    "name": {
+     "en": "New Jalpaiguri",
+     "pa": "ਨਿਊ ਜਲਪਾਈਗੁੜੀ",
+     "hi": "न्यू जलपाईगुड़ी"
+    },
+    "code": "NJP",
+    "km": 72,
+    "note": "toyNjp",
+    "lat": 26.6829,
+    "lng": 88.4425
+   },
+   "airport": {
+    "code": "IXB",
+    "km": 71
+   }
+  },
+  {
+   "id": "ooty",
+   "keys": [
+    "Ooty"
+   ],
+   "searchName": "Ooty",
+   "hill": true,
+   "lonelyPlanet": "https://www.lonelyplanet.com/india/tamil-nadu/ooty-udhagamandalam",
+   "pros": [
+    {
+     "en": "Cool Nilgiri hills and tea estates",
+     "pa": "ਠੰਢੀਆਂ ਨੀਲਗਿਰੀ ਪਹਾੜੀਆਂ ਅਤੇ ਚਾਹ ਦੇ ਬਾਗ਼",
+     "hi": "ठंडी नीलगिरी पहाड़ियाँ और चाय के बागान"
+    },
+    {
+     "en": "Nilgiri Mountain Railway toy train",
+     "pa": "ਨੀਲਗਿਰੀ ਪਹਾੜੀ ਰੇਲ (ਖਿਡੌਣਾ ਰੇਲ)",
+     "hi": "नीलगिरी माउंटेन रेलवे (टॉय ट्रेन)"
+    },
+    {
+     "en": "Gardens and lakes good for kids",
+     "pa": "ਬੱਚਿਆਂ ਲਈ ਵਧੀਆ ਬਾਗ਼ ਅਤੇ ਝੀਲਾਂ",
+     "hi": "बच्चों के लिए अच्छे बाग़ और झीलें"
+    }
+   ],
+   "cons": [
+    {
+     "en": "Very far from North India",
+     "pa": "ਉੱਤਰੀ ਭਾਰਤ ਤੋਂ ਬਹੁਤ ਦੂਰ",
+     "hi": "उत्तर भारत से बहुत दूर"
+    },
+    {
+     "en": "Crowded and costly in May",
+     "pa": "ਮਈ ਵਿੱਚ ਭੀੜ ਅਤੇ ਮਹਿੰਗਾ",
+     "hi": "मई में भीड़ और महंगा"
+    },
+    {
+     "en": "Many hairpin bends on the ghat road",
+     "pa": "ਘਾਟ ਸੜਕ ਉੱਤੇ ਬਹੁਤ ਤਿੱਖੇ ਮੋੜ",
+     "hi": "घाट रोड पर बहुत तीखे मोड़"
+    }
+   ],
+   "rush": [
+    {
+     "en": "October to March is calm and pleasant",
+     "pa": "ਅਕਤੂਬਰ ਤੋਂ ਮਾਰਚ ਸ਼ਾਂਤ ਅਤੇ ਸੁਹਾਵਣਾ",
+     "hi": "अक्टूबर से मार्च शांत और सुहावना"
+    },
+    {
+     "en": "Book the toy train well in advance",
+     "pa": "ਖਿਡੌਣਾ ਰੇਲ ਬਹੁਤ ਪਹਿਲਾਂ ਬੁੱਕ ਕਰੋ",
+     "hi": "टॉय ट्रेन बहुत पहले बुक करें"
+    },
+    {
+     "en": "Visit the gardens early on weekends",
+     "pa": "ਵੀਕਐਂਡ ਉੱਤੇ ਬਾਗ਼ ਸਵੇਰੇ ਜਲਦੀ ਜਾਓ",
+     "hi": "वीकेंड पर बाग़ सुबह जल्दी जाएँ"
+    }
+   ],
+   "stays": [
+    {
+     "name": {
+      "en": "TTDC Hotel Tamil Nadu",
+      "pa": "ਟੀਟੀਡੀਸੀ ਹੋਟਲ ਤਮਿਲ ਨਾਡੂ",
+      "hi": "टीटीडीसी होटल तमिलनाडु"
+     },
+     "town": {
+      "en": "Ooty",
+      "pa": "ਊਟੀ",
+      "hi": "ऊटी"
+     },
+     "type": "govt"
+    },
+    {
+     "name": {
+      "en": "Savoy – IHCL SeleQtions",
+      "pa": "ਸੈਵੌਏ – ਆਈਐਚਸੀਐਲ ਸਿਲੈਕਸ਼ਨਜ਼",
+      "hi": "सेवॉय – आईएचसीएल सिलेक्शंस"
+     },
+     "town": {
+      "en": "Ooty",
+      "pa": "ਊਟੀ",
+      "hi": "ऊटी"
+     },
+     "type": "hotel"
+    },
+    {
+     "name": {
+      "en": "Fernhills Palace",
+      "pa": "ਫ਼ਰਨਹਿੱਲਜ਼ ਪੈਲੇਸ",
+      "hi": "फ़र्नहिल्स पैलेस"
+     },
+     "town": {
+      "en": "Ooty",
+      "pa": "ਊਟੀ",
+      "hi": "ऊटी"
+     },
+     "type": "hotel"
+    }
+   ],
+   "restStops": [],
+   "places": [
+    {
+     "name": {
+      "en": "Government Botanical Garden",
+      "pa": "ਸਰਕਾਰੀ ਬੋਟੈਨੀਕਲ ਗਾਰਡਨ",
+      "hi": "सरकारी बॉटनिकल गार्डन"
+     },
+     "town": {
+      "en": "Ooty",
+      "pa": "ਊਟੀ",
+      "hi": "ऊटी"
+     },
+     "tags": [
+      "hills"
+     ]
+    },
+    {
+     "name": {
+      "en": "Ooty Lake",
+      "pa": "ਊਟੀ ਝੀਲ",
+      "hi": "ऊटी झील"
+     },
+     "town": {
+      "en": "Ooty",
+      "pa": "ਊਟੀ",
+      "hi": "ऊटी"
+     },
+     "tags": [
+      "lakes"
+     ]
+    },
+    {
+     "name": {
+      "en": "Doddabetta Peak",
+      "pa": "ਦੋੱਡਾਬੇੱਟਾ ਚੋਟੀ",
+      "hi": "डोड्डाबेट्टा चोटी"
+     },
+     "town": {
+      "en": "Ooty",
+      "pa": "ਊਟੀ",
+      "hi": "ऊटी"
+     },
+     "tags": [
+      "hills",
+      "adventure"
+     ]
+    },
+    {
+     "name": {
+      "en": "Nilgiri Mountain Railway",
+      "pa": "ਨੀਲਗਿਰੀ ਪਹਾੜੀ ਰੇਲ",
+      "hi": "नीलगिरी माउंटेन रेलवे"
+     },
+     "town": {
+      "en": "Ooty",
+      "pa": "ਊਟੀ",
+      "hi": "ऊटी"
+     },
+     "tags": [
+      "heritage",
+      "hills"
+     ]
+    },
+    {
+     "name": {
+      "en": "Pykara Falls",
+      "pa": "ਪਾਇਕਾਰਾ ਝਰਨਾ",
+      "hi": "पायकारा झरना"
+     },
+     "town": {
+      "en": "Pykara",
+      "pa": "ਪਾਇਕਾਰਾ",
+      "hi": "पायकारा"
+     },
+     "tags": [
+      "lakes",
+      "hills"
+     ]
+    }
+   ],
+   "prices": {},
+   "roadKm": {
+    "Ludhiana": 2528,
+    "Chandigarh": 2504,
+    "Delhi": 2235,
+    "Amritsar": 2674,
+    "Jalandhar": 2589,
+    "Patiala": 2472,
+    "Jaipur": 2054
+   },
+   "railhead": {
+    "name": {
+     "en": "Coimbatore Junction",
+     "pa": "ਕੋਇੰਬਟੂਰ ਜੰਕਸ਼ਨ",
+     "hi": "कोयंबटूर जंक्शन"
+    },
+    "code": "CBE",
+    "km": 103,
+    "note": "toyOoty",
+    "lat": 10.9976,
+    "lng": 76.9664
+   },
+   "airport": {
+    "code": "CJB",
+    "km": 99
+   }
+  },
+  {
+   "id": "munnar",
+   "keys": [
+    "Munnar"
+   ],
+   "searchName": "Munnar",
+   "hill": true,
+   "lonelyPlanet": "https://www.lonelyplanet.com/india/kerala/munnar",
+   "pros": [
+    {
+     "en": "Endless green tea hills",
+     "pa": "ਦੂਰ ਤੱਕ ਹਰੀਆਂ ਚਾਹ ਦੀਆਂ ਪਹਾੜੀਆਂ",
+     "hi": "दूर तक हरी चाय की पहाड़ियाँ"
+    },
+    {
+     "en": "Nilgiri tahr at Eravikulam National Park",
+     "pa": "ਇਰਾਵਿਕੁਲਮ ਨੈਸ਼ਨਲ ਪਾਰਕ ਵਿੱਚ ਨੀਲਗਿਰੀ ਤਾਹਰ",
+     "hi": "एराविकुलम नेशनल पार्क में नीलगिरी तहर"
+    },
+    {
+     "en": "Easy to combine with Alleppey backwaters",
+     "pa": "ਅਲੈੱਪੀ ਦੇ ਬੈਕਵਾਟਰ ਨਾਲ ਜੋੜਨਾ ਸੌਖਾ",
+     "hi": "अलेप्पी के बैकवाटर के साथ जोड़ना आसान"
+    }
+   ],
+   "cons": [
+    {
+     "en": "Long winding drive from Kochi",
+     "pa": "ਕੋਚੀ ਤੋਂ ਲੰਬਾ ਘੁਮਾਵਦਾਰ ਰਸਤਾ",
+     "hi": "कोच्चि से लंबा घुमावदार रास्ता"
+    },
+    {
+     "en": "Heavy monsoon rain June–August",
+     "pa": "ਜੂਨ–ਅਗਸਤ ਭਾਰੀ ਮੀਂਹ",
+     "hi": "जून–अगस्त भारी बारिश"
+    }
+   ],
+   "rush": [
+    {
+     "en": "September to March is best",
+     "pa": "ਸਤੰਬਰ ਤੋਂ ਮਾਰਚ ਸਭ ਤੋਂ ਵਧੀਆ",
+     "hi": "सितंबर से मार्च सबसे अच्छा"
+    },
+    {
+     "en": "Book Eravikulam tickets early in season",
+     "pa": "ਸੀਜ਼ਨ ਵਿੱਚ ਇਰਾਵਿਕੁਲਮ ਦੀਆਂ ਟਿਕਟਾਂ ਜਲਦੀ ਬੁੱਕ ਕਰੋ",
+     "hi": "सीज़न में एराविकुलम के टिकट जल्दी बुक करें"
+    },
+    {
+     "en": "Eravikulam usually closes for a few months in the calving season",
+     "pa": "ਇਰਾਵਿਕੁਲਮ ਆਮ ਤੌਰ ਤੇ ਕੁਝ ਮਹੀਨੇ ਬੰਦ ਰਹਿੰਦਾ ਹੈ (ਤਾਹਰ ਦੇ ਬੱਚਿਆਂ ਦਾ ਮੌਸਮ)",
+     "hi": "एराविकुलम आमतौर पर कुछ महीने बंद रहता है (तहर के बच्चों का मौसम)"
+    }
+   ],
+   "stays": [
+    {
+     "name": {
+      "en": "KTDC Tea County",
+      "pa": "ਕੇਟੀਡੀਸੀ ਟੀ ਕਾਊਂਟੀ",
+      "hi": "केटीडीसी टी काउंटी"
+     },
+     "town": {
+      "en": "Munnar",
+      "pa": "ਮੁੰਨਾਰ",
+      "hi": "मुन्नार"
+     },
+     "type": "govt"
+    },
+    {
+     "name": {
+      "en": "Blanket Hotel & Spa",
+      "pa": "ਬਲੈਂਕੇਟ ਹੋਟਲ ਐਂਡ ਸਪਾ",
+      "hi": "ब्लैंकेट होटल एंड स्पा"
+     },
+     "town": {
+      "en": "Munnar",
+      "pa": "ਮੁੰਨਾਰ",
+      "hi": "मुन्नार"
+     },
+     "type": "hotel"
+    },
+    {
+     "name": {
+      "en": "Fragrant Nature Munnar",
+      "pa": "ਫ਼੍ਰੈਗ੍ਰੈਂਟ ਨੇਚਰ ਮੁੰਨਾਰ",
+      "hi": "फ़्रेग्रेंट नेचर मुन्नार"
+     },
+     "town": {
+      "en": "Munnar",
+      "pa": "ਮੁੰਨਾਰ",
+      "hi": "मुन्नार"
+     },
+     "type": "hotel"
+    }
+   ],
+   "restStops": [],
+   "places": [
+    {
+     "name": {
+      "en": "Eravikulam National Park",
+      "pa": "ਇਰਾਵਿਕੁਲਮ ਨੈਸ਼ਨਲ ਪਾਰਕ",
+      "hi": "एराविकुलम नेशनल पार्क"
+     },
+     "town": {
+      "en": "Munnar",
+      "pa": "ਮੁੰਨਾਰ",
+      "hi": "मुन्नार"
+     },
+     "tags": [
+      "wildlife",
+      "hills"
+     ]
+    },
+    {
+     "name": {
+      "en": "Mattupetty Dam",
+      "pa": "ਮੱਟੂਪੇੱਟੀ ਡੈਮ",
+      "hi": "मट्टुपेट्टी बाँध"
+     },
+     "town": {
+      "en": "Munnar",
+      "pa": "ਮੁੰਨਾਰ",
+      "hi": "मुन्नार"
+     },
+     "tags": [
+      "lakes"
+     ]
+    },
+    {
+     "name": {
+      "en": "Tea Museum",
+      "pa": "ਚਾਹ ਅਜਾਇਬਘਰ",
+      "hi": "टी म्यूज़ियम"
+     },
+     "town": {
+      "en": "Munnar",
+      "pa": "ਮੁੰਨਾਰ",
+      "hi": "मुन्नार"
+     },
+     "tags": [
+      "heritage",
+      "food"
+     ]
+    },
+    {
+     "name": {
+      "en": "Top Station",
+      "pa": "ਟੌਪ ਸਟੇਸ਼ਨ",
+      "hi": "टॉप स्टेशन"
+     },
+     "town": {
+      "en": "Munnar",
+      "pa": "ਮੁੰਨਾਰ",
+      "hi": "मुन्नार"
+     },
+     "tags": [
+      "hills"
+     ]
+    },
+    {
+     "name": {
+      "en": "Attukal Waterfalls",
+      "pa": "ਅੱਟੁਕਲ ਝਰਨਾ",
+      "hi": "अट्टुकल झरना"
+     },
+     "town": {
+      "en": "Munnar",
+      "pa": "ਮੁੰਨਾਰ",
+      "hi": "मुन्नार"
+     },
+     "tags": [
+      "hills",
+      "adventure"
+     ]
+    }
+   ],
+   "prices": {
+    "hotel": {
+     "min": 3800,
+     "max": 15600,
+     "source": {
+      "en": "Booking.com average for 3–4 star hotels in Munnar",
+      "pa": "Booking.com 'ਤੇ ਮੁੰਨਾਰ ਦੇ 3–4 ਸਟਾਰ ਹੋਟਲਾਂ ਦੀ ਔਸਤ",
+      "hi": "Booking.com पर मुन्नार के 3–4 स्टार होटलों का औसत"
+     },
+     "note": {
+      "en": "Lowest to highest of the 3-star and 4-star averages shown (tonight and this weekend)",
+      "pa": "ਦਿਖਾਈ ਗਈ 3 ਅਤੇ 4 ਸਟਾਰ ਔਸਤ ਦਾ ਘੱਟ ਤੋਂ ਵੱਧ (ਅੱਜ ਰਾਤ ਅਤੇ ਇਸ ਵੀਕਐਂਡ)",
+      "hi": "दिखाए गए 3 और 4 स्टार औसत का कम से ज़्यादा (आज रात और इस वीकेंड)"
+     },
+     "checked": "2026-11-17",
+     "url": "https://www.booking.com/city/in/munnar.html?selected_currency=INR"
+    },
+    "homestay": {
+     "min": 1100,
+     "max": 3800,
+     "source": {
+      "en": "Booking.com average homestay price in Munnar",
+      "pa": "Booking.com 'ਤੇ ਮੁੰਨਾਰ ਵਿੱਚ ਹੋਮਸਟੇ ਦੀ ਔਸਤ ਕੀਮਤ",
+      "hi": "Booking.com पर मुन्नार में होमस्टे की औसत कीमत"
+     },
+     "note": {
+      "en": "Shown in US$; converted at ₹94.25 per US$ (European Central Bank rate, 13 Nov 2026)",
+      "pa": "US$ ਵਿੱਚ ਦਿਖਾਈ; ₹94.25 ਪ੍ਰਤੀ US$ ਨਾਲ ਬਦਲੀ (ਯੂਰਪੀ ਕੇਂਦਰੀ ਬੈਂਕ ਦਾ ਰੇਟ, 13 ਨਵੰਬਰ 2026)",
+      "hi": "US$ में दिखाई गई; ₹94.25 प्रति US$ से बदली (यूरोपीय केंद्रीय बैंक की दर, 13 नवंबर 2026)"
+     },
+     "checked": "2026-11-17",
+     "url": "https://www.booking.com/homestay/city/in/munnar.html"
+    }
+   },
+   "roadKm": {
+    "Ludhiana": 2757,
+    "Chandigarh": 2733,
+    "Delhi": 2464,
+    "Amritsar": 2903,
+    "Jalandhar": 2818,
+    "Patiala": 2701,
+    "Jaipur": 2283
+   },
+   "railhead": {
+    "name": {
+     "en": "Ernakulam Junction",
+     "pa": "ਏਰਨਾਕੁਲਮ ਜੰਕਸ਼ਨ",
+     "hi": "एर्णाकुलम जंक्शन"
+    },
+    "code": "ERS",
+    "km": 125,
+    "note": "",
+    "lat": 9.9706,
+    "lng": 76.291
+   },
+   "airport": {
+    "code": "COK",
+    "km": 106
+   }
+  },
+  {
+   "id": "alleppey",
+   "keys": [
+    "Alleppey"
+   ],
+   "searchName": "Alleppey",
+   "hill": false,
+   "lonelyPlanet": "https://www.lonelyplanet.com/india/kerala/alappuzha-alleppey",
+   "pros": [
+    {
+     "en": "Houseboats on the Kerala backwaters",
+     "pa": "ਕੇਰਲ ਦੇ ਬੈਕਵਾਟਰ ਵਿੱਚ ਹਾਊਸਬੋਟ",
+     "hi": "केरल के बैकवाटर में हाउसबोट"
+    },
+    {
+     "en": "Cheap public boats with village views",
+     "pa": "ਪਿੰਡਾਂ ਦੇ ਨਜ਼ਾਰਿਆਂ ਵਾਲੀਆਂ ਸਸਤੀਆਂ ਸਰਕਾਰੀ ਕਿਸ਼ਤੀਆਂ",
+     "hi": "गाँवों के नज़ारों वाली सस्ती सरकारी नावें"
+    },
+    {
+     "en": "Quiet beaches nearby",
+     "pa": "ਨੇੜੇ ਸ਼ਾਂਤ ਬੀਚ",
+     "hi": "पास में शांत बीच"
+    }
+   ],
+   "cons": [
+    {
+     "en": "Hot and humid most of the year",
+     "pa": "ਸਾਲ ਦਾ ਜ਼ਿਆਦਾ ਸਮਾਂ ਗਰਮ ਅਤੇ ਹੁੰਮਸ",
+     "hi": "साल के ज़्यादातर समय गर्म और उमस"
+    },
+    {
+     "en": "Houseboat prices vary a lot; check before paying",
+     "pa": "ਹਾਊਸਬੋਟ ਦੀਆਂ ਕੀਮਤਾਂ ਬਹੁਤ ਵੱਖ-ਵੱਖ; ਪੈਸੇ ਦੇਣ ਤੋਂ ਪਹਿਲਾਂ ਜਾਂਚੋ",
+     "hi": "हाउसबोट की कीमतें बहुत अलग-अलग; पैसे देने से पहले जाँचें"
+    }
+   ],
+   "rush": [
+    {
+     "en": "November to February is best",
+     "pa": "ਨਵੰਬਰ ਤੋਂ ਫ਼ਰਵਰੀ ਸਭ ਤੋਂ ਵਧੀਆ",
+     "hi": "नवंबर से फ़रवरी सबसे अच्छा"
+    },
+    {
+     "en": "Weekday houseboats cost less",
+     "pa": "ਆਮ ਦਿਨਾਂ ਵਿੱਚ ਹਾਊਸਬੋਟ ਸਸਤੀ",
+     "hi": "आम दिनों में हाउसबोट सस्ती"
+    },
+    {
+     "en": "The Nehru Trophy boat race (August) draws big crowds",
+     "pa": "ਨਹਿਰੂ ਟ੍ਰਾਫ਼ੀ ਕਿਸ਼ਤੀ ਦੌੜ (ਅਗਸਤ) ਵਿੱਚ ਬਹੁਤ ਭੀੜ ਹੁੰਦੀ ਹੈ",
+     "hi": "नेहरू ट्रॉफ़ी नौका दौड़ (अगस्त) में बहुत भीड़ होती है"
+    }
+   ],
+   "stays": [
+    {
+     "name": {
+      "en": "Punnamada Resort",
+      "pa": "ਪੁੰਨਮਡਾ ਰਿਜ਼ੋਰਟ",
+      "hi": "पुन्नमडा रिज़ॉर्ट"
+     },
+     "town": {
+      "en": "Alappuzha",
+      "pa": "ਅਲਾਪੁਝਾ",
+      "hi": "अलाप्पुझा"
+     },
+     "type": "hotel"
+    },
+    {
+     "name": {
+      "en": "Lake Palace Resort",
+      "pa": "ਲੇਕ ਪੈਲੇਸ ਰਿਜ਼ੋਰਟ",
+      "hi": "लेक पैलेस रिज़ॉर्ट"
+     },
+     "town": {
+      "en": "Alappuzha",
+      "pa": "ਅਲਾਪੁਝਾ",
+      "hi": "अलाप्पुझा"
+     },
+     "type": "hotel"
+    },
+    {
+     "name": {
+      "en": "Ramada by Wyndham Alleppey",
+      "pa": "ਰਮਾਡਾ ਬਾਏ ਵਿੰਡਹਮ ਅਲੈੱਪੀ",
+      "hi": "रमाडा बाय विंडहैम अलेप्पी"
+     },
+     "town": {
+      "en": "Alappuzha",
+      "pa": "ਅਲਾਪੁਝਾ",
+      "hi": "अलाप्पुझा"
+     },
+     "type": "hotel"
+    }
+   ],
+   "restStops": [],
+   "places": [
+    {
+     "name": {
+      "en": "Vembanad Lake backwaters",
+      "pa": "ਵੇਂਬਨਾਡ ਝੀਲ ਦੇ ਬੈਕਵਾਟਰ",
+      "hi": "वेम्बनाड झील के बैकवाटर"
+     },
+     "town": {
+      "en": "Alappuzha",
+      "pa": "ਅਲਾਪੁਝਾ",
+      "hi": "अलाप्पुझा"
+     },
+     "tags": [
+      "lakes"
+     ]
+    },
+    {
+     "name": {
+      "en": "Alappuzha Beach",
+      "pa": "ਅਲਾਪੁਝਾ ਬੀਚ",
+      "hi": "अलाप्पुझा बीच"
+     },
+     "town": {
+      "en": "Alappuzha",
+      "pa": "ਅਲਾਪੁਝਾ",
+      "hi": "अलाप्पुझा"
+     },
+     "tags": [
+      "lakes"
+     ]
+    },
+    {
+     "name": {
+      "en": "Marari Beach",
+      "pa": "ਮਰਾਰੀ ਬੀਚ",
+      "hi": "मरारी बीच"
+     },
+     "town": {
+      "en": "Mararikulam",
+      "pa": "ਮਰਾਰੀਕੁਲਮ",
+      "hi": "मरारीकुलम"
+     },
+     "tags": [
+      "lakes"
+     ]
+    },
+    {
+     "name": {
+      "en": "Krishnapuram Palace",
+      "pa": "ਕ੍ਰਿਸ਼ਨਾਪੁਰਮ ਮਹਿਲ",
+      "hi": "कृष्णापुरम महल"
+     },
+     "town": {
+      "en": "Kayamkulam",
+      "pa": "ਕਾਇਮਕੁਲਮ",
+      "hi": "कायमकुलम"
+     },
+     "tags": [
+      "heritage"
+     ]
+    }
+   ],
+   "prices": {
+    "hotel": {
+     "min": 3500,
+     "max": 12000,
+     "source": {
+      "en": "Booking.com average for 3–4 star hotels in Alleppey",
+      "pa": "Booking.com 'ਤੇ ਅਲੈੱਪੀ ਦੇ 3–4 ਸਟਾਰ ਹੋਟਲਾਂ ਦੀ ਔਸਤ",
+      "hi": "Booking.com पर अलेप्पी के 3–4 स्टार होटलों का औसत"
+     },
+     "note": {
+      "en": "Lowest to highest of the 3-star and 4-star averages shown (tonight and this weekend)",
+      "pa": "ਦਿਖਾਈ ਗਈ 3 ਅਤੇ 4 ਸਟਾਰ ਔਸਤ ਦਾ ਘੱਟ ਤੋਂ ਵੱਧ (ਅੱਜ ਰਾਤ ਅਤੇ ਇਸ ਵੀਕਐਂਡ)",
+      "hi": "दिखाए गए 3 और 4 स्टार औसत का कम से ज़्यादा (आज रात और इस वीकेंड)"
+     },
+     "checked": "2026-11-17",
+     "url": "https://www.booking.com/city/in/alleppey.html?selected_currency=INR"
+    },
+    "homestay": {
+     "min": 2800,
+     "max": 2800,
+     "source": {
+      "en": "Booking.com average homestay price in Alleppey",
+      "pa": "Booking.com 'ਤੇ ਅਲੈੱਪੀ ਵਿੱਚ ਹੋਮਸਟੇ ਦੀ ਔਸਤ ਕੀਮਤ",
+      "hi": "Booking.com पर अलेप्पी में होमस्टे की औसत कीमत"
+     },
+     "note": {
+      "en": "Shown in US$; converted at ₹94.25 per US$ (European Central Bank rate, 13 Nov 2026)",
+      "pa": "US$ ਵਿੱਚ ਦਿਖਾਈ; ₹94.25 ਪ੍ਰਤੀ US$ ਨਾਲ ਬਦਲੀ (ਯੂਰਪੀ ਕੇਂਦਰੀ ਬੈਂਕ ਦਾ ਰੇਟ, 13 ਨਵੰਬਰ 2026)",
+      "hi": "US$ में दिखाई गई; ₹94.25 प्रति US$ से बदली (यूरोपीय केंद्रीय बैंक की दर, 13 नवंबर 2026)"
+     },
+     "checked": "2026-11-17",
+     "url": "https://www.booking.com/homestay/city/in/alleppey.html"
+    }
+   },
+   "roadKm": {
+    "Ludhiana": 2766,
+    "Chandigarh": 2742,
+    "Delhi": 2473,
+    "Amritsar": 2912,
+    "Jalandhar": 2827,
+    "Patiala": 2710,
+    "Jaipur": 2292
+   },
+   "railhead": {
+    "name": {
+     "en": "Alappuzha",
+     "pa": "ਅਲਾਪੁਝਾ",
+     "hi": "अलाप्पुझा"
+    },
+    "code": "ALLP",
+    "km": 3,
+    "note": "",
+    "lat": 9.4863,
+    "lng": 76.3217
+   },
+   "airport": {
+    "code": "COK",
+    "km": 83
+   },
+   "ferry": [
+    {
+     "name": {
+      "en": "SWTD public boat Alappuzha–Kottayam",
+      "pa": "ਐਸਡਬਲਯੂਟੀਡੀ ਸਰਕਾਰੀ ਕਿਸ਼ਤੀ ਅਲਾਪੁਝਾ–ਕੋਟਾਯਮ",
+      "hi": "एसडब्ल्यूटीडी सरकारी नाव अलाप्पुझा–कोट्टायम"
+     },
+     "fareMin": 17,
+     "fareMax": 29,
+     "rides": 2,
+     "note": {
+      "en": "About 2.5 hours through the backwaters",
+      "pa": "ਬੈਕਵਾਟਰ ਵਿੱਚੋਂ ਲਗਭਗ 2.5 ਘੰਟੇ",
+      "hi": "बैकवाटर से लगभग 2.5 घंटे"
+     },
+     "source": "SWTD Kerala fare table (₹17) and Onmanorama, Dec 2025 (₹29)",
+     "url": "https://swtd.kerala.gov.in/pages-en-IN/placesenroute.php",
+     "checked": "2026-11-17",
+     "approx": false
+    }
+   ]
   }
  ],
  "distanceSource": {
   "en": "OSRM (OpenStreetMap road routing, router.project-osrm.org)",
-  "checked": "2026-11-14"
+  "checked": "2026-11-14",
+  "hubsChecked": "2026-11-17"
+ },
+ "transport": {
+  "checked": "2026-11-17",
+  "train": {
+   "source": "Indian Railways basic fare table, Commercial Circular 11 of 2025 (effective 1 Jul 2025)",
+   "url": "https://www.staffnews.in/wp-content/uploads/2025/07/Basic-Rail-Fare-Chart-CC-11-of-2025.pdf",
+   "checked": "2026-11-17",
+   "chargesSource": "Reservation and superfast charges: Indian Railways (NCR) fare rules; unchanged in the Jul 2025 revision (PIB)",
+   "railFactor": 1.25,
+   "kmPerHour": 55,
+   "premiumFactor": 1.5,
+   "childFreeUnder": 5,
+   "childHalfUnder": 12,
+   "classes": {
+    "SL": {
+     "minKm": 200,
+     "reservation": 20,
+     "superfast": 30,
+     "gst": 0,
+     "premium": false,
+     "fare": [
+      [
+       200,
+       126
+      ],
+      [
+       300,
+       186
+      ],
+      [
+       400,
+       229
+      ],
+      [
+       500,
+       276
+      ],
+      [
+       700,
+       365
+      ],
+      [
+       900,
+       436
+      ],
+      [
+       1200,
+       526
+      ],
+      [
+       1500,
+       611
+      ],
+      [
+       2000,
+       752
+      ]
+     ]
+    },
+    "3A": {
+     "minKm": 300,
+     "reservation": 40,
+     "superfast": 45,
+     "gst": 0.05,
+     "premium": true,
+     "fare": [
+      [
+       300,
+       446
+      ],
+      [
+       400,
+       604
+      ],
+      [
+       500,
+       718
+      ],
+      [
+       600,
+       854
+      ],
+      [
+       700,
+       954
+      ],
+      [
+       800,
+       1046
+      ],
+      [
+       900,
+       1131
+      ],
+      [
+       1000,
+       1216
+      ],
+      [
+       1200,
+       1354
+      ],
+      [
+       1500,
+       1562
+      ],
+      [
+       2000,
+       1908
+      ],
+      [
+       2300,
+       2037
+      ]
+     ]
+    },
+    "2A": {
+     "minKm": 300,
+     "reservation": 50,
+     "superfast": 45,
+     "gst": 0.05,
+     "premium": true,
+     "fare": [
+      [
+       300,
+       631
+      ],
+      [
+       400,
+       860
+      ],
+      [
+       500,
+       1026
+      ],
+      [
+       600,
+       1217
+      ],
+      [
+       700,
+       1363
+      ],
+      [
+       800,
+       1497
+      ],
+      [
+       900,
+       1621
+      ],
+      [
+       1000,
+       1743
+      ],
+      [
+       1200,
+       1948
+      ],
+      [
+       1500,
+       2255
+      ],
+      [
+       2000,
+       2764
+      ],
+      [
+       2300,
+       2963
+      ]
+     ]
+    },
+    "1A": {
+     "minKm": 300,
+     "reservation": 60,
+     "superfast": 75,
+     "gst": 0.05,
+     "premium": true,
+     "fare": [
+      [
+       300,
+       1065
+      ],
+      [
+       400,
+       1455
+      ],
+      [
+       500,
+       1741
+      ],
+      [
+       600,
+       2049
+      ],
+      [
+       700,
+       2298
+      ],
+      [
+       800,
+       2531
+      ],
+      [
+       900,
+       2743
+      ],
+      [
+       1000,
+       2955
+      ],
+      [
+       1200,
+       3308
+      ],
+      [
+       1500,
+       3833
+      ],
+      [
+       2000,
+       4712
+      ],
+      [
+       2300,
+       5054
+      ]
+     ]
+    },
+    "CC": {
+     "minKm": 150,
+     "reservation": 40,
+     "superfast": 45,
+     "gst": 0.05,
+     "premium": true,
+     "fare": [
+      [
+       150,
+       214
+      ],
+      [
+       200,
+       290
+      ],
+      [
+       300,
+       388
+      ],
+      [
+       400,
+       482
+      ],
+      [
+       500,
+       575
+      ],
+      [
+       600,
+       681
+      ],
+      [
+       700,
+       763
+      ],
+      [
+       800,
+       837
+      ],
+      [
+       900,
+       908
+      ],
+      [
+       1000,
+       976
+      ],
+      [
+       1200,
+       1093
+      ],
+      [
+       1500,
+       1266
+      ],
+      [
+       2000,
+       1553
+      ],
+      [
+       2300,
+       1668
+      ]
+     ]
+    }
+   }
+  },
+  "bus": {
+   "checked": "2026-11-17",
+   "approx": true,
+   "kmPerHour": 40,
+   "childFreeUnder": 5,
+   "childHalfUnder": 12,
+   "source": "Punjab Roadways/PRTC per-km fares (Sep 2024 revision, Times of India/Hindustan Times) and HRTC fares (HP notification 8 May 2025)",
+   "url": "https://hrtchp.com",
+   "classes": {
+    "ordinary": {
+     "min": 1.45,
+     "max": 1.6,
+     "hill": 2.5,
+     "childHalf": true
+    },
+    "ac": {
+     "min": 1.74,
+     "max": 3.9,
+     "hill": 5.2,
+     "childHalf": false
+    },
+    "volvo": {
+     "min": 2.61,
+     "max": 2.9,
+     "hill": 5.2,
+     "childHalf": false
+    }
+   }
+  },
+  "flight": {
+   "checked": "2026-11-17",
+   "minAirKm": 300,
+   "fixedHours": 2.5,
+   "kmPerHour": 650,
+   "infantUnder": 2,
+   "infantFee": 3000,
+   "infantSource": "IndiGo domestic infant fee ₹3,000 per infant (IndiGo fees page, 2026)",
+   "source": "One-way economy fares seen 17 Nov 2026 on Kayak, ixigo, Goibibo, HappyFares, Cheapflights",
+   "bands": [
+    {
+     "maxKm": 500,
+     "min": 3100,
+     "max": 6500,
+     "approxMax": true,
+     "seen": "DEL–JAI ₹3,100–3,287; DEL–DHM ₹4,365–4,772"
+    },
+    {
+     "maxKm": 1000,
+     "min": 4200,
+     "max": 9000,
+     "approxMax": true,
+     "seen": "DEL–VNS ₹4,223–5,149"
+    },
+    {
+     "maxKm": 1800,
+     "min": 6800,
+     "max": 16500,
+     "approxMax": false,
+     "seen": "DEL–GOI cheapest ₹6,758–8,592, median ₹16,519"
+    },
+    {
+     "maxKm": 99999,
+     "min": 8000,
+     "max": 18000,
+     "approxMax": true,
+     "seen": "DEL–COK cheapest ₹8,015–11,152"
+    }
+   ]
+  },
+  "taxi": {
+   "checked": "2026-11-17",
+   "perKmMin": 13,
+   "perKmMax": 15,
+   "minKmPerDay": 250,
+   "allowanceMin": 300,
+   "allowanceMax": 400,
+   "localKmPerDay": 80,
+   "seats": 4,
+   "source": "Outstation sedan rates, cabsguru.com (2026)",
+   "url": "https://www.cabsguru.com",
+   "localApprox": true
+  }
+ },
+ "airports": [
+  {
+   "code": "DEL",
+   "city": {
+    "en": "Delhi",
+    "pa": "ਦਿੱਲੀ",
+    "hi": "दिल्ली"
+   },
+   "lat": 28.5554,
+   "lng": 77.0848
+  },
+  {
+   "code": "IXC",
+   "city": {
+    "en": "Chandigarh",
+    "pa": "ਚੰਡੀਗੜ੍ਹ",
+    "hi": "चंडीगढ़"
+   },
+   "lat": 30.6742,
+   "lng": 76.791
+  },
+  {
+   "code": "ATQ",
+   "city": {
+    "en": "Amritsar",
+    "pa": "ਅੰਮ੍ਰਿਤਸਰ",
+    "hi": "अमृतसर"
+   },
+   "lat": 31.7086,
+   "lng": 74.8004
+  },
+  {
+   "code": "JAI",
+   "city": {
+    "en": "Jaipur",
+    "pa": "ਜੈਪੁਰ",
+    "hi": "जयपुर"
+   },
+   "lat": 26.8281,
+   "lng": 75.808
+  },
+  {
+   "code": "UDR",
+   "city": {
+    "en": "Udaipur",
+    "pa": "ਉਦੈਪੁਰ",
+    "hi": "उदयपुर"
+   },
+   "lat": 24.6174,
+   "lng": 73.8942
+  },
+  {
+   "code": "JDH",
+   "city": {
+    "en": "Jodhpur",
+    "pa": "ਜੋਧਪੁਰ",
+    "hi": "जोधपुर"
+   },
+   "lat": 26.2628,
+   "lng": 73.0524
+  },
+  {
+   "code": "JSA",
+   "city": {
+    "en": "Jaisalmer",
+    "pa": "ਜੈਸਲਮੇਰ",
+    "hi": "जैसलमेर"
+   },
+   "lat": 26.8702,
+   "lng": 70.8567
+  },
+  {
+   "code": "AGR",
+   "city": {
+    "en": "Agra",
+    "pa": "ਆਗਰਾ",
+    "hi": "आगरा"
+   },
+   "lat": 27.1566,
+   "lng": 77.9505
+  },
+  {
+   "code": "KUU",
+   "city": {
+    "en": "Kullu",
+    "pa": "ਕੁੱਲੂ (ਭੁੰਤਰ)",
+    "hi": "कुल्लू (भुंतर)"
+   },
+   "lat": 31.8761,
+   "lng": 77.155
+  },
+  {
+   "code": "DHM",
+   "city": {
+    "en": "Dharamshala",
+    "pa": "ਕਾਂਗੜਾ (ਗੱਗਲ)",
+    "hi": "कांगड़ा (गग्गल)"
+   },
+   "lat": 32.1647,
+   "lng": 76.2623
+  },
+  {
+   "code": "DED",
+   "city": {
+    "en": "Dehradun",
+    "pa": "ਦੇਹਰਾਦੂਨ",
+    "hi": "देहरादून"
+   },
+   "lat": 30.1922,
+   "lng": 78.19
+  },
+  {
+   "code": "PGH",
+   "city": {
+    "en": "Pantnagar",
+    "pa": "ਪੰਤਨਗਰ",
+    "hi": "पंतनगर"
+   },
+   "lat": 29.0331,
+   "lng": 79.4719
+  },
+  {
+   "code": "HSR",
+   "city": {
+    "en": "Rajkot",
+    "pa": "ਰਾਜਕੋਟ",
+    "hi": "राजकोट"
+   },
+   "lat": 22.3823,
+   "lng": 71.0381
+  },
+  {
+   "code": "IXL",
+   "city": {
+    "en": "Leh",
+    "pa": "ਲੇਹ",
+    "hi": "लेह"
+   },
+   "lat": 34.1353,
+   "lng": 77.5471
+  },
+  {
+   "code": "GOI",
+   "city": {
+    "en": "Goa",
+    "pa": "ਗੋਆ (ਡਾਬੋਲਿਮ)",
+    "hi": "गोवा (डाबोलिम)"
+   },
+   "lat": 15.3806,
+   "lng": 73.8317
+  },
+  {
+   "code": "VNS",
+   "city": {
+    "en": "Varanasi",
+    "pa": "ਵਾਰਾਣਸੀ",
+    "hi": "वाराणसी"
+   },
+   "lat": 25.451,
+   "lng": 82.8636
+  },
+  {
+   "code": "IXB",
+   "city": {
+    "en": "Bagdogra",
+    "pa": "ਬਾਗਡੋਗਰਾ",
+    "hi": "बागडोगरा"
+   },
+   "lat": 26.6818,
+   "lng": 88.3301
+  },
+  {
+   "code": "CJB",
+   "city": {
+    "en": "Coimbatore",
+    "pa": "ਕੋਇੰਬਟੂਰ",
+    "hi": "कोयंबटूर"
+   },
+   "lat": 11.0329,
+   "lng": 77.0427
+  },
+  {
+   "code": "COK",
+   "city": {
+    "en": "Kochi",
+    "pa": "ਕੋਚੀ",
+    "hi": "कोच्चि"
+   },
+   "lat": 10.1545,
+   "lng": 76.3925
+  },
+  {
+   "code": "BOM",
+   "city": {
+    "en": "Mumbai",
+    "pa": "ਮੁੰਬਈ",
+    "hi": "मुंबई"
+   },
+   "lat": 19.0901,
+   "lng": 72.8638
+  },
+  {
+   "code": "BLR",
+   "city": {
+    "en": "Bengaluru",
+    "pa": "ਬੈਂਗਲੁਰੂ",
+    "hi": "बेंगलुरु"
+   },
+   "lat": 13.1976,
+   "lng": 77.7075
+  },
+  {
+   "code": "MAA",
+   "city": {
+    "en": "Chennai",
+    "pa": "ਚੇਨਈ",
+    "hi": "चेन्नई"
+   },
+   "lat": 12.9934,
+   "lng": 80.1726
+  },
+  {
+   "code": "CCU",
+   "city": {
+    "en": "Kolkata",
+    "pa": "ਕੋਲਕਾਤਾ",
+    "hi": "कोलकाता"
+   },
+   "lat": 22.6565,
+   "lng": 88.4467
+  },
+  {
+   "code": "HYD",
+   "city": {
+    "en": "Hyderabad",
+    "pa": "ਹੈਦਰਾਬਾਦ",
+    "hi": "हैदराबाद"
+   },
+   "lat": 17.2312,
+   "lng": 78.4318
+  },
+  {
+   "code": "AMD",
+   "city": {
+    "en": "Ahmedabad",
+    "pa": "ਅਹਿਮਦਾਬਾਦ",
+    "hi": "अहमदाबाद"
+   },
+   "lat": 23.0759,
+   "lng": 72.6306
+  },
+  {
+   "code": "PNQ",
+   "city": {
+    "en": "Pune",
+    "pa": "ਪੁਣੇ",
+    "hi": "पुणे"
+   },
+   "lat": 18.5849,
+   "lng": 73.9196
+  },
+  {
+   "code": "LKO",
+   "city": {
+    "en": "Lucknow",
+    "pa": "ਲਖਨਊ",
+    "hi": "लखनऊ"
+   },
+   "lat": 26.7608,
+   "lng": 80.8936
+  },
+  {
+   "code": "PAT",
+   "city": {
+    "en": "Patna",
+    "pa": "ਪਟਨਾ",
+    "hi": "पटना"
+   },
+   "lat": 25.5971,
+   "lng": 85.0912
+  },
+  {
+   "code": "BBI",
+   "city": {
+    "en": "Bhubaneswar",
+    "pa": "ਭੁਵਨੇਸ਼ਵਰ",
+    "hi": "भुवनेश्वर"
+   },
+   "lat": 20.2523,
+   "lng": 85.8135
+  },
+  {
+   "code": "GAU",
+   "city": {
+    "en": "Guwahati",
+    "pa": "ਗੁਹਾਟੀ",
+    "hi": "गुवाहाटी"
+   },
+   "lat": 26.1114,
+   "lng": 91.5831
+  },
+  {
+   "code": "SXR",
+   "city": {
+    "en": "Srinagar",
+    "pa": "ਸ੍ਰੀਨਗਰ",
+    "hi": "श्रीनगर"
+   },
+   "lat": 33.9934,
+   "lng": 74.7752
+  },
+  {
+   "code": "IXJ",
+   "city": {
+    "en": "Jammu",
+    "pa": "ਜੰਮੂ",
+    "hi": "जम्मू"
+   },
+   "lat": 32.688,
+   "lng": 74.8387
+  },
+  {
+   "code": "TRV",
+   "city": {
+    "en": "Thiruvananthapuram",
+    "pa": "ਤਿਰੂਵਨੰਤਪੁਰਮ",
+    "hi": "तिरुवनंतपुरम"
+   },
+   "lat": 8.482,
+   "lng": 76.9191
+  },
+  {
+   "code": "IXE",
+   "city": {
+    "en": "Mangaluru",
+    "pa": "ਮੰਗਲੁਰੂ",
+    "hi": "मंगलुरु"
+   },
+   "lat": 12.9546,
+   "lng": 74.8847
+  },
+  {
+   "code": "IXZ",
+   "city": {
+    "en": "Port Blair",
+    "pa": "ਪੋਰਟ ਬਲੇਅਰ",
+    "hi": "पोर्ट ब्लेयर"
+   },
+   "lat": 11.6409,
+   "lng": 92.7305
+  },
+  {
+   "code": "VTZ",
+   "city": {
+    "en": "Visakhapatnam",
+    "pa": "ਵਿਸ਼ਾਖਾਪਟਨਮ",
+    "hi": "विशाखापत्तनम"
+   },
+   "lat": 17.9763,
+   "lng": 83.4955
+  },
+  {
+   "code": "NAG",
+   "city": {
+    "en": "Nagpur",
+    "pa": "ਨਾਗਪੁਰ",
+    "hi": "नागपुर"
+   },
+   "lat": 21.0895,
+   "lng": 79.046
+  },
+  {
+   "code": "IDR",
+   "city": {
+    "en": "Indore",
+    "pa": "ਇੰਦੌਰ",
+    "hi": "इंदौर"
+   },
+   "lat": 22.7218,
+   "lng": 75.8011
+  },
+  {
+   "code": "BHO",
+   "city": {
+    "en": "Bhopal",
+    "pa": "ਭੋਪਾਲ",
+    "hi": "भोपाल"
+   },
+   "lat": 23.2902,
+   "lng": 77.3303
+  },
+  {
+   "code": "IXR",
+   "city": {
+    "en": "Ranchi",
+    "pa": "ਰਾਂਚੀ",
+    "hi": "रांची"
+   },
+   "lat": 23.3146,
+   "lng": 85.3255
+  }
+ ],
+ "originHubs": {
+  "Ludhiana": {
+   "airport": "IXC",
+   "airKm": 105
+  },
+  "Chandigarh": {
+   "airport": "IXC",
+   "airKm": 10
+  },
+  "Delhi": {
+   "airport": "DEL",
+   "airKm": 17
+  },
+  "Amritsar": {
+   "airport": "ATQ",
+   "airKm": 12
+  },
+  "Jalandhar": {
+   "airport": "ATQ",
+   "airKm": 92
+  },
+  "Patiala": {
+   "airport": "IXC",
+   "airKm": 63
+  },
+  "Jaipur": {
+   "airport": "JAI",
+   "airKm": 13
+  }
  }
 }
