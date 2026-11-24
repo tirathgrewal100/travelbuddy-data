@@ -1,7 +1,7 @@
 {
  "schema_version": 1,
- "data_version": "2026.11.18.1",
- "updated_at": "2026-11-18",
+ "data_version": "2026.11.24.1",
+ "updated_at": "2026-11-24",
  "checkedOn": "Nov 2026",
  "destinations": [
   {
@@ -528,6 +528,25 @@
    "airport": {
     "code": "JAI",
     "km": 14
+   },
+   "stayTiers": {
+    "budget": {
+     "min": 1600,
+     "max": 3300
+    },
+    "mid": {
+     "min": 3300,
+     "max": 5100
+    },
+    "upper": {
+     "min": 5100,
+     "max": 7400
+    },
+    "high": {
+     "min": 7400,
+     "max": 14800
+    },
+    "derived": true
    }
   },
   {
@@ -1211,6 +1230,25 @@
    "airport": {
     "code": "UDR",
     "km": 21
+   },
+   "stayTiers": {
+    "budget": {
+     "min": 1200,
+     "max": 4900
+    },
+    "mid": {
+     "min": 4900,
+     "max": 8600
+    },
+    "upper": {
+     "min": 8600,
+     "max": 13500
+    },
+    "high": {
+     "min": 13500,
+     "max": 27000
+    },
+    "derived": true
    }
   },
   {
@@ -1662,6 +1700,25 @@
    "airport": {
     "code": "JDH",
     "km": 9
+   },
+   "stayTiers": {
+    "budget": {
+     "min": 3200,
+     "max": 4900
+    },
+    "mid": {
+     "min": 4900,
+     "max": 6700
+    },
+    "upper": {
+     "min": 6700,
+     "max": 9000
+    },
+    "high": {
+     "min": 9000,
+     "max": 18000
+    },
+    "derived": true
    }
   },
   {
@@ -2106,6 +2163,25 @@
    "airport": {
     "code": "JSA",
     "km": 10
+   },
+   "stayTiers": {
+    "budget": {
+     "min": 1500,
+     "max": 3900
+    },
+    "mid": {
+     "min": 3900,
+     "max": 6300
+    },
+    "upper": {
+     "min": 6300,
+     "max": 9500
+    },
+    "high": {
+     "min": 9500,
+     "max": 19000
+    },
+    "derived": true
    }
   },
   {
@@ -2673,6 +2749,26 @@
    "airport": {
     "code": "UDR",
     "km": 109
+   },
+   "stayTiers": {
+    "budget": {
+     "min": 4900,
+     "max": 6400
+    },
+    "mid": {
+     "min": 6400,
+     "max": 7800
+    },
+    "upper": {
+     "min": 7800,
+     "max": 9800
+    },
+    "high": {
+     "min": 9800,
+     "max": 19600
+    },
+    "derived": true,
+    "approx": true
    }
   },
   {
@@ -3127,6 +3223,26 @@
    "airport": {
     "code": "UDR",
     "km": 139
+   },
+   "stayTiers": {
+    "budget": {
+     "min": 2600,
+     "max": 3600
+    },
+    "mid": {
+     "min": 3600,
+     "max": 4500
+    },
+    "upper": {
+     "min": 4500,
+     "max": 5800
+    },
+    "high": {
+     "min": 5800,
+     "max": 11600
+    },
+    "derived": true,
+    "approx": true
    }
   },
   {
@@ -3540,6 +3656,25 @@
    "airport": {
     "code": "JAI",
     "km": 183
+   },
+   "stayTiers": {
+    "budget": {
+     "min": 1300,
+     "max": 6800
+    },
+    "mid": {
+     "min": 6800,
+     "max": 12300
+    },
+    "upper": {
+     "min": 12300,
+     "max": 19600
+    },
+    "high": {
+     "min": 19600,
+     "max": 39200
+    },
+    "derived": true
    }
   },
   {
@@ -3936,6 +4071,25 @@
    "airport": {
     "code": "AGR",
     "km": 13
+   },
+   "stayTiers": {
+    "budget": {
+     "min": 2100,
+     "max": 3200
+    },
+    "mid": {
+     "min": 3200,
+     "max": 4300
+    },
+    "upper": {
+     "min": 4300,
+     "max": 5800
+    },
+    "high": {
+     "min": 5800,
+     "max": 11600
+    },
+    "derived": true
    }
   },
   {
@@ -4299,6 +4453,26 @@
    "airport": {
     "code": "AGR",
     "km": 56
+   },
+   "stayTiers": {
+    "budget": {
+     "min": 2600,
+     "max": 3600
+    },
+    "mid": {
+     "min": 3600,
+     "max": 4500
+    },
+    "upper": {
+     "min": 4500,
+     "max": 5800
+    },
+    "high": {
+     "min": 5800,
+     "max": 11600
+    },
+    "derived": true,
+    "approx": true
    }
   },
   {
@@ -5041,6 +5215,25 @@
    "airport": {
     "code": "IXC",
     "km": 117
+   },
+   "stayTiers": {
+    "budget": {
+     "min": 2800,
+     "max": 4100
+    },
+    "mid": {
+     "min": 4100,
+     "max": 5300
+    },
+    "upper": {
+     "min": 5300,
+     "max": 7000
+    },
+    "high": {
+     "min": 7000,
+     "max": 14000
+    },
+    "derived": true
    }
   },
   {
@@ -5840,6 +6033,25 @@
    "airport": {
     "code": "KUU",
     "km": 49
+   },
+   "stayTiers": {
+    "budget": {
+     "min": 1100,
+     "max": 2700
+    },
+    "mid": {
+     "min": 2700,
+     "max": 4300
+    },
+    "upper": {
+     "min": 4300,
+     "max": 6500
+    },
+    "high": {
+     "min": 6500,
+     "max": 13000
+    },
+    "derived": true
    }
   },
   {
@@ -6440,6 +6652,25 @@
    "airport": {
     "code": "DHM",
     "km": 13
+   },
+   "stayTiers": {
+    "budget": {
+     "min": 1800,
+     "max": 3600
+    },
+    "mid": {
+     "min": 3600,
+     "max": 5300
+    },
+    "upper": {
+     "min": 5300,
+     "max": 7700
+    },
+    "high": {
+     "min": 7700,
+     "max": 15400
+    },
+    "derived": true
    }
   },
   {
@@ -7174,6 +7405,25 @@
    "airport": {
     "code": "DHM",
     "km": 106
+   },
+   "stayTiers": {
+    "budget": {
+     "min": 1700,
+     "max": 3100
+    },
+    "mid": {
+     "min": 3100,
+     "max": 4600
+    },
+    "upper": {
+     "min": 4600,
+     "max": 6500
+    },
+    "high": {
+     "min": 6500,
+     "max": 13000
+    },
+    "derived": true
    }
   },
   {
@@ -7699,6 +7949,25 @@
    "airport": {
     "code": "DED",
     "km": 53
+   },
+   "stayTiers": {
+    "budget": {
+     "min": 1200,
+     "max": 3500
+    },
+    "mid": {
+     "min": 3500,
+     "max": 5900
+    },
+    "upper": {
+     "min": 5900,
+     "max": 9000
+    },
+    "high": {
+     "min": 9000,
+     "max": 18000
+    },
+    "derived": true
    }
   },
   {
@@ -8253,6 +8522,25 @@
    "airport": {
     "code": "DED",
     "km": 22
+   },
+   "stayTiers": {
+    "budget": {
+     "min": 1900,
+     "max": 3800
+    },
+    "mid": {
+     "min": 3800,
+     "max": 5700
+    },
+    "upper": {
+     "min": 5700,
+     "max": 8300
+    },
+    "high": {
+     "min": 8300,
+     "max": 16600
+    },
+    "derived": true
    }
   },
   {
@@ -8737,6 +9025,25 @@
    "airport": {
     "code": "PGH",
     "km": 87
+   },
+   "stayTiers": {
+    "budget": {
+     "min": 3100,
+     "max": 4600
+    },
+    "mid": {
+     "min": 4600,
+     "max": 6000
+    },
+    "upper": {
+     "min": 6000,
+     "max": 8000
+    },
+    "high": {
+     "min": 8000,
+     "max": 16000
+    },
+    "derived": true
    }
   },
   {
@@ -9399,6 +9706,26 @@
    "airport": {
     "code": "PGH",
     "km": 80
+   },
+   "stayTiers": {
+    "budget": {
+     "min": 2600,
+     "max": 3600
+    },
+    "mid": {
+     "min": 3600,
+     "max": 4500
+    },
+    "upper": {
+     "min": 4500,
+     "max": 5800
+    },
+    "high": {
+     "min": 5800,
+     "max": 11600
+    },
+    "derived": true,
+    "approx": true
    }
   },
   {
@@ -9941,6 +10268,25 @@
    "airport": {
     "code": "ATQ",
     "km": 13
+   },
+   "stayTiers": {
+    "budget": {
+     "min": 1900,
+     "max": 3300
+    },
+    "mid": {
+     "min": 3300,
+     "max": 4700
+    },
+    "upper": {
+     "min": 4700,
+     "max": 6500
+    },
+    "high": {
+     "min": 6500,
+     "max": 13000
+    },
+    "derived": true
    }
   },
   {
@@ -10266,6 +10612,26 @@
    "airport": {
     "code": "HSR",
     "km": 183
+   },
+   "stayTiers": {
+    "budget": {
+     "min": 2600,
+     "max": 3600
+    },
+    "mid": {
+     "min": 3600,
+     "max": 4500
+    },
+    "upper": {
+     "min": 4500,
+     "max": 5800
+    },
+    "high": {
+     "min": 5800,
+     "max": 11600
+    },
+    "derived": true,
+    "approx": true
    }
   },
   {
@@ -11009,6 +11375,25 @@
    "airport": {
     "code": "IXL",
     "km": 8
+   },
+   "stayTiers": {
+    "budget": {
+     "min": 2500,
+     "max": 4100
+    },
+    "mid": {
+     "min": 4100,
+     "max": 5700
+    },
+    "upper": {
+     "min": 5700,
+     "max": 7900
+    },
+    "high": {
+     "min": 7900,
+     "max": 15800
+    },
+    "derived": true
    }
   },
   {
@@ -11294,7 +11679,26 @@
      "checked": "2026-11-17",
      "approx": false
     }
-   ]
+   ],
+   "stayTiers": {
+    "budget": {
+     "min": 4200,
+     "max": 5800
+    },
+    "mid": {
+     "min": 5800,
+     "max": 7400
+    },
+    "upper": {
+     "min": 7400,
+     "max": 9500
+    },
+    "high": {
+     "min": 9500,
+     "max": 19000
+    },
+    "derived": true
+   }
   },
   {
    "id": "varanasi",
@@ -11503,6 +11907,26 @@
    "airport": {
     "code": "VNS",
     "km": 25
+   },
+   "stayTiers": {
+    "budget": {
+     "min": 2600,
+     "max": 3600
+    },
+    "mid": {
+     "min": 3600,
+     "max": 4500
+    },
+    "upper": {
+     "min": 4500,
+     "max": 5800
+    },
+    "high": {
+     "min": 5800,
+     "max": 11600
+    },
+    "derived": true,
+    "approx": true
    }
   },
   {
@@ -11750,6 +12174,25 @@
    "airport": {
     "code": "IXB",
     "km": 71
+   },
+   "stayTiers": {
+    "budget": {
+     "min": 2600,
+     "max": 6900
+    },
+    "mid": {
+     "min": 6900,
+     "max": 11200
+    },
+    "upper": {
+     "min": 11200,
+     "max": 17000
+    },
+    "high": {
+     "min": 17000,
+     "max": 34000
+    },
+    "derived": true
    }
   },
   {
@@ -11964,6 +12407,26 @@
    "airport": {
     "code": "CJB",
     "km": 99
+   },
+   "stayTiers": {
+    "budget": {
+     "min": 2600,
+     "max": 3600
+    },
+    "mid": {
+     "min": 3600,
+     "max": 4500
+    },
+    "upper": {
+     "min": 4500,
+     "max": 5800
+    },
+    "high": {
+     "min": 5800,
+     "max": 11600
+    },
+    "derived": true,
+    "approx": true
    }
   },
   {
@@ -12206,6 +12669,25 @@
    "airport": {
     "code": "COK",
     "km": 106
+   },
+   "stayTiers": {
+    "budget": {
+     "min": 1100,
+     "max": 5500
+    },
+    "mid": {
+     "min": 5500,
+     "max": 9800
+    },
+    "upper": {
+     "min": 9800,
+     "max": 15600
+    },
+    "high": {
+     "min": 15600,
+     "max": 31200
+    },
+    "derived": true
    }
   },
   {
@@ -12451,7 +12933,26 @@
      "checked": "2026-11-17",
      "approx": false
     }
-   ]
+   ],
+   "stayTiers": {
+    "budget": {
+     "min": 2800,
+     "max": 5600
+    },
+    "mid": {
+     "min": 5600,
+     "max": 8300
+    },
+    "upper": {
+     "min": 8300,
+     "max": 12000
+    },
+    "high": {
+     "min": 12000,
+     "max": 24000
+    },
+    "derived": true
+   }
   },
   {
    "id": "delhi",
@@ -12697,6 +13198,25 @@
    "airport": {
     "code": "DEL",
     "km": 18
+   },
+   "stayTiers": {
+    "budget": {
+     "min": 2800,
+     "max": 4100
+    },
+    "mid": {
+     "min": 4100,
+     "max": 5400
+    },
+    "upper": {
+     "min": 5400,
+     "max": 7200
+    },
+    "high": {
+     "min": 7200,
+     "max": 14400
+    },
+    "derived": true
    }
   },
   {
@@ -12931,7 +13451,27 @@
      "checked": "2026-11-17",
      "approx": false
     }
-   ]
+   ],
+   "stayTiers": {
+    "budget": {
+     "min": 2600,
+     "max": 3600
+    },
+    "mid": {
+     "min": 3600,
+     "max": 4500
+    },
+    "upper": {
+     "min": 4500,
+     "max": 5800
+    },
+    "high": {
+     "min": 5800,
+     "max": 11600
+    },
+    "derived": true,
+    "approx": true
+   }
   },
   {
    "id": "kolkata",
@@ -13155,6 +13695,25 @@
    "airport": {
     "code": "CCU",
     "km": 15
+   },
+   "stayTiers": {
+    "budget": {
+     "min": 2200,
+     "max": 3200
+    },
+    "mid": {
+     "min": 3200,
+     "max": 4200
+    },
+    "upper": {
+     "min": 4200,
+     "max": 5500
+    },
+    "high": {
+     "min": 5500,
+     "max": 11000
+    },
+    "derived": true
    }
   },
   {
@@ -13381,6 +13940,25 @@
    "airport": {
     "code": "BLR",
     "km": 184
+   },
+   "stayTiers": {
+    "budget": {
+     "min": 2500,
+     "max": 3500
+    },
+    "mid": {
+     "min": 3500,
+     "max": 4500
+    },
+    "upper": {
+     "min": 4500,
+     "max": 5800
+    },
+    "high": {
+     "min": 5800,
+     "max": 11600
+    },
+    "derived": true
    }
   },
   {
@@ -13622,6 +14200,26 @@
    "airport": {
     "code": "HYD",
     "km": 24
+   },
+   "stayTiers": {
+    "budget": {
+     "min": 3500,
+     "max": 4600
+    },
+    "mid": {
+     "min": 4600,
+     "max": 5600
+    },
+    "upper": {
+     "min": 5600,
+     "max": 7000
+    },
+    "high": {
+     "min": 7000,
+     "max": 14000
+    },
+    "derived": true,
+    "approx": true
    }
   },
   {
@@ -13838,7 +14436,27 @@
      "checked": "2026-11-17",
      "approx": false
     }
-   ]
+   ],
+   "stayTiers": {
+    "budget": {
+     "min": 2600,
+     "max": 3600
+    },
+    "mid": {
+     "min": 3600,
+     "max": 4500
+    },
+    "upper": {
+     "min": 4500,
+     "max": 5800
+    },
+    "high": {
+     "min": 5800,
+     "max": 11600
+    },
+    "derived": true,
+    "approx": true
+   }
   },
   {
    "id": "puducherry",
@@ -14064,6 +14682,25 @@
    "airport": {
     "code": "MAA",
     "km": 148
+   },
+   "stayTiers": {
+    "budget": {
+     "min": 4000,
+     "max": 5500
+    },
+    "mid": {
+     "min": 5500,
+     "max": 7000
+    },
+    "upper": {
+     "min": 7000,
+     "max": 9000
+    },
+    "high": {
+     "min": 9000,
+     "max": 18000
+    },
+    "derived": true
    }
   },
   {
@@ -14296,6 +14933,25 @@
    "airport": {
     "code": "HBX",
     "km": 172
+   },
+   "stayTiers": {
+    "budget": {
+     "min": 2700,
+     "max": 5700
+    },
+    "mid": {
+     "min": 5700,
+     "max": 8600
+    },
+    "upper": {
+     "min": 8600,
+     "max": 12600
+    },
+    "high": {
+     "min": 12600,
+     "max": 25200
+    },
+    "derived": true
    }
   },
   {
@@ -14522,6 +15178,25 @@
    "airport": {
     "code": "IXE",
     "km": 141
+   },
+   "stayTiers": {
+    "budget": {
+     "min": 2100,
+     "max": 6400
+    },
+    "mid": {
+     "min": 6400,
+     "max": 10700
+    },
+    "upper": {
+     "min": 10700,
+     "max": 16400
+    },
+    "high": {
+     "min": 16400,
+     "max": 32800
+    },
+    "derived": true
    }
   },
   {
@@ -14747,6 +15422,25 @@
    "airport": {
     "code": "IXM",
     "km": 136
+   },
+   "stayTiers": {
+    "budget": {
+     "min": 3500,
+     "max": 5800
+    },
+    "mid": {
+     "min": 5800,
+     "max": 8100
+    },
+    "upper": {
+     "min": 8100,
+     "max": 11100
+    },
+    "high": {
+     "min": 11100,
+     "max": 22200
+    },
+    "derived": true
    }
   },
   {
@@ -14974,6 +15668,25 @@
    "airport": {
     "code": "IXM",
     "km": 11
+   },
+   "stayTiers": {
+    "budget": {
+     "min": 2300,
+     "max": 3300
+    },
+    "mid": {
+     "min": 3300,
+     "max": 4300
+    },
+    "upper": {
+     "min": 4300,
+     "max": 5700
+    },
+    "high": {
+     "min": 5700,
+     "max": 11400
+    },
+    "derived": true
    }
   },
   {
@@ -15199,6 +15912,25 @@
    "airport": {
     "code": "PNQ",
     "km": 132
+   },
+   "stayTiers": {
+    "budget": {
+     "min": 5200,
+     "max": 6900
+    },
+    "mid": {
+     "min": 6900,
+     "max": 8600
+    },
+    "upper": {
+     "min": 8600,
+     "max": 10900
+    },
+    "high": {
+     "min": 10900,
+     "max": 21800
+    },
+    "derived": true
    }
   },
   {
@@ -15395,6 +16127,26 @@
    "airport": {
     "code": "BHJ",
     "km": 80
+   },
+   "stayTiers": {
+    "budget": {
+     "min": 2600,
+     "max": 3600
+    },
+    "mid": {
+     "min": 3600,
+     "max": 4500
+    },
+    "upper": {
+     "min": 4500,
+     "max": 5800
+    },
+    "high": {
+     "min": 5800,
+     "max": 11600
+    },
+    "derived": true,
+    "approx": true
    }
   },
   {
@@ -15605,6 +16357,26 @@
    "airport": {
     "code": "HJR",
     "km": 3
+   },
+   "stayTiers": {
+    "budget": {
+     "min": 1600,
+     "max": 2100
+    },
+    "mid": {
+     "min": 2100,
+     "max": 2600
+    },
+    "upper": {
+     "min": 2600,
+     "max": 3200
+    },
+    "high": {
+     "min": 3200,
+     "max": 6400
+    },
+    "derived": true,
+    "approx": true
    }
   },
   {
@@ -15867,6 +16639,25 @@
    "airport": {
     "code": "SXR",
     "km": 14
+   },
+   "stayTiers": {
+    "budget": {
+     "min": 2000,
+     "max": 3800
+    },
+    "mid": {
+     "min": 3800,
+     "max": 5600
+    },
+    "upper": {
+     "min": 5600,
+     "max": 8000
+    },
+    "high": {
+     "min": 8000,
+     "max": 16000
+    },
+    "derived": true
    }
   },
   {
@@ -16098,6 +16889,26 @@
    "airport": {
     "code": "KUU",
     "km": 441
+   },
+   "stayTiers": {
+    "budget": {
+     "min": 5200,
+     "max": 6800
+    },
+    "mid": {
+     "min": 6800,
+     "max": 8300
+    },
+    "upper": {
+     "min": 8300,
+     "max": 10400
+    },
+    "high": {
+     "min": 10400,
+     "max": 20800
+    },
+    "derived": true,
+    "approx": true
    }
   },
   {
@@ -16344,6 +17155,25 @@
    "airport": {
     "code": "GAU",
     "km": 121
+   },
+   "stayTiers": {
+    "budget": {
+     "min": 2100,
+     "max": 5300
+    },
+    "mid": {
+     "min": 5300,
+     "max": 8600
+    },
+    "upper": {
+     "min": 8600,
+     "max": 12900
+    },
+    "high": {
+     "min": 12900,
+     "max": 25800
+    },
+    "derived": true
    }
   },
   {
@@ -16585,6 +17415,25 @@
    "airport": {
     "code": "IXB",
     "km": 126
+   },
+   "stayTiers": {
+    "budget": {
+     "min": 1200,
+     "max": 2900
+    },
+    "mid": {
+     "min": 2900,
+     "max": 4500
+    },
+    "upper": {
+     "min": 4500,
+     "max": 6700
+    },
+    "high": {
+     "min": 6700,
+     "max": 13400
+    },
+    "derived": true
    }
   },
   {
@@ -16817,6 +17666,25 @@
    "airport": {
     "code": "BBI",
     "km": 58
+   },
+   "stayTiers": {
+    "budget": {
+     "min": 2000,
+     "max": 3600
+    },
+    "mid": {
+     "min": 3600,
+     "max": 5200
+    },
+    "upper": {
+     "min": 5200,
+     "max": 7300
+    },
+    "high": {
+     "min": 7300,
+     "max": 14600
+    },
+    "derived": true
    }
   },
   {
@@ -17050,7 +17918,26 @@
      "checked": "2026-11-17",
      "approx": true
     }
-   ]
+   ],
+   "stayTiers": {
+    "budget": {
+     "min": 2000,
+     "max": 4600
+    },
+    "mid": {
+     "min": 4600,
+     "max": 7200
+    },
+    "upper": {
+     "min": 7200,
+     "max": 10700
+    },
+    "high": {
+     "min": 10700,
+     "max": 21400
+    },
+    "derived": true
+   }
   },
   {
    "id": "mountabu",
@@ -17243,6 +18130,26 @@
    "airport": {
     "code": "UDR",
     "km": 177
+   },
+   "stayTiers": {
+    "budget": {
+     "min": 2600,
+     "max": 3600
+    },
+    "mid": {
+     "min": 3600,
+     "max": 4500
+    },
+    "upper": {
+     "min": 4500,
+     "max": 5800
+    },
+    "high": {
+     "min": 5800,
+     "max": 11600
+    },
+    "derived": true,
+    "approx": true
    }
   },
   {
@@ -17438,6 +18345,26 @@
    "airport": {
     "code": "JRH",
     "km": 116
+   },
+   "stayTiers": {
+    "budget": {
+     "min": 2300,
+     "max": 3000
+    },
+    "mid": {
+     "min": 3000,
+     "max": 3700
+    },
+    "upper": {
+     "min": 3700,
+     "max": 4600
+    },
+    "high": {
+     "min": 4600,
+     "max": 9200
+    },
+    "derived": true,
+    "approx": true
    }
   },
   {
@@ -17670,6 +18597,25 @@
    "airport": {
     "code": "JAI",
     "km": 148
+   },
+   "stayTiers": {
+    "budget": {
+     "min": 1200,
+     "max": 5700
+    },
+    "mid": {
+     "min": 5700,
+     "max": 10100
+    },
+    "upper": {
+     "min": 10100,
+     "max": 16100
+    },
+    "high": {
+     "min": 16100,
+     "max": 32200
+    },
+    "derived": true
    }
   },
   {
@@ -17882,6 +18828,25 @@
    "airport": {
     "code": "IXJ",
     "km": 49
+   },
+   "stayTiers": {
+    "budget": {
+     "min": 1800,
+     "max": 3000
+    },
+    "mid": {
+     "min": 3000,
+     "max": 4300
+    },
+    "upper": {
+     "min": 4300,
+     "max": 5900
+    },
+    "high": {
+     "min": 5900,
+     "max": 11800
+    },
+    "derived": true
    }
   }
  ],
@@ -18749,6 +19714,78 @@
   "Jaipur": {
    "airport": "JAI",
    "airKm": 13
+  }
+ },
+ "tiers": {
+  "version": 1,
+  "checked": "2026-11-24",
+  "approx": true,
+  "method": "Travel Buddy planning assumptions, not quoted prices. Mid-range food (₹800 veg per adult per day) and tickets (₹500 per adult per day) are the v1.0.0 constants; other levels scale from them. Stay bands per destination are derived from its researched price ranges (see stayTiers). Kids aged 5+ pay kidFood of adult food and kidTicket of tickets and activities; under 5 free. Guides and local transport are per group / per vehicle; own-car fuel and tolls are the same at every level.",
+  "kidFood": 0.6,
+  "kidTicket": 0.5,
+  "carLocalPerDay": 300,
+  "carSeats": 5,
+  "levels": {
+   "budget": {
+    "foodVeg": 500,
+    "foodNonVeg": 650,
+    "tickets": 300,
+    "activities": 200,
+    "guidePerDay": 0,
+    "localPerVehicleDay": 500,
+    "vehicleSeats": 3,
+    "shopping": 200,
+    "snacks": 100,
+    "train": "SL",
+    "bus": "ordinary",
+    "fare": "low",
+    "local": "auto"
+   },
+   "mid": {
+    "foodVeg": 800,
+    "foodNonVeg": 1000,
+    "tickets": 500,
+    "activities": 500,
+    "guidePerDay": 500,
+    "localPerVehicleDay": 1200,
+    "vehicleSeats": 4,
+    "shopping": 400,
+    "snacks": 200,
+    "train": "3A",
+    "bus": "ac",
+    "fare": "mid",
+    "local": "cab"
+   },
+   "upper": {
+    "foodVeg": 1400,
+    "foodNonVeg": 1700,
+    "tickets": 700,
+    "activities": 1200,
+    "guidePerDay": 1200,
+    "localPerVehicleDay": 2500,
+    "vehicleSeats": 4,
+    "shopping": 800,
+    "snacks": 300,
+    "train": "2A",
+    "bus": "volvo",
+    "fare": "high",
+    "local": "sedan"
+   },
+   "high": {
+    "foodVeg": 2500,
+    "foodNonVeg": 3000,
+    "tickets": 1000,
+    "activities": 2500,
+    "guidePerDay": 2500,
+    "localPerVehicleDay": 4000,
+    "vehicleSeats": 6,
+    "shopping": 1500,
+    "snacks": 500,
+    "train": "1A",
+    "bus": "volvo",
+    "fare": "high",
+    "local": "suv"
+   }
   }
  }
 }
