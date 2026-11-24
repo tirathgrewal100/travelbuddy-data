@@ -1,7 +1,7 @@
 {
  "schema_version": 1,
- "data_version": "2026.11.17.3",
- "updated_at": "2026-11-17",
+ "data_version": "2026.11.18.1",
+ "updated_at": "2026-11-18",
  "checkedOn": "Nov 2026",
  "destinations": [
   {
@@ -116,7 +116,9 @@
       "pa": "ਜੈਪੁਰ",
       "hi": "जयपुर"
      },
-     "type": "govt"
+     "type": "govt",
+     "verified": false,
+     "flags": []
     },
     {
      "name": {
@@ -129,7 +131,9 @@
       "pa": "ਜੈਪੁਰ",
       "hi": "जयपुर"
      },
-     "type": "govt"
+     "type": "govt",
+     "verified": false,
+     "flags": []
     },
     {
      "name": {
@@ -142,7 +146,9 @@
       "pa": "ਜੈਪੁਰ",
       "hi": "जयपुर"
      },
-     "type": "govt"
+     "type": "govt",
+     "verified": false,
+     "flags": []
     },
     {
      "name": {
@@ -155,7 +161,9 @@
       "pa": "ਜੈਪੁਰ",
       "hi": "जयपुर"
      },
-     "type": "hotel"
+     "type": "hotel",
+     "verified": false,
+     "flags": []
     },
     {
      "name": {
@@ -168,7 +176,9 @@
       "pa": "ਜੈਪੁਰ",
       "hi": "जयपुर"
      },
-     "type": "hotel"
+     "type": "hotel",
+     "verified": false,
+     "flags": []
     },
     {
      "name": {
@@ -181,7 +191,9 @@
       "pa": "ਜੈਪੁਰ",
       "hi": "जयपुर"
      },
-     "type": "hotel"
+     "type": "hotel",
+     "verified": false,
+     "flags": []
     }
    ],
    "restStops": [
@@ -630,7 +642,9 @@
       "pa": "ਉਦੈਪੁਰ",
       "hi": "उदयपुर"
      },
-     "type": "govt"
+     "type": "govt",
+     "verified": false,
+     "flags": []
     },
     {
      "name": {
@@ -643,7 +657,9 @@
       "pa": "ਉਦੈਪੁਰ",
       "hi": "उदयपुर"
      },
-     "type": "govt"
+     "type": "govt",
+     "verified": false,
+     "flags": []
     },
     {
      "name": {
@@ -656,7 +672,9 @@
       "pa": "ਉਦੈਪੁਰ",
       "hi": "उदयपुर"
      },
-     "type": "homestay"
+     "type": "homestay",
+     "verified": false,
+     "flags": []
     },
     {
      "name": {
@@ -669,7 +687,9 @@
       "pa": "ਉਦੈਪੁਰ",
       "hi": "उदयपुर"
      },
-     "type": "homestay"
+     "type": "homestay",
+     "verified": false,
+     "flags": []
     },
     {
      "name": {
@@ -682,7 +702,9 @@
       "pa": "ਉਦੈਪੁਰ",
       "hi": "उदयपुर"
      },
-     "type": "hotel"
+     "type": "hotel",
+     "verified": false,
+     "flags": []
     },
     {
      "name": {
@@ -695,7 +717,9 @@
       "pa": "ਉਦੈਪੁਰ",
       "hi": "उदयपुर"
      },
-     "type": "hotel"
+     "type": "hotel",
+     "verified": false,
+     "flags": []
     },
     {
      "name": {
@@ -708,7 +732,9 @@
       "pa": "ਉਦੈਪੁਰ",
       "hi": "उदयपुर"
      },
-     "type": "hotel"
+     "type": "hotel",
+     "verified": false,
+     "flags": []
     }
    ],
    "restStops": [
@@ -1284,7 +1310,9 @@
       "pa": "ਜੋਧਪੁਰ",
       "hi": "जोधपुर"
      },
-     "type": "govt"
+     "type": "govt",
+     "verified": false,
+     "flags": []
     },
     {
      "name": {
@@ -1297,7 +1325,9 @@
       "pa": "ਜੋਧਪੁਰ",
       "hi": "जोधपुर"
      },
-     "type": "hotel"
+     "type": "hotel",
+     "verified": false,
+     "flags": []
     },
     {
      "name": {
@@ -1310,7 +1340,9 @@
       "pa": "ਜੋਧਪੁਰ",
       "hi": "जोधपुर"
      },
-     "type": "hotel"
+     "type": "hotel",
+     "verified": false,
+     "flags": []
     },
     {
      "name": {
@@ -1323,7 +1355,9 @@
       "pa": "ਜੋਧਪੁਰ",
       "hi": "जोधपुर"
      },
-     "type": "hotel"
+     "type": "hotel",
+     "verified": false,
+     "flags": []
     }
    ],
    "restStops": [
@@ -1747,7 +1781,9 @@
       "pa": "ਜੈਸਲਮੇਰ",
       "hi": "जैसलमेर"
      },
-     "type": "govt"
+     "type": "govt",
+     "verified": false,
+     "flags": []
     },
     {
      "name": {
@@ -1760,7 +1796,9 @@
       "pa": "ਸਮ ਦੇ ਟਿੱਬੇ, ਜੈਸਲਮੇਰ",
       "hi": "सम के टीले, जैसलमेर"
      },
-     "type": "govt"
+     "type": "govt",
+     "verified": false,
+     "flags": []
     },
     {
      "name": {
@@ -1773,7 +1811,9 @@
       "pa": "ਜੈਸਲਮੇਰ",
       "hi": "जैसलमेर"
      },
-     "type": "hotel"
+     "type": "hotel",
+     "verified": false,
+     "flags": []
     },
     {
      "name": {
@@ -1786,7 +1826,9 @@
       "pa": "ਜੈਸਲਮੇਰ",
       "hi": "जैसलमेर"
      },
-     "type": "hotel"
+     "type": "hotel",
+     "verified": false,
+     "flags": []
     }
    ],
    "restStops": [
@@ -2152,7 +2194,9 @@
       "en": "about 35 km away",
       "pa": "ਲਗਭਗ 35 ਕਿ.ਮੀ. ਦੂਰ",
       "hi": "लगभग 35 कि.मी. दूर"
-     }
+     },
+     "verified": false,
+     "flags": []
     },
     {
      "name": {
@@ -2165,7 +2209,9 @@
       "pa": "ਕੁੰਭਲਗੜ੍ਹ",
       "hi": "कुंभलगढ़"
      },
-     "type": "hotel"
+     "type": "hotel",
+     "verified": false,
+     "flags": []
     },
     {
      "name": {
@@ -2178,7 +2224,9 @@
       "pa": "ਕੁੰਭਲਗੜ੍ਹ",
       "hi": "कुंभलगढ़"
      },
-     "type": "hotel"
+     "type": "hotel",
+     "verified": false,
+     "flags": []
     }
    ],
    "restStops": [
@@ -2696,7 +2744,9 @@
       "pa": "ਜਵਾਈ",
       "hi": "जवाई"
      },
-     "type": "hotel"
+     "type": "hotel",
+     "verified": false,
+     "flags": []
     },
     {
      "name": {
@@ -2709,7 +2759,9 @@
       "pa": "ਬੇਰਾ",
       "hi": "बेरा"
      },
-     "type": "hotel"
+     "type": "hotel",
+     "verified": false,
+     "flags": []
     },
     {
      "name": {
@@ -2722,7 +2774,9 @@
       "pa": "ਬੇਰਾ",
       "hi": "बेरा"
      },
-     "type": "hotel"
+     "type": "hotel",
+     "verified": false,
+     "flags": []
     },
     {
      "name": {
@@ -2740,7 +2794,9 @@
       "en": "in Pali, about 1.5 hours away",
       "pa": "ਪਾਲੀ ਵਿੱਚ, ਲਗਭਗ ਡੇਢ ਘੰਟਾ ਦੂਰ",
       "hi": "पाली में, लगभग डेढ़ घंटा दूर"
-     }
+     },
+     "verified": false,
+     "flags": []
     }
    ],
    "restStops": [
@@ -3185,7 +3241,9 @@
       "pa": "ਸਵਾਈ ਮਾਧੋਪੁਰ",
       "hi": "सवाई माधोपुर"
      },
-     "type": "govt"
+     "type": "govt",
+     "verified": false,
+     "flags": []
     },
     {
      "name": {
@@ -3198,7 +3256,9 @@
       "pa": "ਸਵਾਈ ਮਾਧੋਪੁਰ",
       "hi": "सवाई माधोपुर"
      },
-     "type": "govt"
+     "type": "govt",
+     "verified": false,
+     "flags": []
     },
     {
      "name": {
@@ -3211,7 +3271,9 @@
       "pa": "ਸਵਾਈ ਮਾਧੋਪੁਰ",
       "hi": "सवाई माधोपुर"
      },
-     "type": "hotel"
+     "type": "hotel",
+     "verified": false,
+     "flags": []
     },
     {
      "name": {
@@ -3224,7 +3286,9 @@
       "pa": "ਸਵਾਈ ਮਾਧੋਪੁਰ",
       "hi": "सवाई माधोपुर"
      },
-     "type": "hotel"
+     "type": "hotel",
+     "verified": false,
+     "flags": []
     },
     {
      "name": {
@@ -3237,7 +3301,9 @@
       "pa": "ਸਵਾਈ ਮਾਧੋਪੁਰ",
       "hi": "सवाई माधोपुर"
      },
-     "type": "hotel"
+     "type": "hotel",
+     "verified": false,
+     "flags": []
     }
    ],
    "restStops": [
@@ -3573,7 +3639,9 @@
       "pa": "ਆਗਰਾ",
       "hi": "आगरा"
      },
-     "type": "govt"
+     "type": "govt",
+     "verified": false,
+     "flags": []
     },
     {
      "name": {
@@ -3586,7 +3654,9 @@
       "pa": "ਆਗਰਾ",
       "hi": "आगरा"
      },
-     "type": "hotel"
+     "type": "hotel",
+     "verified": false,
+     "flags": []
     },
     {
      "name": {
@@ -3599,7 +3669,9 @@
       "pa": "ਆਗਰਾ",
       "hi": "आगरा"
      },
-     "type": "hotel"
+     "type": "hotel",
+     "verified": false,
+     "flags": []
     },
     {
      "name": {
@@ -3612,7 +3684,9 @@
       "pa": "ਆਗਰਾ",
       "hi": "आगरा"
      },
-     "type": "hotel"
+     "type": "hotel",
+     "verified": false,
+     "flags": []
     }
    ],
    "restStops": [
@@ -3928,7 +4002,9 @@
       "pa": "ਭਰਤਪੁਰ",
       "hi": "भरतपुर"
      },
-     "type": "govt"
+     "type": "govt",
+     "verified": false,
+     "flags": []
     },
     {
      "name": {
@@ -3941,7 +4017,9 @@
       "pa": "ਕੇਵਲਾਦੇਵ, ਭਰਤਪੁਰ",
       "hi": "केवलादेव, भरतपुर"
      },
-     "type": "govt"
+     "type": "govt",
+     "verified": false,
+     "flags": []
     },
     {
      "name": {
@@ -3954,7 +4032,9 @@
       "pa": "ਭਰਤਪੁਰ",
       "hi": "भरतपुर"
      },
-     "type": "hotel"
+     "type": "hotel",
+     "verified": false,
+     "flags": []
     },
     {
      "name": {
@@ -3967,7 +4047,9 @@
       "pa": "ਭਰਤਪੁਰ",
       "hi": "भरतपुर"
      },
-     "type": "hotel"
+     "type": "hotel",
+     "verified": false,
+     "flags": []
     },
     {
      "name": {
@@ -3980,7 +4062,9 @@
       "pa": "ਭਰਤਪੁਰ",
       "hi": "भरतपुर"
      },
-     "type": "hotel"
+     "type": "hotel",
+     "verified": false,
+     "flags": []
     }
    ],
    "restStops": [
@@ -4314,7 +4398,9 @@
       "pa": "ਸ਼ਿਮਲਾ",
       "hi": "शिमला"
      },
-     "type": "govt"
+     "type": "govt",
+     "verified": false,
+     "flags": []
     },
     {
      "name": {
@@ -4327,7 +4413,9 @@
       "pa": "ਸ਼ਿਮਲਾ",
       "hi": "शिमला"
      },
-     "type": "govt"
+     "type": "govt",
+     "verified": false,
+     "flags": []
     },
     {
      "name": {
@@ -4340,7 +4428,9 @@
       "pa": "ਚੈਲ",
       "hi": "चैल"
      },
-     "type": "govt"
+     "type": "govt",
+     "verified": false,
+     "flags": []
     },
     {
      "name": {
@@ -4353,7 +4443,9 @@
       "pa": "ਸ਼ਿਮਲਾ",
       "hi": "शिमला"
      },
-     "type": "homestay"
+     "type": "homestay",
+     "verified": false,
+     "flags": []
     },
     {
      "name": {
@@ -4366,7 +4458,9 @@
       "pa": "ਸ਼ਿਮਲਾ",
       "hi": "शिमला"
      },
-     "type": "homestay"
+     "type": "homestay",
+     "verified": false,
+     "flags": []
     },
     {
      "name": {
@@ -4379,7 +4473,9 @@
       "pa": "ਸ਼ਿਮਲਾ",
       "hi": "शिमला"
      },
-     "type": "hotel"
+     "type": "hotel",
+     "verified": false,
+     "flags": []
     },
     {
      "name": {
@@ -4392,7 +4488,9 @@
       "pa": "ਸ਼ਿਮਲਾ",
       "hi": "शिमला"
      },
-     "type": "hotel"
+     "type": "hotel",
+     "verified": false,
+     "flags": []
     },
     {
      "name": {
@@ -4405,7 +4503,9 @@
       "pa": "ਸ਼ਿਮਲਾ",
       "hi": "शिमला"
      },
-     "type": "hotel"
+     "type": "hotel",
+     "verified": false,
+     "flags": []
     }
    ],
    "restStops": [
@@ -5056,7 +5156,9 @@
       "pa": "ਮਨਾਲੀ",
       "hi": "मनाली"
      },
-     "type": "govt"
+     "type": "govt",
+     "verified": false,
+     "flags": []
     },
     {
      "name": {
@@ -5069,7 +5171,9 @@
       "pa": "ਮਨਾਲੀ",
       "hi": "मनाली"
      },
-     "type": "govt"
+     "type": "govt",
+     "verified": false,
+     "flags": []
     },
     {
      "name": {
@@ -5082,7 +5186,9 @@
       "pa": "ਮਨਾਲੀ",
       "hi": "मनाली"
      },
-     "type": "govt"
+     "type": "govt",
+     "verified": false,
+     "flags": []
     },
     {
      "name": {
@@ -5095,7 +5201,9 @@
       "pa": "ਬਥਾਰ, ਮਨਾਲੀ",
       "hi": "बथार, मनाली"
      },
-     "type": "homestay"
+     "type": "homestay",
+     "verified": false,
+     "flags": []
     },
     {
      "name": {
@@ -5108,7 +5216,9 @@
       "pa": "ਮਨਾਲੀ",
       "hi": "मनाली"
      },
-     "type": "homestay"
+     "type": "homestay",
+     "verified": false,
+     "flags": []
     },
     {
      "name": {
@@ -5121,7 +5231,9 @@
       "pa": "ਮਨਾਲੀ",
       "hi": "मनाली"
      },
-     "type": "hotel"
+     "type": "hotel",
+     "verified": false,
+     "flags": []
     },
     {
      "name": {
@@ -5134,7 +5246,9 @@
       "pa": "ਮਨਾਲੀ",
       "hi": "मनाली"
      },
-     "type": "hotel"
+     "type": "hotel",
+     "verified": false,
+     "flags": []
     },
     {
      "name": {
@@ -5147,7 +5261,9 @@
       "pa": "ਮਨਾਲੀ",
       "hi": "मनाली"
      },
-     "type": "hotel"
+     "type": "hotel",
+     "verified": false,
+     "flags": []
     }
    ],
    "restStops": [
@@ -5824,7 +5940,9 @@
       "pa": "ਧਰਮਸ਼ਾਲਾ",
       "hi": "धर्मशाला"
      },
-     "type": "govt"
+     "type": "govt",
+     "verified": false,
+     "flags": []
     },
     {
      "name": {
@@ -5837,7 +5955,9 @@
       "pa": "ਮੈਕਲੋਡਗੰਜ",
       "hi": "मैक्लोडगंज"
      },
-     "type": "govt"
+     "type": "govt",
+     "verified": false,
+     "flags": []
     },
     {
      "name": {
@@ -5850,7 +5970,9 @@
       "pa": "ਮੈਕਲੋਡਗੰਜ",
       "hi": "मैक्लोडगंज"
      },
-     "type": "govt"
+     "type": "govt",
+     "verified": false,
+     "flags": []
     },
     {
      "name": {
@@ -5863,7 +5985,9 @@
       "pa": "ਧਰਮਸ਼ਾਲਾ",
       "hi": "धर्मशाला"
      },
-     "type": "hotel"
+     "type": "hotel",
+     "verified": false,
+     "flags": []
     },
     {
      "name": {
@@ -5876,7 +6000,9 @@
       "pa": "ਮੈਕਲੋਡਗੰਜ",
       "hi": "मैक्लोडगंज"
      },
-     "type": "hotel"
+     "type": "hotel",
+     "verified": false,
+     "flags": []
     },
     {
      "name": {
@@ -5889,7 +6015,9 @@
       "pa": "ਮੈਕਲੋਡਗੰਜ",
       "hi": "मैक्लोडगंज"
      },
-     "type": "hotel"
+     "type": "hotel",
+     "verified": false,
+     "flags": []
     }
    ],
    "restStops": [
@@ -6427,7 +6555,9 @@
       "pa": "ਡਲਹੌਜ਼ੀ",
       "hi": "डलहौज़ी"
      },
-     "type": "govt"
+     "type": "govt",
+     "verified": false,
+     "flags": []
     },
     {
      "name": {
@@ -6440,7 +6570,9 @@
       "pa": "ਡਲਹੌਜ਼ੀ",
       "hi": "डलहौज़ी"
      },
-     "type": "govt"
+     "type": "govt",
+     "verified": false,
+     "flags": []
     },
     {
      "name": {
@@ -6453,7 +6585,9 @@
       "pa": "ਖੱਜਿਆਰ",
       "hi": "खज्जियार"
      },
-     "type": "govt"
+     "type": "govt",
+     "verified": false,
+     "flags": []
     },
     {
      "name": {
@@ -6466,7 +6600,9 @@
       "pa": "ਡਲਹੌਜ਼ੀ",
       "hi": "डलहौज़ी"
      },
-     "type": "homestay"
+     "type": "homestay",
+     "verified": false,
+     "flags": []
     },
     {
      "name": {
@@ -6479,7 +6615,9 @@
       "pa": "ਡਲਹੌਜ਼ੀ",
       "hi": "डलहौज़ी"
      },
-     "type": "hotel"
+     "type": "hotel",
+     "verified": false,
+     "flags": []
     },
     {
      "name": {
@@ -6492,7 +6630,9 @@
       "pa": "ਡਲਹੌਜ਼ੀ",
       "hi": "डलहौज़ी"
      },
-     "type": "hotel"
+     "type": "hotel",
+     "verified": false,
+     "flags": []
     }
    ],
    "restStops": [
@@ -7134,7 +7274,9 @@
       "pa": "ਮਸੂਰੀ",
       "hi": "मसूरी"
      },
-     "type": "govt"
+     "type": "govt",
+     "verified": false,
+     "flags": []
     },
     {
      "name": {
@@ -7147,7 +7289,9 @@
       "pa": "ਦੇਹਰਾਦੂਨ",
       "hi": "देहरादून"
      },
-     "type": "govt"
+     "type": "govt",
+     "verified": false,
+     "flags": []
     },
     {
      "name": {
@@ -7160,7 +7304,9 @@
       "pa": "ਮਸੂਰੀ",
       "hi": "मसूरी"
      },
-     "type": "homestay"
+     "type": "homestay",
+     "verified": false,
+     "flags": []
     },
     {
      "name": {
@@ -7173,7 +7319,9 @@
       "pa": "ਮਸੂਰੀ",
       "hi": "मसूरी"
      },
-     "type": "hotel"
+     "type": "hotel",
+     "verified": false,
+     "flags": []
     },
     {
      "name": {
@@ -7186,7 +7334,9 @@
       "pa": "ਮਸੂਰੀ",
       "hi": "मसूरी"
      },
-     "type": "hotel"
+     "type": "hotel",
+     "verified": false,
+     "flags": []
     }
    ],
    "restStops": [
@@ -7664,7 +7814,9 @@
       "pa": "ਰਿਸ਼ੀਕੇਸ਼",
       "hi": "ऋषिकेश"
      },
-     "type": "govt"
+     "type": "govt",
+     "verified": false,
+     "flags": []
     },
     {
      "name": {
@@ -7677,7 +7829,9 @@
       "pa": "ਰਿਸ਼ੀਕੇਸ਼",
       "hi": "ऋषिकेश"
      },
-     "type": "govt"
+     "type": "govt",
+     "verified": false,
+     "flags": []
     },
     {
      "name": {
@@ -7690,7 +7844,9 @@
       "pa": "ਹਰਿਦੁਆਰ",
       "hi": "हरिद्वार"
      },
-     "type": "govt"
+     "type": "govt",
+     "verified": false,
+     "flags": []
     },
     {
      "name": {
@@ -7703,7 +7859,9 @@
       "pa": "ਰਿਸ਼ੀਕੇਸ਼",
       "hi": "ऋषिकेश"
      },
-     "type": "homestay"
+     "type": "homestay",
+     "verified": false,
+     "flags": []
     },
     {
      "name": {
@@ -7716,7 +7874,9 @@
       "pa": "ਰਿਸ਼ੀਕੇਸ਼",
       "hi": "ऋषिकेश"
      },
-     "type": "hotel"
+     "type": "hotel",
+     "verified": false,
+     "flags": []
     },
     {
      "name": {
@@ -7729,7 +7889,9 @@
       "pa": "ਰਿਸ਼ੀਕੇਸ਼",
       "hi": "ऋषिकेश"
      },
-     "type": "hotel"
+     "type": "hotel",
+     "verified": false,
+     "flags": []
     }
    ],
    "restStops": [
@@ -8190,7 +8352,9 @@
       "pa": "ਰਾਮਨਗਰ",
       "hi": "रामनगर"
      },
-     "type": "govt"
+     "type": "govt",
+     "verified": false,
+     "flags": []
     },
     {
      "name": {
@@ -8203,7 +8367,9 @@
       "pa": "ਕਾਰਬੇਟ ਟਾਈਗਰ ਰਿਜ਼ਰਵ",
       "hi": "कॉर्बेट टाइगर रिज़र्व"
      },
-     "type": "govt"
+     "type": "govt",
+     "verified": false,
+     "flags": []
     },
     {
      "name": {
@@ -8216,7 +8382,9 @@
       "pa": "ਰਾਮਨਗਰ",
       "hi": "रामनगर"
      },
-     "type": "homestay"
+     "type": "homestay",
+     "verified": false,
+     "flags": []
     },
     {
      "name": {
@@ -8229,7 +8397,9 @@
       "pa": "ਰਾਮਨਗਰ",
       "hi": "रामनगर"
      },
-     "type": "hotel"
+     "type": "hotel",
+     "verified": false,
+     "flags": []
     },
     {
      "name": {
@@ -8242,7 +8412,9 @@
       "pa": "ਰਾਮਨਗਰ",
       "hi": "रामनगर"
      },
-     "type": "hotel"
+     "type": "hotel",
+     "verified": false,
+     "flags": []
     }
    ],
    "restStops": [
@@ -8631,7 +8803,9 @@
       "pa": "ਨੈਨੀਤਾਲ",
       "hi": "नैनीताल"
      },
-     "type": "govt"
+     "type": "govt",
+     "verified": false,
+     "flags": []
     },
     {
      "name": {
@@ -8644,7 +8818,9 @@
       "pa": "ਨੈਨੀਤਾਲ",
       "hi": "नैनीताल"
      },
-     "type": "govt"
+     "type": "govt",
+     "verified": false,
+     "flags": []
     },
     {
      "name": {
@@ -8657,7 +8833,9 @@
       "pa": "ਨੈਨੀਤਾਲ",
       "hi": "नैनीताल"
      },
-     "type": "hotel"
+     "type": "hotel",
+     "verified": false,
+     "flags": []
     },
     {
      "name": {
@@ -8670,7 +8848,9 @@
       "pa": "ਨੈਨੀਤਾਲ",
       "hi": "नैनीताल"
      },
-     "type": "hotel"
+     "type": "hotel",
+     "verified": false,
+     "flags": []
     },
     {
      "name": {
@@ -8683,7 +8863,9 @@
       "pa": "ਨੈਨੀਤਾਲ",
       "hi": "नैनीताल"
      },
-     "type": "hotel"
+     "type": "hotel",
+     "verified": false,
+     "flags": []
     }
    ],
    "restStops": [
@@ -9316,7 +9498,9 @@
       "pa": "ਅੰਮ੍ਰਿਤਸਰ",
       "hi": "अमृतसर"
      },
-     "type": "hotel"
+     "type": "hotel",
+     "verified": false,
+     "flags": []
     },
     {
      "name": {
@@ -9329,7 +9513,9 @@
       "pa": "ਅੰਮ੍ਰਿਤਸਰ",
       "hi": "अमृतसर"
      },
-     "type": "hotel"
+     "type": "hotel",
+     "verified": false,
+     "flags": []
     },
     {
      "name": {
@@ -9342,7 +9528,9 @@
       "pa": "ਅੰਮ੍ਰਿਤਸਰ",
       "hi": "अमृतसर"
      },
-     "type": "hotel"
+     "type": "hotel",
+     "verified": false,
+     "flags": []
     },
     {
      "name": {
@@ -9355,7 +9543,9 @@
       "pa": "ਅੰਮ੍ਰਿਤਸਰ",
       "hi": "अमृतसर"
      },
-     "type": "hotel"
+     "type": "hotel",
+     "verified": false,
+     "flags": []
     }
    ],
    "restStops": [
@@ -9822,7 +10012,9 @@
       "en": "no online booking – rooms given on arrival",
       "pa": "ਔਨਲਾਈਨ ਬੁਕਿੰਗ ਨਹੀਂ – ਪਹੁੰਚ ਕੇ ਕਮਰਾ ਮਿਲਦਾ ਹੈ",
       "hi": "ऑनलाइन बुकिंग नहीं – पहुँचने पर कमरा मिलता है"
-     }
+     },
+     "verified": false,
+     "flags": []
     },
     {
      "name": {
@@ -9835,7 +10027,9 @@
       "pa": "ਸਾਸਣ ਗਿਰ",
       "hi": "सासण गिर"
      },
-     "type": "hotel"
+     "type": "hotel",
+     "verified": false,
+     "flags": []
     },
     {
      "name": {
@@ -9848,7 +10042,9 @@
       "pa": "ਸਾਸਣ ਗਿਰ",
       "hi": "सासण गिर"
      },
-     "type": "hotel"
+     "type": "hotel",
+     "verified": false,
+     "flags": []
     },
     {
      "name": {
@@ -9861,7 +10057,9 @@
       "pa": "ਸਾਸਣ ਗਿਰ",
       "hi": "सासण गिर"
      },
-     "type": "hotel"
+     "type": "hotel",
+     "verified": false,
+     "flags": []
     }
    ],
    "restStops": [
@@ -10172,7 +10370,9 @@
       "pa": "ਲੇਹ",
       "hi": "लेह"
      },
-     "type": "govt"
+     "type": "govt",
+     "verified": false,
+     "flags": []
     },
     {
      "name": {
@@ -10185,7 +10385,9 @@
       "pa": "ਲੇਹ",
       "hi": "लेह"
      },
-     "type": "hotel"
+     "type": "hotel",
+     "verified": false,
+     "flags": []
     },
     {
      "name": {
@@ -10198,7 +10400,9 @@
       "pa": "ਸਟੋਕ, ਲੇਹ",
       "hi": "स्टोक, लेह"
      },
-     "type": "hotel"
+     "type": "hotel",
+     "verified": false,
+     "flags": []
     },
     {
      "name": {
@@ -10211,7 +10415,9 @@
       "pa": "ਲੇਹ",
       "hi": "लेह"
      },
-     "type": "hotel"
+     "type": "hotel",
+     "verified": false,
+     "flags": []
     }
    ],
    "restStops": [
@@ -10876,7 +11082,9 @@
       "pa": "ਪਣਜੀ",
       "hi": "पणजी"
      },
-     "type": "govt"
+     "type": "govt",
+     "verified": false,
+     "flags": []
     },
     {
      "name": {
@@ -10889,7 +11097,9 @@
       "pa": "ਕੈਂਡੋਲਿਮ",
       "hi": "कैंडोलिम"
      },
-     "type": "hotel"
+     "type": "hotel",
+     "verified": false,
+     "flags": []
     },
     {
      "name": {
@@ -10902,7 +11112,9 @@
       "pa": "ਕਾਵੇਲੋਸਿਮ",
       "hi": "कावेलोसिम"
      },
-     "type": "hotel"
+     "type": "hotel",
+     "verified": false,
+     "flags": []
     },
     {
      "name": {
@@ -10915,7 +11127,9 @@
       "pa": "ਪਣਜੀ",
       "hi": "पणजी"
      },
-     "type": "hotel"
+     "type": "hotel",
+     "verified": false,
+     "flags": []
     }
    ],
    "restStops": [],
@@ -11148,7 +11362,9 @@
       "pa": "ਵਾਰਾਣਸੀ",
       "hi": "वाराणसी"
      },
-     "type": "govt"
+     "type": "govt",
+     "verified": false,
+     "flags": []
     },
     {
      "name": {
@@ -11161,7 +11377,9 @@
       "pa": "ਵਾਰਾਣਸੀ",
       "hi": "वाराणसी"
      },
-     "type": "hotel"
+     "type": "hotel",
+     "verified": false,
+     "flags": []
     },
     {
      "name": {
@@ -11174,7 +11392,9 @@
       "pa": "ਵਾਰਾਣਸੀ",
       "hi": "वाराणसी"
      },
-     "type": "hotel"
+     "type": "hotel",
+     "verified": false,
+     "flags": []
     }
    ],
    "restStops": [],
@@ -11356,7 +11576,9 @@
       "pa": "ਦਾਰਜੀਲਿੰਗ",
       "hi": "दार्जिलिंग"
      },
-     "type": "govt"
+     "type": "govt",
+     "verified": false,
+     "flags": []
     },
     {
      "name": {
@@ -11369,7 +11591,9 @@
       "pa": "ਦਾਰਜੀਲਿੰਗ",
       "hi": "दार्जिलिंग"
      },
-     "type": "hotel"
+     "type": "hotel",
+     "verified": false,
+     "flags": []
     },
     {
      "name": {
@@ -11382,7 +11606,9 @@
       "pa": "ਦਾਰਜੀਲਿੰਗ",
       "hi": "दार्जिलिंग"
      },
-     "type": "hotel"
+     "type": "hotel",
+     "verified": false,
+     "flags": []
     }
    ],
    "restStops": [],
@@ -11597,7 +11823,9 @@
       "pa": "ਊਟੀ",
       "hi": "ऊटी"
      },
-     "type": "govt"
+     "type": "govt",
+     "verified": false,
+     "flags": []
     },
     {
      "name": {
@@ -11610,7 +11838,9 @@
       "pa": "ਊਟੀ",
       "hi": "ऊटी"
      },
-     "type": "hotel"
+     "type": "hotel",
+     "verified": false,
+     "flags": []
     },
     {
      "name": {
@@ -11623,7 +11853,9 @@
       "pa": "ਊਟੀ",
       "hi": "ऊटी"
      },
-     "type": "hotel"
+     "type": "hotel",
+     "verified": false,
+     "flags": []
     }
    ],
    "restStops": [],
@@ -11800,7 +12032,9 @@
       "pa": "ਮੁੰਨਾਰ",
       "hi": "मुन्नार"
      },
-     "type": "govt"
+     "type": "govt",
+     "verified": false,
+     "flags": []
     },
     {
      "name": {
@@ -11813,7 +12047,9 @@
       "pa": "ਮੁੰਨਾਰ",
       "hi": "मुन्नार"
      },
-     "type": "hotel"
+     "type": "hotel",
+     "verified": false,
+     "flags": []
     },
     {
      "name": {
@@ -11826,7 +12062,9 @@
       "pa": "ਮੁੰਨਾਰ",
       "hi": "मुन्नार"
      },
-     "type": "hotel"
+     "type": "hotel",
+     "verified": false,
+     "flags": []
     }
    ],
    "restStops": [],
@@ -12036,7 +12274,9 @@
       "pa": "ਅਲਾਪੁਝਾ",
       "hi": "अलाप्पुझा"
      },
-     "type": "hotel"
+     "type": "hotel",
+     "verified": false,
+     "flags": []
     },
     {
      "name": {
@@ -12049,7 +12289,9 @@
       "pa": "ਅਲਾਪੁਝਾ",
       "hi": "अलाप्पुझा"
      },
-     "type": "hotel"
+     "type": "hotel",
+     "verified": false,
+     "flags": []
     },
     {
      "name": {
@@ -12062,7 +12304,9 @@
       "pa": "ਅਲਾਪੁਝਾ",
       "hi": "अलाप्पुझा"
      },
-     "type": "hotel"
+     "type": "hotel",
+     "verified": false,
+     "flags": []
     }
    ],
    "restStops": [],
@@ -12282,7 +12526,9 @@
       "pa": "ਨਵੀਂ ਦਿੱਲੀ",
       "hi": "नई दिल्ली"
      },
-     "type": "hotel"
+     "type": "hotel",
+     "verified": false,
+     "flags": []
     },
     {
      "name": {
@@ -12295,7 +12541,9 @@
       "pa": "ਨਵੀਂ ਦਿੱਲੀ",
       "hi": "नई दिल्ली"
      },
-     "type": "hotel"
+     "type": "hotel",
+     "verified": false,
+     "flags": []
     }
    ],
    "restStops": [],
@@ -12522,7 +12770,9 @@
       "pa": "ਕੋਲਾਬਾ",
       "hi": "कोलाबा"
      },
-     "type": "hotel"
+     "type": "hotel",
+     "verified": false,
+     "flags": []
     },
     {
      "name": {
@@ -12535,7 +12785,9 @@
       "pa": "ਮੁੰਬਈ",
       "hi": "मुंबई"
      },
-     "type": "hotel"
+     "type": "hotel",
+     "verified": false,
+     "flags": []
     }
    ],
    "restStops": [],
@@ -12747,7 +12999,9 @@
       "pa": "ਕੋਲਕਾਤਾ",
       "hi": "कोलकाता"
      },
-     "type": "hotel"
+     "type": "hotel",
+     "verified": false,
+     "flags": []
     },
     {
      "name": {
@@ -12760,7 +13014,9 @@
       "pa": "ਕੋਲਕਾਤਾ",
       "hi": "कोलकाता"
      },
-     "type": "hotel"
+     "type": "hotel",
+     "verified": false,
+     "flags": []
     }
    ],
    "restStops": [],
@@ -12968,7 +13224,9 @@
       "pa": "ਮੈਸੂਰ",
       "hi": "मैसूर"
      },
-     "type": "hotel"
+     "type": "hotel",
+     "verified": false,
+     "flags": []
     },
     {
      "name": {
@@ -12981,7 +13239,9 @@
       "pa": "ਮੈਸੂਰ",
       "hi": "मैसूर"
      },
-     "type": "hotel"
+     "type": "hotel",
+     "verified": false,
+     "flags": []
     }
    ],
    "restStops": [],
@@ -13189,7 +13449,9 @@
       "pa": "ਹੈਦਰਾਬਾਦ",
       "hi": "हैदराबाद"
      },
-     "type": "hotel"
+     "type": "hotel",
+     "verified": false,
+     "flags": []
     },
     {
      "name": {
@@ -13202,7 +13464,9 @@
       "pa": "ਹੈਦਰਾਬਾਦ",
       "hi": "हैदराबाद"
      },
-     "type": "hotel"
+     "type": "hotel",
+     "verified": false,
+     "flags": []
     }
    ],
    "restStops": [],
@@ -13426,7 +13690,9 @@
       "pa": "ਫ਼ੋਰਟ ਕੋਚੀ",
       "hi": "फ़ोर्ट कोच्चि"
      },
-     "type": "hotel"
+     "type": "hotel",
+     "verified": false,
+     "flags": []
     },
     {
      "name": {
@@ -13439,7 +13705,9 @@
       "pa": "ਬੋਲਗੱਟੀ ਟਾਪੂ",
       "hi": "बोलगट्टी द्वीप"
      },
-     "type": "hotel"
+     "type": "hotel",
+     "verified": false,
+     "flags": []
     }
    ],
    "restStops": [],
@@ -13638,7 +13906,9 @@
       "pa": "ਪੁੱਡੂਚੇਰੀ",
       "hi": "पुदुच्चेरी"
      },
-     "type": "hotel"
+     "type": "hotel",
+     "verified": false,
+     "flags": []
     },
     {
      "name": {
@@ -13651,7 +13921,9 @@
       "pa": "ਪੁੱਡੂਚੇਰੀ",
       "hi": "पुदुच्चेरी"
      },
-     "type": "hotel"
+     "type": "hotel",
+     "verified": false,
+     "flags": []
     }
    ],
    "restStops": [],
@@ -13865,7 +14137,9 @@
       "pa": "ਕਮਲਾਪੁਰਾ",
       "hi": "कमलापुरा"
      },
-     "type": "govt"
+     "type": "govt",
+     "verified": false,
+     "flags": []
     },
     {
      "name": {
@@ -13878,7 +14152,9 @@
       "pa": "ਕਮਲਾਪੁਰਾ",
       "hi": "कमलापुरा"
      },
-     "type": "hotel"
+     "type": "hotel",
+     "verified": false,
+     "flags": []
     }
    ],
    "restStops": [],
@@ -14088,7 +14364,9 @@
       "pa": "ਮਡੀਕੇਰੀ",
       "hi": "मडिकेरी"
      },
-     "type": "hotel"
+     "type": "hotel",
+     "verified": false,
+     "flags": []
     },
     {
      "name": {
@@ -14101,7 +14379,9 @@
       "pa": "ਮਡੀਕੇਰੀ",
       "hi": "मडिकेरी"
      },
-     "type": "hotel"
+     "type": "hotel",
+     "verified": false,
+     "flags": []
     }
    ],
    "restStops": [],
@@ -14310,7 +14590,9 @@
       "pa": "ਕੋਡਾਈਕਨਾਲ",
       "hi": "कोडाइकनाल"
      },
-     "type": "govt"
+     "type": "govt",
+     "verified": false,
+     "flags": []
     },
     {
      "name": {
@@ -14323,7 +14605,9 @@
       "pa": "ਕੋਡਾਈਕਨਾਲ",
       "hi": "कोडाइकनाल"
      },
-     "type": "hotel"
+     "type": "hotel",
+     "verified": false,
+     "flags": []
     }
    ],
    "restStops": [],
@@ -14532,7 +14816,9 @@
       "pa": "ਮਦੁਰਈ",
       "hi": "मदुरै"
      },
-     "type": "hotel"
+     "type": "hotel",
+     "verified": false,
+     "flags": []
     },
     {
      "name": {
@@ -14545,7 +14831,9 @@
       "pa": "ਮਦੁਰਈ",
       "hi": "मदुरै"
      },
-     "type": "hotel"
+     "type": "hotel",
+     "verified": false,
+     "flags": []
     }
    ],
    "restStops": [],
@@ -14755,7 +15043,9 @@
       "pa": "ਮਹਾਬਲੇਸ਼ਵਰ",
       "hi": "महाबलेश्वर"
      },
-     "type": "govt"
+     "type": "govt",
+     "verified": false,
+     "flags": []
     },
     {
      "name": {
@@ -14768,7 +15058,9 @@
       "pa": "ਮਹਾਬਲੇਸ਼ਵਰ",
       "hi": "महाबलेश्वर"
      },
-     "type": "hotel"
+     "type": "hotel",
+     "verified": false,
+     "flags": []
     }
    ],
    "restStops": [],
@@ -14980,7 +15272,9 @@
       "pa": "ਧੋਰਡੋ",
       "hi": "धोरडो"
      },
-     "type": "govt"
+     "type": "govt",
+     "verified": false,
+     "flags": []
     },
     {
      "name": {
@@ -14993,7 +15287,9 @@
       "pa": "ਭੁਜ",
       "hi": "भुज"
      },
-     "type": "hotel"
+     "type": "hotel",
+     "verified": false,
+     "flags": []
     }
    ],
    "restStops": [],
@@ -15167,7 +15463,9 @@
       "pa": "ਖਜੁਰਾਹੋ",
       "hi": "खजुराहो"
      },
-     "type": "govt"
+     "type": "govt",
+     "verified": false,
+     "flags": []
     },
     {
      "name": {
@@ -15180,7 +15478,9 @@
       "pa": "ਖਜੁਰਾਹੋ",
       "hi": "खजुराहो"
      },
-     "type": "hotel"
+     "type": "hotel",
+     "verified": false,
+     "flags": []
     }
    ],
    "restStops": [],
@@ -15380,7 +15680,9 @@
       "pa": "ਸ੍ਰੀਨਗਰ",
       "hi": "श्रीनगर"
      },
-     "type": "homestay"
+     "type": "homestay",
+     "verified": false,
+     "flags": []
     },
     {
      "name": {
@@ -15393,7 +15695,9 @@
       "pa": "ਸ੍ਰੀਨਗਰ",
       "hi": "श्रीनगर"
      },
-     "type": "hotel"
+     "type": "hotel",
+     "verified": false,
+     "flags": []
     },
     {
      "name": {
@@ -15406,7 +15710,9 @@
       "pa": "ਗੁਲਮਰਗ",
       "hi": "गुलमर्ग"
      },
-     "type": "hotel"
+     "type": "hotel",
+     "verified": false,
+     "flags": []
     }
    ],
    "restStops": [],
@@ -15634,7 +15940,9 @@
       "pa": "ਕਿੱਬਰ",
       "hi": "किब्बर"
      },
-     "type": "homestay"
+     "type": "homestay",
+     "verified": false,
+     "flags": []
     },
     {
      "name": {
@@ -15647,7 +15955,9 @@
       "pa": "ਕਾਜ਼ਾ",
       "hi": "काज़ा"
      },
-     "type": "hotel"
+     "type": "hotel",
+     "verified": false,
+     "flags": []
     },
     {
      "name": {
@@ -15660,7 +15970,9 @@
       "pa": "ਕਾਜ਼ਾ",
       "hi": "काज़ा"
      },
-     "type": "hotel"
+     "type": "hotel",
+     "verified": false,
+     "flags": []
     }
    ],
    "restStops": [],
@@ -15859,7 +16171,9 @@
       "pa": "ਉਮੀਅਮ",
       "hi": "उमियम"
      },
-     "type": "hotel"
+     "type": "hotel",
+     "verified": false,
+     "flags": []
     },
     {
      "name": {
@@ -15872,7 +16186,9 @@
       "pa": "ਸ਼ਿਲਾਂਗ",
       "hi": "शिलांग"
      },
-     "type": "hotel"
+     "type": "hotel",
+     "verified": false,
+     "flags": []
     }
    ],
    "restStops": [],
@@ -16096,7 +16412,9 @@
       "pa": "ਗੰਗਟੋਕ",
       "hi": "गंगटोक"
      },
-     "type": "hotel"
+     "type": "hotel",
+     "verified": false,
+     "flags": []
     },
     {
      "name": {
@@ -16109,7 +16427,9 @@
       "pa": "ਗੰਗਟੋਕ",
       "hi": "गंगटोक"
      },
-     "type": "hotel"
+     "type": "hotel",
+     "verified": false,
+     "flags": []
     }
    ],
    "restStops": [],
@@ -16338,7 +16658,9 @@
       "pa": "ਪੁਰੀ",
       "hi": "पुरी"
      },
-     "type": "govt"
+     "type": "govt",
+     "verified": false,
+     "flags": []
     },
     {
      "name": {
@@ -16351,7 +16673,9 @@
       "pa": "ਪੁਰੀ",
       "hi": "पुरी"
      },
-     "type": "hotel"
+     "type": "hotel",
+     "verified": false,
+     "flags": []
     }
    ],
    "restStops": [],
@@ -16566,7 +16890,9 @@
       "pa": "ਹੈਵਲੌਕ (ਸਵਰਾਜ ਦ੍ਵੀਪ)",
       "hi": "हैवलॉक (स्वराज द्वीप)"
      },
-     "type": "hotel"
+     "type": "hotel",
+     "verified": false,
+     "flags": []
     },
     {
      "name": {
@@ -16579,7 +16905,9 @@
       "pa": "ਪੋਰਟ ਬਲੇਅਰ",
       "hi": "पोर्ट ब्लेयर"
      },
-     "type": "hotel"
+     "type": "hotel",
+     "verified": false,
+     "flags": []
     }
    ],
    "restStops": [],
@@ -16790,7 +17118,9 @@
       "pa": "ਮਾਊਂਟ ਆਬੂ",
       "hi": "माउंट आबू"
      },
-     "type": "govt"
+     "type": "govt",
+     "verified": false,
+     "flags": []
     },
     {
      "name": {
@@ -16803,7 +17133,9 @@
       "pa": "ਮਾਊਂਟ ਆਬੂ",
       "hi": "माउंट आबू"
      },
-     "type": "hotel"
+     "type": "hotel",
+     "verified": false,
+     "flags": []
     }
    ],
    "restStops": [],
@@ -16979,7 +17311,9 @@
       "pa": "ਕਾਜ਼ੀਰੰਗਾ",
       "hi": "काज़ीरंगा"
      },
-     "type": "hotel"
+     "type": "hotel",
+     "verified": false,
+     "flags": []
     },
     {
      "name": {
@@ -16992,7 +17326,9 @@
       "pa": "ਕੋਹੋਰਾ",
       "hi": "कोहोरा"
      },
-     "type": "hotel"
+     "type": "hotel",
+     "verified": false,
+     "flags": []
     }
    ],
    "restStops": [],
@@ -17175,7 +17511,9 @@
       "pa": "ਪੁਸ਼ਕਰ",
       "hi": "पुष्कर"
      },
-     "type": "govt"
+     "type": "govt",
+     "verified": false,
+     "flags": []
     },
     {
      "name": {
@@ -17188,7 +17526,9 @@
       "pa": "ਪੁਸ਼ਕਰ",
       "hi": "पुष्कर"
      },
-     "type": "hotel"
+     "type": "hotel",
+     "verified": false,
+     "flags": []
     }
    ],
    "restStops": [],
@@ -17399,7 +17739,9 @@
       "pa": "ਕਟੜਾ",
       "hi": "कटरा"
      },
-     "type": "govt"
+     "type": "govt",
+     "verified": false,
+     "flags": []
     },
     {
      "name": {
@@ -17412,7 +17754,9 @@
       "pa": "ਕਟੜਾ",
       "hi": "कटरा"
      },
-     "type": "hotel"
+     "type": "hotel",
+     "verified": false,
+     "flags": []
     }
    ],
    "restStops": [],
